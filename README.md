@@ -1,5 +1,5 @@
 
-# **Sukupuolidystopia**
+
 Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa, kun kyse on transihmisten terveydenhuollosta
 
 Kattavin raportti Suomen alaikäisten transpolin kauheuksista:
