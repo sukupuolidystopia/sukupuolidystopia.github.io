@@ -2,17 +2,17 @@
 # **Sukupuolidystopia**
 Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa, kun kyse on transihmisten terveydenhuollosta
 
-##  **Näistä saa tuoreinta tietoa ulkomailta, mutta siellä välillä pilkahtaa Suomalainen nimi** ##
-
-[Erin In The Morning](https://www.erininthemorning.com/)  
-[Zinnia Jones](https://zinniajones.medium.com/)  <br> 
-[Assigned Media](https://www.assignedmedia.org/) *(Teen yhteisprojektia Assigned Median Evanin kanssa)*
-
 ##  **Amerikkalainen anti-gender liike, ja sen yhetys Suomeen** ##
  [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
 ](https://www.thestranger.com/queer/2023/04/06/78936831/the-gops-war-on-trans-kids-relies-on-myths-about-a-progressive-europe)  <br> 
  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä.  <br> 
- [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkumuksessal
+ [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkumuksessa
+
+ ##  **Näistä saa tuoreinta tietoa ulkomailta, mutta siellä välillä pilkahtaa Suomalainen nimi** ##
+
+[Erin In The Morning](https://www.erininthemorning.com/)  
+[Zinnia Jones](https://zinniajones.medium.com/)  <br> 
+[Assigned Media](https://www.assignedmedia.org/) *(Teen yhteisprojektia Assigned Median Evanin kanssa)*
  
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa?
 
