@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-# **Documentation**
+# **Sukupuolidystopia**
 > How this project works and how to maintain your own
 
 <div align="center">
@@ -11,15 +11,12 @@ permalink: /
 </div>
 
 
-## About
+## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa?
 
-This project is built around using markdown content to make a website. 
+Niin ovatkin. Mutta niissä maissa ei ole pride-kulkueita, joissa on mukana ryhmä, kuten Suomen Lääkäriliitto, joka palkitsi Riittakerttu Kaltialan tämän vuoden lääkäripäivillä. Hänet palkittiin varmaan, koska on kansainvälisesti vaikutusvaltaisin suomalaisen psykiatri. Valitettavasti tämä vaikutusvalta on käytetty anti-gender aktivismiin, jolle on tuonut lisähuomiota Elon Musk ja J.K. Rowling. Lisäksi hänen törkeä potilaiden kohtelu on <img src="[https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/)" alt="hyvin dokumentoitu">. Joidenkin asiantuntijoiden mukaaan se täytää lapsen seksuaalisen hyväksikäytön tuntomerkit. 
 
-This is great for non-developers to work on. No experience with Ruby, Jekyll, Liquid, HTML or CSS required. Those are all used internally, but you don't need to worry about that.
+Yleisemminkin on harvoja maita, joilla on yhtä progressiivinen maine ulkomailla, kuin Suomella. Siksi se oli hyvin kova shokki muuttaa Suomeen ja saada kuulla, että vaikka minulla on kaikki paperit kunnossa aiemmilta lääkäreiltä, jonojen takia en tule näkemän endokrinologia, joka jatkaisi hormonihoitoa ja ohjaisi laboriatoriotestejä vuoteen. Ei edes laboratoriatestejä, jos minulla ei olisi ollut ulkomaista hoitokontaktia, minut olisi pakotettu detransitioimaan tai hankkimaan hormonit pimeästi, ilman mitään tukea tai valvontaa. Ainoa tapa, jolla translaki on minuun henkilökohtaisesti vaikuttanut on siten, että kaksi lääkäriä on pyytänyt minua vaihtamaan sukupuoken, jotta heidän työ olisi vähemmän hämmentävää, ja tietenkin lakialoitteen aiheuttama keskustelu on lisännyt transvihamielisiä asenteita ihmisissä, jotka kannattavat translakia vastustavia puolueita eie 
 
-This repo is super light. No config needed. You don't need to setup a theme or a layout. GitHub will figure that out and will apply its standard theme to your GitHub Pages site. So will it will have a clean, white, mobile-friendly site with a heading. The limitations are covered more on these pages, such as lack of a navbar. But you can still setup links to pages, as with the Menu below.
-
-The page you are currently viewing is `README.md` in the docs directory, with path set as `/` in the frontmatter. Alternatively, you can add `index.md` or `index.html` as your homepage. I just like how a README.md previews well in GitHub.
 
 
 ## How to use this project
