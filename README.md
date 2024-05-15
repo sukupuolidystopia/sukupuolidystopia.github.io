@@ -1,6 +1,8 @@
-<img src="https://sukupuolidystopia.github.io/images/Kaltiala_hunter.jpg" width="300"/><br>
-
 Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa, kun kyse on transihmisten terveydenhuollosta.
+
+
+<img src="https://sukupuolidystopia.github.io/images/Kaltiala_hunter.jpg" width="300"/><br>
+<sub><sup>[Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub>
 
 **Sisällysluettelo:**
 
