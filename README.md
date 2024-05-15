@@ -49,7 +49,7 @@ On olemassa parempi tapa tehdä asiat, mutta valitettavasti Suomessa on konserva
 
 Yleisemminkin on harvoja maita, joilla on yhtä progressiivinen maine ulkomailla, kuin Suomella. Siksi  minulle oli kova shokki muuttaa Suomeen perheeni kannustettua, kun translakikin meni läpi. Sitten saun kuulla, että vaikka minulla on kaikki paperit kunnossa aiemmilta lääkäreiltä, jonojen takia en tule näkemän endokrinologia, joka jatkaisi hormonihoitoa ja ohjaisi laboriatoriotestejä vuoteen. Ilman ulkomaista hoitokontaktia testosteronihoito olisi lopettu seinään ilman mitään valvontaa. Kuvittele jotain murrosiän tai vaihdevuosien tapaista, mutta niin, että muutos hormoneissa ei tapahdu vähitellen. 
 
-##  Tulossa ##<a id="tulossa"></a>
+##  Tulossa <a id="tulossa"></a>
 Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn materiaalia tutkiessani Suomen transpolitiikkaa, ja sen yhteyksiä kansainväliseen anti-gender liikkeeseen
 
 - lista kymmenistä lakialoitteista ja oikeusjutuista Amerikassa, josssa Suomalaista transpolitiikkaa ja lääkärin polemiikkiä hyödynnetään laajasti erilaisissa anti-gender politiikanteossa
