@@ -17,7 +17,9 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
 
  ### Suomen todellisuudesta  <a id="item-one"></a>
 
-- [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/)  
+- [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/)
+
+Akateemista työtä, usein pdf-muodossa:
 - [”TUNTUU ETTÄ MUT TÄYTYY RIKKOA ENNEN KUIN VOIN SAADA SEN MITÄ TARVITSEN” Medikalisaatio, hidas väkivalta ja siitä selviytyminen transsu-kupuolisten transterveydenhuoltoa käsittelevissä blogikirjoituksissa](https://jyx.jyu.fi/bitstream/handle/123456789/85203/1/URN%3ANBN%3Afi%3Ajyu-202301261494.pdf)
 - [(Dis)advantaged positions in accessing gender-affirming healthcare in Finland: an intersectional qualitative study of foreign-origin transgender people](https://www.researchgate.net/publication/364728987_Disadvantaged_positions_in_accessing_gender-affirming_healthcare_in_Finland_an_intersectional_qualitative_study_of_foreign-origin_transgender_people)
 - [Epätietoista odottelua ja puuttuvaa informaatiota : Sukupuoltaan korjaavien suomalaiseen sukupuolenkorjausprosessiin liittyvät tiedontarpeet ja tietokäytännöt](https://trepo.tuni.fi/bitstream/handle/10024/134565/LehtonenSanna.pdf?sequence=2&isAllowed=y)
@@ -29,15 +31,18 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
   
 ##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys Suomeen <a id="usa"></a>
- [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
-](https://www.thestranger.com/queer/2023/04/06/78936831/the-gops-war-on-trans-kids-relies-on-myths-about-a-progressive-europe)  <br> 
- [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä.  <br> 
- [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkumuksessal
+ - [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
+](https://www.thestranger.com/queer/2023/04/06/78936831/the-gops-war-on-trans-kids-relies-on-myths-about-a-progressive-europe)  <br>
+ - [What’s Going on With Gender-Affirming Care in Europe?](https://www.assignedmedia.org/breaking-news/gender-affirming-care-europe)
+   *"Claims that Norway, Sweden, Finland, and the UK have acted to restrict access to gender-affirming care are the latest misleading tactic in the fight against this necessary treatment."*
+-  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä.  <br> 
+ - [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkimuksessa
+
  
 ##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
 [Erin In The Morning](https://www.erininthemorning.com/)  
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
-[Assigned Media](https://www.assignedmedia.org/) *(Teen yhteisprojektia Assigned Median Evanin kanssa)*
+[Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]*
  
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
 
