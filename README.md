@@ -6,8 +6,8 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
 
 **Sisällysluettelo:**
 
- 1. [Suomen todellisuudesta](#item-one)
- 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys SuomeenFirst Item](#usa)
+ 1. [Suomen todellisuudesta](#item)
+ 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys Suomeen(#usa)
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
  4. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
  5. [Tulossa](#tulossa)
@@ -17,7 +17,7 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
 
 ´
 
- ##  Suomen todellisuudesta  <a id="item-one"></a>
+##  Suomen todellisuudesta <a id="item"></a>
 
 - [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/) 
 - [“Meidän pitää puhua lääkäristä”](https://julmaria.wordpress.com/2019/06/06/meidan-pitaa-puhua-laakarista/) Transihmiset ovat yrittäneet puhua Kaltialasta ainakin vuodesta 2019 saakka.
