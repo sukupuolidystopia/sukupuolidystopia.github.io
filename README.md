@@ -4,15 +4,13 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
 
 **Sisällysluettelo:**
 
- - [Suomen todellisuudesta](#item-one)
-
- - [Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys SuomeenFirst Item](#usa)
-
--  [Tuoreinta tietoa ulkomailta](#ajantasalla)
-
--  [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
-
-
+ 1. [Suomen todellisuudesta](#item-one)
+ 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys SuomeenFirst Item](#usa)
+ 3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 4. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 5. [Tulossa](#tulossa)
+ 6. [Yhteystiedot ja some](#some)
+  
  
 
 ´
@@ -61,8 +59,12 @@ Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn mater
 - transaktivismin ulkopuolella olevan epidemiologin kritiikkiä ROGD:n sosiaalisesta tarttumisesta, sekä yhden Kaltialan tutkimuksen vakavista tilastieteellisistä virheistä
 - asiaa muiden Suomen transtutkimusten etiikasta, metodologian laadusta ja vanhentuneista lähteistä
 - luettelo Suomen transtutkimuksien uutisoinnista oikeistomediassa ja klikkifarmeilla
+- tietoa sukupuoli-identiteetin puutteesta tietosuojalaissa, missä erityisestä suojasta nauttivat esim. seksuaalinen suuntautuminen ja etnisyys.
+- asiaa kaikkien transpolilla käyneiden tietojen käytöstä ideologisesti motivoituneissa tutkimuksissa, ja ohjeetm kuinka GDPR:n avulla voi kieltää käytön
 
+##  Yhteystiedot ja some <a id="some"></a>
 
+Postaan aiheesta instassa @sukupuolidystopia. Minuun saa myös yhteyttä sähköpostitse sukupuolidystopia@proton.me
 
 
 
