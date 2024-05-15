@@ -7,11 +7,12 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
 **Sisällysluettelo:**
 
  1. [Suomen todellisuudesta](#item)
- 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys Suomeen(#usa)
+ 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 4. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 5. [Tulossa](#tulossa)
- 6. [Yhteystiedot ja some](#some)
+ 4. [Kaltiala](#kaltiala)
+ 5. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 6. [Tulossa](#tulossa)
+ 7. [Yhteystiedot ja some](#some)
   
  
 
@@ -46,6 +47,12 @@ hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/100
 [Erin In The Morning](https://www.erininthemorning.com/)  
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
 [Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]*
+
+##  Riittakerttu Kaltiala <a id="kaltiala"></a>
+Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne.
+
+Tämä Tampereen ylipiston professori ja TAYSin muorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa, mutta koska tätä ei näe kuin Pasilan kirjastossa ilman Lääkärilehden tilausta [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen sivu on lääkäriltä, joka on puolesta. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä ökirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
+
  
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
 
