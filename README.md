@@ -17,7 +17,7 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
 
 ´
 
- ## Suomen todellisuudesta  <a id="item-one"></a>
+ ##  Suomen todellisuudesta  <a id="item-one"></a>
 
 - [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/) 
 - [“Meidän pitää puhua lääkäristä”](https://julmaria.wordpress.com/2019/06/06/meidan-pitaa-puhua-laakarista/) Transihmiset ovat yrittäneet puhua Kaltialasta ainakin vuodesta 2019 saakka.
