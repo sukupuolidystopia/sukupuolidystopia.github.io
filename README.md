@@ -2,21 +2,23 @@
 
 Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa, kun kyse on transihmisten terveydenhuollosta
 
-**Table of content:**
+**Sisällysluettelo:**
 
- - [Hello World](#item-one)
+ - [Suomen todellisuudesta](#item-one)
 
- - [First Item](#miten)
+ - [Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys SuomeenFirst Item](#usa)
 
- - [Second Item](#usa)
+-  [Tuoreinta tietoa ulkomailta](#ajantasalla)
+
+-  [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+
 
  
 
- <!-- headings -->
+´
 
- <a id="item-one"></a>
+ ### Suomen todellisuudesta  <a id="item-one"></a>
 
- ### Hello World
 - [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/)  
 - [”TUNTUU ETTÄ MUT TÄYTYY RIKKOA ENNEN KUIN VOIN SAADA SEN MITÄ TARVITSEN” Medikalisaatio, hidas väkivalta ja siitä selviytyminen transsu-kupuolisten transterveydenhuoltoa käsittelevissä blogikirjoituksissa](https://jyx.jyu.fi/bitstream/handle/123456789/85203/1/URN%3ANBN%3Afi%3Ajyu-202301261494.pdf)
 - [(Dis)advantaged positions in accessing gender-affirming healthcare in Finland: an intersectional qualitative study of foreign-origin transgender people](https://www.researchgate.net/publication/364728987_Disadvantaged_positions_in_accessing_gender-affirming_healthcare_in_Finland_an_intersectional_qualitative_study_of_foreign-origin_transgender_people)
@@ -28,18 +30,18 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
   
-##  Amerikkalainen anti-gender liike, ja sen yhetys Suomeen <a id="usa"></a>
+##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys Suomeen <a id="usa"></a>
  [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
 ](https://www.thestranger.com/queer/2023/04/06/78936831/the-gops-war-on-trans-kids-relies-on-myths-about-a-progressive-europe)  <br> 
  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä.  <br> 
  [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkumuksessal
  
-##  Näistä saa tuoreinta tietoa ulkomailta, mutta siellä välillä pilkahtaa Suomalainen nimi <a name="ajantasalla"></a>
+##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
 [Erin In The Morning](https://www.erininthemorning.com/)  
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
 [Assigned Media](https://www.assignedmedia.org/) *(Teen yhteisprojektia Assigned Median Evanin kanssa)*
  
-## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a name="miksi"></a>
+## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
 
 Niin ovatkin. Mutta jos olet Suomessa asuva transihminen, jolla olisi tarvetta lääketieteelliselle transitiolle, vastassa on enemmän anti-gender narratiiveihin kuin tieteeseen nojautuva järjestelmä, jota ei uskalleta kyseenalaistaa ns. transpolien mielivaltaisten päätösteon takia. Samalla kun sateenkaariliput liehuvat ja Suomi antaa itsestään suvaitsevaisen kuvan, meillä on Sukupuoli-identiteetin tutkimuskeskus, jossa ihmiset laitetaan arviointiprosessiläpi, joka on kaukana kansainvälisistä hoitosuosituksista, eikä eri arviointivaiheiden tarpeellisuudelle ole tieteellistä näyttöä. Ja pelkästään tämän prosessin aloittamista joutuu usein odottamaan vuosia. 
 
@@ -47,7 +49,7 @@ On olemassa parempi tapa tehdä asiat, mutta valitettavasti Suomessa on konserva
 
 Yleisemminkin on harvoja maita, joilla on yhtä progressiivinen maine ulkomailla, kuin Suomella. Siksi  minulle oli kova shokki muuttaa Suomeen perheeni kannustettua, kun translakikin meni läpi. Sitten saun kuulla, että vaikka minulla on kaikki paperit kunnossa aiemmilta lääkäreiltä, jonojen takia en tule näkemän endokrinologia, joka jatkaisi hormonihoitoa ja ohjaisi laboriatoriotestejä vuoteen. Ilman ulkomaista hoitokontaktia testosteronihoito olisi lopettu seinään ilman mitään valvontaa. Kuvittele jotain murrosiän tai vaihdevuosien tapaista, mutta niin, että muutos hormoneissa ei tapahdu vähitellen. 
 
-##  Tulossa ##<a name="tulossa"></a>
+##  Tulossa ##<a id="tulossa"></a>
 Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn materiaalia tutkiessani Suomen transpolitiikkaa, ja sen yhteyksiä kansainväliseen anti-gender liikkeeseen
 
 - lista kymmenistä lakialoitteista ja oikeusjutuista Amerikassa, josssa Suomalaista transpolitiikkaa ja lääkärin polemiikkiä hyödynnetään laajasti erilaisissa anti-gender politiikanteossa
