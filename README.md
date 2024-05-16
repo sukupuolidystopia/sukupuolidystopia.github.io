@@ -55,7 +55,7 @@ Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiiv
 Tämä Tampereen ylipiston professori ja TAYSin muorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa, mutta koska tätä ei näe kuin Pasilan kirjastossa ilman Lääkärilehden tilausta [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen sivu on lääkäriltä, joka on puolesta. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä ökirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
 
 ##  Kaltiala ulkomaisessa mediassa <a id="media"></a>
-Tässä vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Australiasta, Puolasta, Portugalista ja Espanjasta_
+Tässä vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Australiasta, Puolasta, Portugalista ja Espanjasta:
 
 - [Gender Identity Doctor Warns Dangerous Kids Sex Changes](https://dailycaller.com/2023/10/31/gender-identity-doctor-dangerous-kids-sex-changes/)
   - Daily Caller on verkkosivusto, joka tarjoaa konservatiivisia uutisia ja mielipiteitä Yhdysvalloista ja maailmalta.
@@ -83,7 +83,7 @@ Tässä vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvall
 - [Something Has Gone Very Wrong - Finnish Psychiatrist Speaks Out Against Trans Mutilation of Kids](https://www.lifesitenews.com/news/something-has-gone-very-wrong-finnish-psychiatrist-speaks-out-against-trans-mutilation-of-kids/)
     - LifeSiteNews on konservatiivinen kristillinen uutissivusto.
 
-- [Dr. Kaltiala - Pionier transsukupuolen hoidossa, tänään taistelija](https://www.oikeamedia.com/o1-209100)
+- [Suomi edelläkävijänä maailmalla transhoitoja vastaan, Riittakerttu Kaltiala puhuu suoraan lasten transsilpomisesta: "Sukupuolta vahvistava hoito on vaarallista"](https://www.oikeamedia.com/o1-209100)
     - Oikea Media on suomalainen laitaoikeiston vaihtoehtomedia.
 
 - [Taxpayer-Funded Trans Procedures Lead Even Pioneers to Say Things Have Gotten Out of Hand](https://washingtonstand.com/news/taxpayerfunded-trans-procedures-lead-even-pioneers-to-say-things-have-gotten-out-of-hand)<br>[The Tooth Fairy and Gender Dysphoria](https://washingtonstand.com/commentary/the-tooth-fairy-and-gender-dysphoria)
