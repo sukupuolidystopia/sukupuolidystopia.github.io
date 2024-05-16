@@ -52,7 +52,7 @@ hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/100
 ##  Riittakerttu Kaltiala <a id="kaltiala"></a>
 Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne.
 
-Tämä Tampereen ylipiston professori ja TAYSin muorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa, mutta koska tätä ei näe kuin Pasilan kirjastossa ilman Lääkärilehden tilausta [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen sivu on lääkäriltä, joka on puolesta. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä ökirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
+Tämä Tampereen ylipiston professori ja TAYSin muorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa, mutta koska tätä ei näe kuin Pasilan kirjastossa ilman Lääkärilehden tilausta [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen aukeama on lääkäriltä, joka on hoitojen puolesta, kun taas Kaltialan vastauksen perusteella eheytyshoito olisi parempi ratkaisu. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä kirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
 
 ##  Kaltiala ulkomaisessa mediassa <a id="media"></a>
 Tässä vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Australiasta, Puolasta, Portugalista ja Espanjasta:
@@ -74,7 +74,7 @@ Tässä vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvall
   [4 out of 5 kids who question gender ‘grow out of it’: Transgender expert](https://nypost.com/2023/02/22/four-out-of-five-kids-who-question-their-gender-grow-out-of-it-trans-expert/)
    - New York Post on yhdysvaltalainen oikeistolainen sanomalehti ja verkkosivusto.
 
-- [Finland Youth Gender Medicine](https://www.tabletmag.com/sections/science/articles/finland-youth-gender-medicine)
+- [Finland Takes Another Look at Youth Gender Medicine](https://www.tabletmag.com/sections/science/articles/finland-youth-gender-medicine)
     - Tablet Magazine on juutalainen kulttuurilehti ja verkkosivusto.
 
 - [Finland's Leading Gender Dysphoria Expert Says 4 Out of 5 Children Grow Out of Gender Confusion](https://www.dailywire.com/news/finlands-leading-gender-dysphoria-expert-says-4-out-of-5-children-grow-out-of-gender-confusion)
