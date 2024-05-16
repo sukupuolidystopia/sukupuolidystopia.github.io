@@ -10,9 +10,10 @@ Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gende
  2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
  4. [Kaltiala](#kaltiala)
- 5. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 6. [Tulossa](#tulossa)
- 7. [Yhteystiedot ja some](#some)
+ 5. [Kaltiala kansainvälisessä oikeistomediassa](#media)
+ 6. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 7. [Tulossa](#tulossa)
+ 8. [Yhteystiedot ja some](#some)
   
  
 
@@ -52,6 +53,70 @@ hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/100
 Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne.
 
 Tämä Tampereen ylipiston professori ja TAYSin muorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa, mutta koska tätä ei näe kuin Pasilan kirjastossa ilman Lääkärilehden tilausta [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen sivu on lääkäriltä, joka on puolesta. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä ökirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
+
+##  Kaltiala ulkomaisessa mediassa <a id="media"></a>
+Tässä vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Australiasta, Puolasta, Portugalista ja Espanjasta_
+
+- [Gender Identity Doctor Warns Dangerous Kids Sex Changes](https://dailycaller.com/2023/10/31/gender-identity-doctor-dangerous-kids-sex-changes/)
+  - Daily Caller on verkkosivusto, joka tarjoaa konservatiivisia uutisia ja mielipiteitä Yhdysvalloista ja maailmalta.
+
+- [Finland's top transgender treatment expert slams spread of 'disinformation' on children with gender confusion - and says 'four out of five' kids who question their gender grow out of it](https://www.dailymail.co.uk/news/article-11780631/America-wildly-step-treatment-children-gender-dysphoria.html)<br>
+ [Finnish psychiatrist who pioneered 'gender-affirming care' but now shuns it slams US policy of pumping kids with hormones, says child DIED after surgery - and believes around a third may end up detransitioning](https://www.dailymail.co.uk/news/article-12689631/Finnish-psychiatrist-gender-hormones-surgery-detransitioning.html)
+   - Daily Mail on brittiläinen oikeistolainen tabloidilehti, joka tarjoaa uutisia ja viihdettä.
+
+- [Top Medic: 'Dangerous Groupthink' on Gender Transition Harming Kids](https://www.christian.org.uk/news/top-medic-dangerous-groupthink-on-gender-transition-harming-kids/)
+   - Christian.org.uk on verkkosivusto, joka tarjoaa uutisia ja näkökulmia kristillisestä näkökulmasta.
+
+- [Doctor Who Pioneered Transgender Treatments for Children Speaks Out](https://www.msn.com/en-us/news/opinion/doctor-who-pioneered-transgender-treatments-for-children-speaks-out/ar-AA1jj1Gf)
+   - MSN on Microsoftin ylläpitämä uutissivusto ja portaali.
+
+- [A Finnish Study Is Changing How We Approach Trans Kids](https://nypost.com/2024/02/24/opinion/a-finnish-study-is-changing-how-we-approach-trans-kids/)<br>
+  [4 out of 5 kids who question gender ‘grow out of it’: Transgender expert](https://nypost.com/2023/02/22/four-out-of-five-kids-who-question-their-gender-grow-out-of-it-trans-expert/)
+   - New York Post on yhdysvaltalainen oikeistolainen sanomalehti ja verkkosivusto.
+
+- [Finland Youth Gender Medicine](https://www.tabletmag.com/sections/science/articles/finland-youth-gender-medicine)
+    - Tablet Magazine on juutalainen kulttuurilehti ja verkkosivusto.
+
+- [Finland's Leading Gender Dysphoria Expert Says 4 Out of 5 Children Grow Out of Gender Confusion](https://www.dailywire.com/news/finlands-leading-gender-dysphoria-expert-says-4-out-of-5-children-grow-out-of-gender-confusion)
+    - Daily Wire on konservatiivinen uutissivusto ja media-alusta.
+
+- [Something Has Gone Very Wrong - Finnish Psychiatrist Speaks Out Against Trans Mutilation of Kids](https://www.lifesitenews.com/news/something-has-gone-very-wrong-finnish-psychiatrist-speaks-out-against-trans-mutilation-of-kids/)
+    - LifeSiteNews on konservatiivinen kristillinen uutissivusto.
+
+- [Dr. Kaltiala - Pionier transsukupuolen hoidossa, tänään taistelija](https://www.oikeamedia.com/o1-209100)
+    - Oikea Media on suomalainen laitaoikeiston vaihtoehtomedia.
+
+- [Taxpayer-Funded Trans Procedures Lead Even Pioneers to Say Things Have Gotten Out of Hand](https://washingtonstand.com/news/taxpayerfunded-trans-procedures-lead-even-pioneers-to-say-things-have-gotten-out-of-hand)<br>[The Tooth Fairy and Gender Dysphoria](https://washingtonstand.com/commentary/the-tooth-fairy-and-gender-dysphoria)
+    - Washington Stand on konservatiivinen uutissivusto ja media-alusta.
+
+- [Once a Gender Pioneer, Now a Fighter Against Gender Reassignment](https://cne.news/article/3850-once-a-gender-pioneer-now-a-fighter-against-gender-reassignment)
+    - CNE News on espanjalainen uutissivusto.
+
+- [O mito do suicídio trans e a política de chantagem](https://familiaconservadora.pt/o-mito-do-suicidio-trans-e-a-politica-de-chantagem/) 
+    - *"Trans-itsemurhien myytti ja kiristyksen politiikka"*. Familia Conservadora on portugalilainen konservatiivinen verkkosivusto.
+
+- [Los países europeos dan marcha atrás en las «reasignaciones de género» en menores](https://gaceta.es/europa/los-paises-europeos-dan-marcha-atras-en-las-reasignaciones-de-genero-en-menores-20230609-1139/)
+    - *"Euroopan maat peruuttavat sukupuolen korjaukset alaikäisille"*. Gaceta on espanjalainen konservatiivinen uutissivusto.
+
+- [A Finnish Psychiatrist's Fight for Safe Treatment for Gender Confused Youth](https://www.nationalreview.com/corner/a-finnish-psychiatrists-fight-for-safe-treatment-for-gender-confused-youth/)
+    - National Review on konservatiivinen amerikkalainen verkkolehti.
+
+- [Acceptance, Not Surgery, Solution to Teen Trans Anxiety](https://www.theaustralian.com.au/commentary/acceptance-not-surgery-solution-to-teen-trans-anxiety/news-story/bb18f1f063419b2d477b90f91e5df5c3)
+    - The Australian on australialainen sanomalehti.
+
+- [Finnish Expert Opposes Transgender Treatments for Children](https://www.binary.org.au/finnish_expert_opposes_transgender_treatments_for_children)<br>
+[Finnish Doctor Reveals the Dangers of Affirmation Pathways](https://www.binary.org.au/finnish_doctor_reveals_the_dangers_of_affirmation_pathways)
+    - Binary on australialainen järjestö, joka edistää perinteistä perhearvoja.
+
+- [Leading Gender Dysphoria Expert Says Majority of Children Outgrow Sex Confusion](https://www.faithwire.com/2023/02/07/leading-gender-dysphoria-expert-says-majority-of-children-outgrow-sex-confusion/)
+    - Faithwire on konservatiivinen kristillinen verkkosivusto.
+
+- [Dr Kaltiala: pionier „tranzycji płciowej”, dziś zagorzały przeciwnik tej procedury](https://opoka.org.pl/News)
+    - *"Tohtori Kaltiala: "sukupuolimuutoksen" edelläkävijä, tänään tämän menettelyn vankkumaton vastustaja"*. Opoka on puolalainen kristillinen uutissivusto.
+
+- [America's Trans Surgeons Could Learn from European Whistleblowers](https://unherd.com/newsroom/americas-trans-surgeons-could-learn-from-european-whistleblowers/)
+    - UnHerd on brittiläinen uutis- ja mielipidesivusto
+
 
  
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
