@@ -1,6 +1,4 @@
-Sure, here is the Markdown code using the URLs directly:
 
-```markdown
 ### Sama artikkeli eri sivustoilla, jotka muistuttavat aika pajon toisiaan:
 
 - <https://freepressers.com/articles/top-doctor-in-field-gender-transition-has-gotten-out-of-hand>
