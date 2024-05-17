@@ -1,5 +1,8 @@
 
-### Sama artikkeli eri sivustoilla, jotka muistuttavat hyvin paljon toisiaan, tarkoitus liness nostaa LifeSiteNews:in artikkelin näkymistä hakukukoneissa. Ja siis sekin vain referoi Kaltialan The Free Press - juttua. 
+### Sama artikkeli eri sivustoilla, jotka muistuttavat hyvin paljon toisiaan, tarkoitus lienee nostaa LifeSiteNews:in artikkelin näkymistä hakukukoneissa. Ja siis sekin vain referoi Kaltialan The Free Press - juttua. 
+
+Wikipedia sanoo tämän LifeSiteNews-sivustosta: "LifeSiteNews is a Canadian Catholic conservative anti-abortion advocacy website and news publication. LifeSiteNews has published misleading information and conspiracy theories, and in 2021, was banned from some social media platforms for spreading COVID-19 misinformation."
+
 *Löysin nämä tutkimalla LifeSiteNews:n artikkeliin linkkaavia sivustoja SEO-tarkoituksiin luotuja backlink checker -palveluja, mutta näin vain osan, koska en maksanut usean sadan kuukausimaksua, jolla näkisi kaikki linkit*:
 
 - <https://freepressers.com/articles/top-doctor-in-field-gender-transition-has-gotten-out-of-hand>
