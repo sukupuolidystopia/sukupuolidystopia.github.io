@@ -1,4 +1,4 @@
-Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa, kun kyse on transihmisten terveydenhuollosta.
+Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa, kun kyse on transihmisten terveydenhuollosta. Sisältää linkkejä avoimesti transfobisille sivuille, joilta löytyy myös artikkeleja ilmastonmuutoksen kyseenalaistamisesta antisemitistsiin salaliittoteorioihin. Sinua on varoitettu. 
 
 
 <img src="https://sukupuolidystopia.github.io/images/Kaltiala_hunter.jpg" width="300"/><br>
