@@ -37,7 +37,7 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
   
-##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhetys Suomeen <a id="usa"></a>
+##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen <a id="usa"></a>
  - [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
 ](https://www.thestranger.com/queer/2023/04/06/78936831/the-gops-war-on-trans-kids-relies-on-myths-about-a-progressive-europe)  <br>
  - [What’s Going on With Gender-Affirming Care in Europe?](https://www.assignedmedia.org/breaking-news/gender-affirming-care-europe)
