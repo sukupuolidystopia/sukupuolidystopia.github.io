@@ -60,8 +60,8 @@ Alla vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvallois
 - [Gender Identity Doctor Warns Dangerous Kids Sex Changes](https://dailycaller.com/2023/10/31/gender-identity-doctor-dangerous-kids-sex-changes/)
   - Daily Caller on verkkosivusto, joka tarjoaa konservatiivisia uutisia ja mielipiteitä Yhdysvalloista ja maailmalta.
 
-- [Finland's top transgender treatment expert slams spread of 'disinformation' on children with gender confusion - and says 'four out of five' kids who question their gender grow out of it](https://www.dailymail.co.uk/news/article-11780631/America-wildly-step-treatment-children-gender-dysphoria.html)<br>
- [Finnish psychiatrist who pioneered 'gender-affirming care' but now shuns it slams US policy of pumping kids with hormones, says child DIED after surgery - and believes around a third may end up detransitioning](https://www.dailymail.co.uk/news/article-12689631/Finnish-psychiatrist-gender-hormones-surgery-detransitioning.html)
+- [-Finland's top transgender treatment expert slams spread of 'disinformation' on children with gender confusion - and says 'four out of five' kids who question their gender grow out of it](https://www.dailymail.co.uk/news/article-11780631/America-wildly-step-treatment-children-gender-dysphoria.html)<br>
+  [-Finnish psychiatrist who pioneered 'gender-affirming care' but now shuns it slams US policy of pumping kids with hormones, says child DIED after surgery - and believes around a third may end up detransitioning](https://www.dailymail.co.uk/news/article-12689631/Finnish-psychiatrist-gender-hormones-surgery-detransitioning.html)
    - Daily Mail on brittiläinen oikeistolainen tabloidilehti, joka tarjoaa uutisia ja viihdettä.
 
 - [Top Medic: 'Dangerous Groupthink' on Gender Transition Harming Kids](https://www.christian.org.uk/news/top-medic-dangerous-groupthink-on-gender-transition-harming-kids/)
@@ -70,8 +70,8 @@ Alla vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvallois
 - [Doctor Who Pioneered Transgender Treatments for Children Speaks Out](https://www.msn.com/en-us/news/opinion/doctor-who-pioneered-transgender-treatments-for-children-speaks-out/ar-AA1jj1Gf)
    - MSN on Microsoftin ylläpitämä uutissivusto ja portaali.
 
-- [A Finnish Study Is Changing How We Approach Trans Kids](https://nypost.com/2024/02/24/opinion/a-finnish-study-is-changing-how-we-approach-trans-kids/)<br>
-  [4 out of 5 kids who question gender ‘grow out of it’: Transgender expert](https://nypost.com/2023/02/22/four-out-of-five-kids-who-question-their-gender-grow-out-of-it-trans-expert/)
+- [-A Finnish Study Is Changing How We Approach Trans Kids](https://nypost.com/2024/02/24/opinion/a-finnish-study-is-changing-how-we-approach-trans-kids/)<br>
+  [-4 out of 5 kids who question gender ‘grow out of it’: Transgender expert](https://nypost.com/2023/02/22/four-out-of-five-kids-who-question-their-gender-grow-out-of-it-trans-expert/)
    - New York Post on yhdysvaltalainen oikeistolainen sanomalehti ja verkkosivusto.
 
 - [Finland Takes Another Look at Youth Gender Medicine](https://www.tabletmag.com/sections/science/articles/finland-youth-gender-medicine)
@@ -86,7 +86,7 @@ Alla vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvallois
 - [Suomi edelläkävijänä maailmalla transhoitoja vastaan, Riittakerttu Kaltiala puhuu suoraan lasten transsilpomisesta: "Sukupuolta vahvistava hoito on vaarallista"](https://www.oikeamedia.com/o1-209100)
     - Oikea Media on suomalainen laitaoikeiston vaihtoehtomedia.
 
-- [Taxpayer-Funded Trans Procedures Lead Even Pioneers to Say Things Have Gotten Out of Hand](https://washingtonstand.com/news/taxpayerfunded-trans-procedures-lead-even-pioneers-to-say-things-have-gotten-out-of-hand)<br>[The Tooth Fairy and Gender Dysphoria](https://washingtonstand.com/commentary/the-tooth-fairy-and-gender-dysphoria)
+- [-Taxpayer-Funded Trans Procedures Lead Even Pioneers to Say Things Have Gotten Out of Hand](https://washingtonstand.com/news/taxpayerfunded-trans-procedures-lead-even-pioneers-to-say-things-have-gotten-out-of-hand)<br>[-The Tooth Fairy and Gender Dysphoria](https://washingtonstand.com/commentary/the-tooth-fairy-and-gender-dysphoria)
     - Washington Stand on konservatiivinen uutissivusto ja media-alusta.
 
 - [Once a Gender Pioneer, Now a Fighter Against Gender Reassignment](https://cne.news/article/3850-once-a-gender-pioneer-now-a-fighter-against-gender-reassignment)
@@ -104,8 +104,8 @@ Alla vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvallois
 - [Acceptance, Not Surgery, Solution to Teen Trans Anxiety](https://www.theaustralian.com.au/commentary/acceptance-not-surgery-solution-to-teen-trans-anxiety/news-story/bb18f1f063419b2d477b90f91e5df5c3)
     - The Australian on australialainen sanomalehti.
 
-- [Finnish Expert Opposes Transgender Treatments for Children](https://www.binary.org.au/finnish_expert_opposes_transgender_treatments_for_children)<br>
-[Finnish Doctor Reveals the Dangers of Affirmation Pathways](https://www.binary.org.au/finnish_doctor_reveals_the_dangers_of_affirmation_pathways)
+- [-Finnish Expert Opposes Transgender Treatments for Children](https://www.binary.org.au/finnish_expert_opposes_transgender_treatments_for_children)<br>
+[-Finnish Doctor Reveals the Dangers of Affirmation Pathways](https://www.binary.org.au/finnish_doctor_reveals_the_dangers_of_affirmation_pathways)
     - Binary on australialainen järjestö, joka edistää perinteistä perhearvoja.
 
 - [Leading Gender Dysphoria Expert Says Majority of Children Outgrow Sex Confusion](https://www.faithwire.com/2023/02/07/leading-gender-dysphoria-expert-says-majority-of-children-outgrow-sex-confusion/)
@@ -117,7 +117,8 @@ Alla vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvallois
 - [America's Trans Surgeons Could Learn from European Whistleblowers](https://unherd.com/newsroom/americas-trans-surgeons-could-learn-from-european-whistleblowers/)
     - UnHerd on brittiläinen uutis- ja mielipidesivusto
 
-
+- [The White House's Specious Gender Manifesto](https://quillette.com/2022/05/13/joe-bidens-faulty-gender-diktat/) *Suomen tiukennetut hoitosuositukset mainitaan sekä siteerataan Kaltialaa oltuaan kuuluisan ns. Gender Critical podcastin vieraana*
+    - Quillette on Australialainen uutis- ja mielipidesivusto, joka kutsuu itsään libertaristiseksi, mutta julkaisee paljon anti-trans materiaalia
  
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
 
