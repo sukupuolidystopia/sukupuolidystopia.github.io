@@ -2,7 +2,7 @@
 <sub><sup>[Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub><br>
 __Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa transihmisten terveydenhuollon suhteen.__
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on tuoda huomioita tälle hälyttävälle ilmiölle, ja vihasisältö on osa ekosysteemiä. Näissä yhteyksissä törmää useasti myösnettihuijauksiin. Kulku omalla vastuulla.❗ <br>
+❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Kulku omalla vastuulla.❗ <br>
 
 
 **Sisällysluettelo:**
