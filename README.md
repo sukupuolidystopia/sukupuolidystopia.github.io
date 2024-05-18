@@ -1,7 +1,6 @@
 __Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa transihmisten terveydenhuollon suhteen.__
 
-❗Sisältää linkkejä avoimesti transfobisille sivuille, ja samat sivustot julkaisevat juttuja esimerkiksi antisemitistisistä salaliitoista kuvituksineen. Tarkoitus on tuoda huomioita tälle hälyttävälle ilmiölle, johon kuuluu myös muuta vihasisältöä❗
-
+❗Sisältää linkkejä avoimesti hyvin transfobisille sivuille, ja samat sivustot julkaisevat materiaalia esim. antisemitistisistä salaliittoteorioista, kuvituksien kera. Tarkoitus on tuoda huomioita tälle hälyttävälle ilmiölle, ja vihasisältö on osa sitä. Ja vihasisällön yhteydessä törmää normaalia useammin nettihuijauksiin.❗ 
 <img src="https://sukupuolidystopia.github.io/images/Kaltiala_hunter.jpg" width="300"/><br>
 <sub><sup>[Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub>
 
