@@ -1,9 +1,7 @@
 
-### Sama artikkeli eri sivustoilla, jotka muistuttavat hyvin paljon toisiaan, tarkoitus lienee nostaa LifeSiteNews:in artikkelin näkymistä hakukukoneissa. Ja siis sekin vain referoi Kaltialan The Free Press - juttua. 
+### Sama artikkeli eri sivustoilla, jotka muistuttavat hyvin paljon toisiaan ja sisältävät myös rokote- ja ilmastonmuutos disinformaatiota 
 
-Wikipedia sanoo tämän LifeSiteNews-sivustosta: "LifeSiteNews is a Canadian Catholic conservative anti-abortion advocacy website and news publication. LifeSiteNews has published misleading information and conspiracy theories, and in 2021, was banned from some social media platforms for spreading COVID-19 misinformation."
-
-*Löysin nämä tutkimalla LifeSiteNews:n artikkeliin linkkaavia sivustoja SEO-tarkoituksiin luotuja backlink checker -palveluja, mutta näin vain osan, koska en maksanut usean sadan kuukausimaksua, jolla näkisi kaikki linkit*:
+Tarkoitus lienee nostaa LifeSiteNews:in artikkelin näkymistä hakukukoneissa. Ja siis sekin vain referoi Kaltialan The Free Press - juttua,  omana lisänä laitaoikeistolta odotettavaa transfobista retoriikkaa. Wikipedia sanoo LifeSiteNews-sivustosta: *"LifeSiteNews is a Canadian Catholic conservative anti-abortion advocacy website and news publication. LifeSiteNews has published misleading information and conspiracy theories, and in 2021, was banned from some social media platforms for spreading COVID-19 misinformation."*
 
 - <https://freepressers.com/articles/top-doctor-in-field-gender-transition-has-gotten-out-of-hand>
 - <https://www.newstarget.com/2023-11-06-transgenderism-young-people-has-gotten-out-of-hand.html>
@@ -25,9 +23,9 @@ Wikipedia sanoo tämän LifeSiteNews-sivustosta: "LifeSiteNews is a Canadian Cat
 - <https://www.identitypolitics.news/2023-11-06-transgenderism-young-people-has-gotten-out-of-hand.html>
 - <https://medicalviolence.com/2023-11-06-transgenderism-young-people-has-gotten-out-of-hand.html>
 
-### Samaa uutista käännetty eri kielille:
-
+### Toinen tapaus äärisivustolta, jossa in sama uutinen käännetty kolmelle eri kielille:
+International Family News kuvailee itseään abortinvastaiseksi, perinteisiä perhearvoja puolustavasksi mediaksi
 - <https://ifamnews.com/en/finland-socialists-prefer-ideology-to-science-and-respect-for-children>
 - <https://ifamnews.com/it/in-finlandia-i-socialsiti-preferiscono-ideologia-alla-scienza-e-al-rispetto-dei-bambini>
 - <https://ifamnews.com/de/finnlands-f-hrende-expertin-f-r-p-diatrische-gender-medizin-gender-transition-ist-zwangsvorstellung>
-```
+- <https://ifamnews.com/es/en-finlandia-los-socialistas-prefieren-la-ideolog-a-a-la-ciencia>
