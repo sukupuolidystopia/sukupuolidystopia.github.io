@@ -1,6 +1,6 @@
 <img src="https://sukupuolidystopia.github.io/images/Kaltiala_hunter.jpg" width="350"/><br>
-<sub><sup>[Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub><br>
-__Koottua tietoa siitä, kuinka Suomesta on annettu tehdä länsimaisen anti-gender liikkeen mallimaa transihmisten terveydenhuollon suhteen.__
+<sub><sup>*Normaalia ja hyväksyttävää yhteistyötä valtion virkamiehen ja vieraan valtion edustajan kanssa.* [Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub><br>
+## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
 ❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Kulku omalla vastuulla.❗ <br>
 
@@ -51,12 +51,12 @@ hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/100
 [Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]*
 
 ##  Riittakerttu Kaltiala <a id="kaltiala"></a>
-Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne.
+Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne. Koska monella on hänestä hyvin maltillinen käsitys valtamediasta, [tästä](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=13573140799537477824&scipsc=1&q=kaltiala&btnG=) voi äkkiä nähdä, kuinka useassa tutkimuksessaan hän on käyttänyt lähteenä [puhdasta anti-trans pseudotiedettä](https://sci-hub.ru/10.1080/00332925.2017.1350804). 
 
-Tämä Tampereen ylipiston professori ja TAYSin muorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa, mutta koska tätä ei näe kuin Pasilan kirjastossa ilman Lääkärilehden tilausta [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen aukeama on lääkäriltä, joka on hoitojen puolesta, kun taas Kaltialan vastauksen perusteella eheytyshoito olisi parempi ratkaisu. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä kirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
+Tämä Tampereen ylipiston professori ja TAYSin nuorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa. Toiselle yleisölle tarkoitettua viestintää näkee [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen aukeama on lääkäriltä, joka on hoitojen puolesta, kun taas Kaltialan vastauksen perusteella eheytyshoito olisi parempi ratkaisu. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä kirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
 
 ##  Kaltiala/Suomi ulkomaisessa oikeistomediassa ja digitaalisessa vaikuttamisessa <a id="media"></a>
-Alla vain pieni otanta enimmäkseen oikeistolaiseista verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Australiasta, Puolasta, Portugalista ja Espanjasta. [Tässä](roskasivut.md) esimerkkejä roskasivuista, jotka ovat vielä yhden tason niiden alapuolelle (enemmän vihapuhetta, enemmän disinformaatiota liittyrn myös esimerkiksi ilmastonmuutokseen ja rokotteisiin):
+Alla vain pieni otanta enimmäkseen oikeistolaisia verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Italiasta, Australiasta, Puolasta, Portugalista ja Espanjasta. [Tässä](roskasivut.md) esimerkkejä roskasivuista, jotka ovat vielä yhden tason niiden alapuolelle (enemmän vihapuhetta, enemmän disinformaatiota liittyen myös esimerkiksi ilmastonmuutokseen ja rokotteisiin). Alullepanija suurimalle osalle näistä on hänen esseensä [‘Gender-Affirming Care Is Dangerous. I Know Because I Helped Pioneer It.’](https://www.thefp.com/p/gender-affirming-care-dangerous-finland-doctor?utm_campaign=post&utm_medium=web):
 
 - [Gender Identity Doctor Warns Dangerous Kids Sex Changes](https://dailycaller.com/2023/10/31/gender-identity-doctor-dangerous-kids-sex-changes/)
   - Daily Caller on verkkosivusto, joka tarjoaa konservatiivisia uutisia ja mielipiteitä Yhdysvalloista ja maailmalta.
