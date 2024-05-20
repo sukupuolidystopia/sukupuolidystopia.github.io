@@ -1,0 +1,26 @@
+##  Suomen hoitosuositukset, Kaltialan tutkimukset tai polemiikit Yhdysvaltain korkeimmassa oikeudessa
+Yhdysvaltain korkein oikeus voi kumota liittovaltion ja osavaltioiden lakeja perustuslain vastaisina, mikä tekee siitä keskeisen toimijan Yhdysvaltain oikeusjärjestelmässä. Alemmilta oikeusasteilta löytyy paljon lisää. Amicus tai Amici curiae on lyhyt on oikeudellinen asiakirja, jonka ulkopuoliset tahot, kuten järjestöt tai asiantuntijat, voivat lähettää tuomioistuimelle. Siinä he tarjoavat lisätietoa ja näkökulmia tapauksesta, vaikka eivät olekaan suoraan osallisina.
+
+[**Vessalaki: Joel D. Doe ym. vastaan Boyertown Area School District ym. (2018)**](https://www.supremecourt.gov/DocketPDF/18/18-658/76790/20181219123208440_18-658%20Amicus%20Brief%20of%20Dr.%20Miriam%20Grossman%20et%20al..pdf)
+
+Ryhmä opiskelijoita haastoi Boyertownin koulupiirin oikeuteen, koska piiri salli transsukupuolisten opiskelijoiden käyttää heidän sukupuoli-identiteettinsä mukaisia pukuhuoneita ja vessoja. Kantajat väittivät, että tämä loukkasi heidän yksityisyyttään ja uskonnollisia vakaumuksiaan. Oikeus päätti koulupiirin hyväksi, todeten, että politiikka oli laillinen ja tuki syrjimättömyyttä.
+- Asiakirja viittaa Kaltialan tutkimuksessa, joka sanoo transsukupuolisten nuorten usein kärsivän psykiatrisista ongelmista, joiden hoidon pitäisi olla ensisijaista. Se on tässä tulkittu tässä tarkoittamaan sukupuoli-identiteetin tunnistamista missään muodossa.
+- Tämän asiakirjan takana on usea henkilö, jolla on yhteyksiä Kaltialaan SEGM-järjestön käutta. Esimerkiksi Andre Von Mol, joka [näiden uskonnollisten julkaisujen mukaan](https://shop.bethel.com/collections/andre-van-mol-md) vastustaa myös aborttia, kantasolututkimusta ja sukupuolineutraalia avioliittoa.
+
+[**Eheytyshoitolaki: Brian Tingley vastaan Washingtonin osavaltio (2023)**](https://www.supremecourt.gov/DocketPDF/22/22-942/265658/20230428141210218_Amicus%20Curiae%20Brief%20of%20Ethics%20and%20Public%20Policy%20Ctr.pdf)
+
+Tämä asiakirja vastustaa Washingtonin osavaltion eheytyshoitokieltoa.
+- Suomen hoitosuosituksiin viitataan osiossa *"Other countries are increasingly aware ofthe unethical nature of gender affirmation"*. Tämä väite ei pidä paikkaansa Suomen hoitosuoksien suhteen, mutta Kaltialan muut kirjoitukset ovat samaa linjaa.
+Asiakijan on laatinut [The Ethics and Public Policy Center (EPPC)](https://en.wikipedia.org/wiki/Ethics_and_Public_Policy_Center), konservatiivinen ajatushautomo ja vaikuttamisryhmä, joka sijaitsee Washington D.C:ssä. Perustettu vuonna 1976, ryhmä kuvaa itseään "omistautuneeksi soveltamaan juutalais-kristillistä moraaliperinnettä keskeisiin julkisen politiikan kysymyksiin" ja ajamaan perustavia periaatteita kuten "rule of law".
+- Toisen, myös Suomen hoitosuosituksiin nojaava [eheytyshoitokieltoa vastustava](https://www.supremecourt.gov/DocketPDF/22/22-942/259917/20230327112233200_2023.03.27%20USSC%20Petition%20for%20Writ%20of%20Certiorari.pdf) asiakirja on Räsäsen keissistä tuttu Alliance defending freedom
+
+[**Syrjintäoikeus: G.& G.R. Harris Funeral Homes,Inc.Petitioner vastaan Equal Employment Opportunity Commission(2019)**](https://www.supremecourt.gov/DocketPDF/18/18-107/113231/20190822134020283_18-107%20Amici%20BOM%20National%20Medical%20and%20Policy%20Groups.pdf)
+
+Asiakirja puolustaa työntekijän oikeutta irtisanoa työntekijä sukupuoli-identiteetin perusteella
+- Viitataan jälkeen Kaltialan löytöihin autimista ja mielenterveysongelmista, tarkoituksena kuvata transsukupuolisuus enemmän mielisairauden oireena ja kyseenalaistaa suojelun tarve sen perusteella..
+
+[**Hoitokielto: Poe v. Labrador(edelleen kesken)**](https://www.supremecourt.gov/DocketPDF/23/23A763/301689/20240228120203697_23A763%20Labrador%20v.%20Poe%20Compiled%20Supp%20Appx.pdf)<br>
+Haastaa Idahon osavaltion lain, joka kieltää laajalti hyväksytyn hoidon, kuten puberteetin estolääkkeet, hormonihoito ja tietyt leikkaukset, jos niitä käytetään transnuorten sukupuolen vahvistamiseen. Laki myös uhkaa lääkintähenkilöstöä, joka tarjoaa tätä vakiintunutta, laajalti hyväksyttyä hoitoa, enintään kymmenen vuoden vankeusrangaistuksella.
+-  Tämä on ote itse  oikeuden käsittelystä viitataan, missä Suomen tiukennetut hoitosuositukset mainitaan 15 kertaa, Kaltiala 12 kertaa, kriminalisaation tueksi
+-  ADF on [myös sekaantunut tähän oikeusprosessin](https://www.supremecourt.gov/DocketPDF/23/23A763/300889/20240220100700247_Poe%20v%20Labrador%20SCOTUS%20Application%20for%20Stay.pdf), viitaten Suomeen ja Kaltialaan
+
