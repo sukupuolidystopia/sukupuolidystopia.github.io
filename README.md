@@ -12,9 +12,10 @@
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
  4. [Kaltiala](#kaltiala)
  5. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 6. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 7. [Tulossa](#tulossa)
- 8. [Yhteystiedot ja some](#some)
+ 6. [Suomi anti-trans argumenteissa korkeimmassa oikeudessa](#scotus)
+ 7. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 8. [Tulossa](#tulossa)
+ 9. [Yhteystiedot ja some](#some)
   
  
 
@@ -35,6 +36,9 @@ Sukupuolidysforiaa kokeneiden ihmisten kokemukset
 terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132230/Va%CC%88yrynenVilma.pdf?sequence=2&isAllowed=y)
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
+
+## Suomen hoitosuositukset ja suomalainen tutkimus anti-trans lakien tukena <a id="scotus"></a>
+Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytyshoidoista työpaikkasyrjintään ja alaikäisten transhoitojen kriminalisointiin](scotus.md). Oikeusjutuilla kestää yleensä päästä korkeimpaamn oikeuteen, joten alemmilla oikeustasoilla on enemmän Kaltialan viime vuosina koventunutta retoriikkaa.
   
 ##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen <a id="usa"></a>
  - [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
