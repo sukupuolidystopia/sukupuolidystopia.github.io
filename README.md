@@ -12,10 +12,11 @@
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
  4. [Mainintoja USA:N korkeimmasta oikeudesta](#scotus)
  5. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 6. [Kaltiala](#kaltiala)
- 7. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 8. [Tulossa](#tulossa)
- 9. [Yhteystiedot ja some](#some)
+ 6. [Eheytyshoidot](#eheys)
+ 7. [Kaltiala](#kaltiala)
+ 8. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 9. [Tulossa](#tulossa)
+ 10. [Yhteystiedot ja some](#some)
   
  
 
@@ -58,6 +59,15 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne. Koska monella on hänestä hyvin maltillinen käsitys valtamediasta, [tästä](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=13573140799537477824&scipsc=1&q=kaltiala&btnG=) voi äkkiä nähdä, kuinka useassa tutkimuksessaan hän on käyttänyt lähteenä [puhdasta anti-trans pseudotiedettä](https://sci-hub.ru/10.1080/00332925.2017.1350804). 
 
 Tämä Tampereen ylipiston professori ja TAYSin nuorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa. Toiselle yleisölle tarkoitettua viestintää näkee [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen aukeama on lääkäriltä, joka on hoitojen puolesta, kun taas Kaltialan vastauksen perusteella eheytyshoito olisi parempi ratkaisu. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Ei ole edes ainoa tätä kantaa edistävä kirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana [Zinnia Jones on seurannut vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
+
+## Eheytyshoidot <a id="eheys"></a>
+<img src="https://sukupuolidystopia.github.io/images/conv_1.png" width="350"/><br>
+<img src="https://sukupuolidystopia.github.io/images/conv_2.png" width="350"/><br>
+<sub><sup> [Lähde](https://www.thetrevorproject.org/wp-content/uploads/2023/05/2023.05.05-Chiles-v.-Salazar-Trevor-Project-AFSP-AAS-Amicus-Brief-010110855630.pdf)</sup></sub><br>
+
+Kaltiala ei ottanut kommenttipyyntöä eheytyshoitokiellon puolesta liittyen [kovin hyvin vastaan](https://www.eduskunta.fi/FI/vaski/JulkaisuMetatieto/Documents/EDK-2023-AK-7499.pdf).  Meinin läpi 12:n transaiheisen tieteellisen artikkelin lähteet, joissa Kaltiala on kirjoittajana, ja laskin viitteet tutkijoihin, jotka kannattavat eheytyshoitoja: Blanchard, Raymond:8; Bradley, Susan:12; Cantor, James:2,  Marchiano, Lisa: 8; Zucker, Kenneth: 22. Suurin osa näistä nimistä löytyy [SPLC:n raportista anti-trans pseudotiedeverkostosta](https://www.splcenter.org/captain/defining-pseudoscience-network), sekä [useassa paikassa täällä](#usa). Suomen hoitosuosituksia ja Kaltialan kirjoituksia käytetään perusteena vastustaa eheytyshoitokieltoja eri osavalltioissa [korkeimpaan oikeuteen asti](#scotus), ja tämä amerikkalaisten lastenlääkärien valtavirrasta eronnut, harjaanjohtavasti nimetty [äärijärjestö](https://en.wikipedia.org/wiki/American_College_of_Pediatricians) puolustaa eheytyshoitoja osain [samanlaisilla sanavalinnoilla](https://acpeds.org/blog/the-scientific-case-for-counseling-choice-for-lgbtq-identified-youth), kuin Kaltialan vastaus. On huomattavaa, että Kaltialalla on enemmän yhteyksiä tähän aborttia ja kaikkia LGBTQIA-oikeuksia vastustavaan, uskonnollista siveyskulttuuria edistävään järjestöön, kuin valtavirran lääketieteellisiin ammattijärjestöihin.
+
+Koulu- ja opiskeluterveydenhuollon aloilla toimivien henkilöiden ammattitaidon ylläpitäjänä itseään kuvaileva Skooppi ry järjesti vuonna 2022 koulutuksen, johon kuului Kaltialan esitys [Nuorten sukupuoli-identiteetti ja sukupuoliahdistus nyt](https://skooppi.fi/koulutus/seminaarien-materiaalit/). [Slaidien](https://skooppi.fi/wp-content/uploads/Kaltiala_handout_Skooppi.pdf), jotka muutenkin voisi käydä läpi yksi kerrallaan disinformaation, puolitotuuksien ja harhaanjohtavien narratiivien takia (esim. data transhoitoihin hakeutuvista pysähtyy pari vuotta ennen, vaikka Kaltialalla on varmasti dataa viime vuosilta, koska kasvu on loppunut tai hidastunut merkittävästi) sivulla 28 on artikkeli Gender Exploratory Therapysta.
 
 ##  Kaltiala/Suomi ulkomaisessa oikeistomediassa ja digitaalisessa vaikuttamisessa <a id="media"></a>
 Alla vain pieni otanta enimmäkseen oikeistolaisia verkkouutisia Yhdysvalloista, Iso-Britanniasta, Suomesta, Italiasta, Australiasta, Puolasta, Portugalista ja Espanjasta. [Tässä](roskasivut.md) esimerkkejä roskasivuista, jotka ovat vielä yhden tason niiden alapuolelle (enemmän vihapuhetta, enemmän disinformaatiota liittyen myös esimerkiksi ilmastonmuutokseen ja rokotteisiin). Alullepanija suurimalle osalle näistä on hänen esseensä [‘Gender-Affirming Care Is Dangerous. I Know Because I Helped Pioneer It.’](https://www.thefp.com/p/gender-affirming-care-dangerous-finland-doctor?utm_campaign=post&utm_medium=web):
