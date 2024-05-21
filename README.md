@@ -10,9 +10,9 @@
  1. [Suomen todellisuudesta](#item)
  2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 4. [Kaltiala](#kaltiala)
+ 4. [Mainintoja USA:N korkeimmasta oikeudesta](#scotus)
  5. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 6. [Suomi anti-trans argumenteissa korkeimmassa oikeudessa](#scotus)
+ 6. [Kaltiala](#kaltiala)
  7. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
  8. [Tulossa](#tulossa)
  9. [Yhteystiedot ja some](#some)
@@ -37,8 +37,8 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
 
-## Suomen hoitosuositukset ja suomalainen tutkimus anti-trans lakien tukena <a id="scotus"></a>
-Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytyshoidoista työpaikkasyrjintään ja alaikäisten transhoitojen kriminalisointiin](scotus.md). Oikeusjutuilla kestää yleensä päästä korkeimpaamn oikeuteen, joten alemmilla oikeustasoilla on enemmän Kaltialan viime vuosina koventunutta retoriikkaa.
+## Maininnat USa:n korkeimmassa oikeudessa.<a id="scotus"></a>
+Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytyshoidoista työpaikkasyrjintään ja alaikäisten transhoitojen kriminalisointiin](scotus.md). Kuluu yleensä päästä korkeimpaan oikeuteen, joten alemmilla oikeustasoilla on enemmän Kaltialan viime vuosina koventunutta retoriikkaa, sekä niiden välillä olevailla oikeusasteilla. Onneksi ei ole kaikissas 50 osavaltiossa, mutta kyllä muutama kymmen taitaa olla. Sitten esim. [ADF on mukana](https://adfmedialegalfiles.blob.core.windows.net/files/StJohnsCountySchoolBoardAmicusBrief.pdf) jossain circuit ourtissa, muttei ennen. What I'm trying to say is that neurtypicals could never.
   
 ##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen <a id="usa"></a>
  - [The GOP’s War on Trans Kids Relies on Myths about a “Progressive” Europe:The Clever Strategy Could Fuel More US Bans
