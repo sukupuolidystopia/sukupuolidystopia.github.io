@@ -10,7 +10,7 @@
  1. [Suomen todellisuudesta](#item)
  2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 4. [Mainintoja USA:N korkeimmasta oikeudesta](#scotus)
+ 4. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
  5. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
  6. [Eheytyshoidot](#eheys)
  7. [Kaltiala](#kaltiala)
@@ -55,7 +55,7 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 ##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
 [Erin In The Morning](https://www.erininthemorning.com/)  
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
-[Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]*
+[Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]* <br>
 [Translash Media](https://translash.org/) Intersektionaalista perspektiiviä korostava, amerikkalaisesta vastaiskusta transoikeuksien edistykseen kertova media. Ja tämä vastaisku ei ole jotain, jonka vaikutukset eivät jo näkyisi Suomessa. Podcasteja, videoita, ja myös iloa. 
 
 ##  Riittakerttu Kaltiala <a id="kaltiala"></a>
