@@ -24,7 +24,7 @@
 
 ##  Suomen todellisuudesta <a id="item"></a>
 
-[Viralliset houtosuositukset](https://palveluvalikoima.fi/dysforia-transsukupuolisuus) eivät ole kovin selkeästi tai helppotajuisesti nimetty, ja edes moni transasioihin erikoistunut ei tietänyt, mistä ne löytyvät. Olisi pitänyt aloittaa lukemalla amerikkalaisia anti-trans poliittisia asiakirjoja, niin useasta niihin linkitetään. 
+[Viralliset houtosuositukset](https://palveluvalikoima.fi/dysforia-transsukupuolisuus) eivät ole kovin selkeästi tai helppotajuisesti nimetty, ja edes moni transasioihin erikoistunut ei tietänyt, mistä ne löytyvät. Olisi pitänyt aloittaa lukemalla amerikkalaisia anti-trans poliittisia asiakirjoja, niin useasta niihin linkitetään. Suosituksista ei löydy lähteitä, "Valmistelumuistio" ja "Liite 2" -tiedostoista löytyy eniten kyseenalaisia lähteitä.
 
 - [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/) 
 - [“Meidän pitää puhua lääkäristä”](https://julmaria.wordpress.com/2019/06/06/meidan-pitaa-puhua-laakarista/) Transihmiset ovat yrittäneet puhua Kaltialasta ainakin vuodesta 2019 saakka.
