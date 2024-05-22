@@ -56,6 +56,7 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 [Erin In The Morning](https://www.erininthemorning.com/)  
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
 [Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]*
+[Translash Media](https://translash.org/) Intersektionaalista perspektiiviä korostava, amerikkalaisesta vastaiskusta transoikeuksien edistykseen kertova media. Ja tämä vastaisku ei ole jotain, jonka vaikutukset eivät jo näkyisi Suomessa. Podcasteja, videoita, ja myös iloa. 
 
 ##  Riittakerttu Kaltiala <a id="kaltiala"></a>
 Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne. Koska monella on hänestä hyvin maltillinen käsitys valtamediasta, [tästä](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=13573140799537477824&scipsc=1&q=kaltiala&btnG=) voi äkkiä nähdä, kuinka useassa tutkimuksessaan hän on käyttänyt lähteenä [puhdasta anti-trans pseudotiedettä](https://sci-hub.ru/10.1080/00332925.2017.1350804). 
