@@ -165,7 +165,7 @@ Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn mater
 
 ##  Yhteystiedot ja some <a id="some"></a>
 
-Olisin todella iloinen, jos kellään, jolla on insitutionaalista tai kulttuurillista vaikutusvaltaa toisi näitä asioita esille. Voisin tarkoja referoituja pointteja, tai puhua aiheesta omalla naamalla/äänelläni. Postaan aiheesta instassa @sukupuolidystopia. Minuun saa myös yhteyttä sähköpostitse sukupuolidystopia@proton.me
+Olisin todella iloinen, jos joku, jolla on mitään insituutionaalista tai kulttuurillista vaikutusvaltaa, tai automattisesti enemmän uskottavuutta olemalla cis, toisi näitä asioita esille. Voisin tarjota referoituja pointteja, tai puhua aiheesta omalla naamalla/äänelläni. Postaan aiheesta instassa @sukupuolidystopia. Minuun saa myös yhteyttä sähköpostitse sukupuolidystopia@proton.me
 
 
 
