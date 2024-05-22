@@ -143,27 +143,26 @@ Niin ovatkin. Mutta jos olet Suomessa asuva transihminen, jolla olisi tarvetta l
 
 On olemassa parempi tapa tehdä asiat, mutta valitettavasti Suomessa on konservatiivinen lääkärikulttuuri, ja vähillä resursseilla pyörivät transpolit, jossa yksittäisellä henkilöllä voi olla kohtuuton määrä vaikutusvaltaa. Tämä vaikutusvalta on päätynyt riittakerttu Kaltialalle, vaikka ennen nimitystä vastuuseen nuorten transhoidoista, hän vastusti ideaa kahdella kirjoutuksella Lääkärilehdessä, joista toisen otsikko on [Pelastakaa edes lapset](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf). Ei ole lioiteltua sanoa hänyä kansainvälisesti vaikutusvaltaisimmaksi suomalaiseksi lääkäriksi, kun ottaa huomiion lakialoitteet, jotka viittaavat hänen kirjoutuksiin, sekä hänen suora osallistuminen transihmisten oikeuksien rajouttamiseen tai siihen pyrkimiseen Yhdysvalloissa ja Briteissä yhdessä SEGM-bulvaanijärjestön kanssa. Lisäksi hän on tehnyt valtavati mediaesiintymisiä, joille  on tuonut lisähuomiota Elon Musk ja J.K. Rowling. Oikeistomediat kuten Daily Caller, Daily Wire, National Review, New York Post, Daily Mail ja Suomessa Oikea Media ovat ylistäneet hänen rohkeutta nousta gender-ideologiaa vastaan.
 
-Yleisemminkin on harvoja maita, joilla on yhtä progressiivinen maine ulkomailla, kuin Suomella. Siksi  minulle oli kova shokki muuttaa Suomeen perheeni kannustettua, kun translakikin meni läpi. Sitten saun kuulla, että vaikka minulla on kaikki paperit kunnossa aiemmilta lääkäreiltä, jonojen takia en tule näkemän endokrinologia, joka jatkaisi hormonihoitoa ja ohjaisi laboriatoriotestejä vuoteen. Ilman ulkomaista hoitokontaktia testosteronihoito olisi lopettu seinään ilman mitään valvontaa. Kuvittele jotain murrosiän tai vaihdevuosien tapaista, mutta niin, että muutos hormoneissa ei tapahdu vähitellen. 
+Yleisemminkin on harvoja maita, joilla on yhtä progressiivinen maine ulkomailla, kuin Suomella. Siksi  minulle oli kova shokki muuttaa Suomeen perheeni kannustettua, kun translakikin meni läpi. Sitten saun kuulla, että vaikka minulla on kaikki paperit kunnossa aiemmilta lääkäreiltä, jonojen takia en tule näkemän endokrinologia, joka jatkaisi hormonihoitoa ja ohjaisi laboriatoriotestejä vuoteen. Ilman ulkomaista hoitokontaktia testosteronihoito olisi lopettu seinään ilman mitään valvontaa. Kuvittele jotain murrosiän tai vaihdevuosien tapaista, mutta niin, että muutos hormoneissa ei tapahdu vähitellen. Jos paperit eivät olisi kunnossa, olisi lukuisan vuoden jono aloittaa suomalainen prosessi alusta. Ja siis "parerit eivät ole kunnossa", on totta myös, jos aiempi arvioitiprosessi on Suomen systeemiä modernimpi. Minkä viestin tästä voi saada, kuin että transsukupuolisten terveys on toissijaista byrokratialla, jonka on tarkoitus minimoida transhoitojen saatavuus. 
 
-Mutta en tee tätä oman kokemukseni takia, vaam siksi, että monella on ollut vielä pahempi, ja tulee olemaan yhä useammalle, jos saman menon annetaan jatkua. Ja vaikka transasiat ei kiinnostaisi, Suomen transtiede tekee Suomen yliopistot naurunalaiseksi, kun pienikin määrä ulkomaista tunnistusta yhdistettynä hierarkiaan ja olemassoleviin ennakkoluuloihin riittää siihen, että hyvä metodologia tai lähdekritiikki saavat lentää ulos ikkunasta.
+Mutta en tee tätä oman kokemukseni takia. Päinvastoin, koska olen välttänyt Suomen prosessin kokonaisuudessaan, "sua ne ei ole pystynyt kuluttamaan loppuun". Monella on huonompi kokemus, ja useammalla tulee olemaan yhä huonompi, jos saman menon annetaan jatkua. Ja vaikka transasiat ei kiinnostaisi, Suomen transtiede tekee Suomen yliopistot naurunalaiseksi, kun pienikin määrä ulkomaista tunnistusta yhdistettynä hierarkiaan ja olemassoleviin ennakkoluuloihin riittää siihen, että hyvä metodologia tai lähdekritiikki saavat lentää ulos ikkunasta. Ja opetus- sekä sosiaali- ja terveysministeriöt rahoittavat tätä kaikkea.
+
 ##  Tulossa <a id="tulossa"></a>
 Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn materiaalia tutkiessani Suomen transpolitiikkaa, ja sen yhteyksiä kansainväliseen anti-gender liikkeeseen
 
 - lista kymmenistä lakialoitteista ja oikeusjutuista Amerikassa, josssa Suomalaista transpolitiikkaa ja lääkärin polemiikkiä hyödynnetään laajasti erilaisissa anti-gender politiikanteossa
 - tietoa SEGM-järjestöstä, sen rahoituksesta, ja kuinka ylilääkäri Kaltialasta paljastui Floridan kuvernöörin anti-trans asiamiehen kirjekaveri
-- tietoa kouluterveydenhuollon ammattilaisille tarjotusta koulutuksesta, joka sisältää valtavasti anti-gender disinformaatiota, ja eheytyshoidon suosittelua
 - selitystä siitä, miksi eheytyshoitoja nykyään kutsutaan huonon maineen takia, ja kuinka tätä uutta versiota esitävät ovat osittain samaa porukkaa, kuin SEGM-järjestö.
 - näyttöä siitä, kuinka Duodecim poisti ASD ja Sukupuolidysforia hoitosuosituksista hyvin laadukkaan tieteellisen lähteen, koska se ei sopinut kirjoittajien maailmankuvaan
 - selitystä ROGD-teorian synnystä, ja amerikkalaisten kristilliskonservatiivien ja britti-TERFfien pitkäaikaisesta yhteistyö, jonka tuloksena se syntyi
 - transaktivismin ulkopuolella olevan epidemiologin kritiikkiä ROGD:n sosiaalisesta tarttumisesta, sekä yhden Kaltialan tutkimuksen vakavista tilastieteellisistä virheistä
 - asiaa muiden Suomen transtutkimusten etiikasta, metodologian laadusta ja vanhentuneista lähteistä
-- luettelo Suomen transtutkimuksien uutisoinnista oikeistomediassa ja klikkifarmeilla
 - tietoa sukupuoli-identiteetin puutteesta tietosuojalaissa, missä erityisestä suojasta nauttivat esim. seksuaalinen suuntautuminen ja etnisyys.
 - asiaa kaikkien transpolilla käyneiden tietojen käytöstä ideologisesti motivoituneissa tutkimuksissa, ja ohjeetm kuinka GDPR:n avulla voi kieltää käytön
 
 ##  Yhteystiedot ja some <a id="some"></a>
 
-Postaan aiheesta instassa @sukupuolidystopia. Minuun saa myös yhteyttä sähköpostitse sukupuolidystopia@proton.me
+Olisin todella iloinen, jos kellään, jolla on insitutionaalista tai kulttuurillista vaikutusvaltaa toisi näitä asioita esille. Voisin tarkoja referoituja pointteja, tai puhua aiheesta omalla naamalla/äänelläni. Postaan aiheesta instassa @sukupuolidystopia. Minuun saa myös yhteyttä sähköpostitse sukupuolidystopia@proton.me
 
 
 
