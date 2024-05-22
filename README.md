@@ -8,15 +8,16 @@
 **Sisällysluettelo:**
 
  1. [Suomen todellisuudesta](#item)
- 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 3. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 4. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
- 5. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 6. [Eheytyshoidot](#eheys)
- 7. [Kaltiala](#kaltiala)
- 8. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 9. [Tulossa](#tulossa)
- 10. [Yhteystiedot ja some](#some)
+ 2. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
+ 4. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
+ 5. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 6. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
+ 7. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 8. [Eheytyshoidot](#eheys)
+ 9. [Kaltiala](#kaltiala)
+ 10. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 11. [Tulossa](#tulossa)
+ 12. [Yhteystiedot ja some](#some)
   
  
 
@@ -39,6 +40,20 @@ Sukupuolidysforiaa kokeneiden ihmisten kokemukset
 terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132230/Va%CC%88yrynenVilma.pdf?sequence=2&isAllowed=y)
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
+
+## Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle<a id="duo"></a>
+Ettei kukaan saa väärää käsitystä ja luulee, että Kaltiala on kaiken tämän takana; Ennen huhtikuun 20. päivää [nämä](https://web.archive.org/web/20240420183451/https://www.kaypahoito.fi/nix03202) olivat Duodecimin Autismikirjon häiriö ja sukupuolidysforia -suositukset. Seitsemännen lähteen väitettiin tukevan varsin kummallista lausetta, joten tarkistin lähteen. Suosituksissa lukee:
+
+*"Tutkimuksissa arvioidaan, johtuuko esimerkiksi ulkopuolisuuden tunne ASD:stä vai GD:stä, sillä molemmat voivat tätä aiheuttaa."*
+ 
+Lähde oli "The Lancet Commission on the future of care and clinical research in autism", yhden maailman arvostetuimman lääketieteellisen julkaisun tekemä tuore raportti, joka perustuu useampaan lähteeseen, kuin kaikki muu suositusten kirjallisuus yhteensä. Relevantti kohta sanoo:
+
+ *"There is also an elevated prevalence of gender dysphoria (the term used in the DSM-5; it is called gender incongruence in the ICD-11) in autistic individuals. Recognition of possible autism in  this clinical population is important because it would indicate the need to tailor interventions that can be used to ameliorate potential resulting distress and self-harm or neglect, as well as potential medical interventions such as puberty suppression and cross-sex hormone intervention. __Clinicians and parents can sometimes dismiss gender dysphoria as an autistic trait__; an unusual or over-focused interest. Conversely, autism might be under-recognised in  an adolescent if their social difficulties are ascribed to gender dysphoria __in isolation__ instead of with other potential signs and symptoms of autism."* [korostus minun]
+
+Koska halusin varmistaa, ettei oma confirmation bias vääristänyt ymmärrystä, otin yhteyttä Cathrine Lordiin, komission puheenjohtajaan. Hän sanoi, että tulkinnassa oli menty aika pahasti hakoteille, ja pahoitteli, että Suomen asenne transhoitoihin ja siihen liittyvän tieteen tulkintaan oli kuten Yhdysvaltain etelävaltioissa. En ole täysin varma, mitä polkua tieto tästä virheestä päätyi heille (yritin laittaa nettisivun kautta yhteyttä, asia tuotiin esille yhdelle autismiin erikoistuneelle psykologian professorille, joka näki väärintulkinnan niin pahana, että sanoi ottavansa yhteyttä suosituksista päättäviin). 
+
+Tavalla tai toisella [sivua päivitettiin](https://web.archive.org/web/20240000000000*/https://www.kaypahoito.fi/nix03202) pian sen jälkeen. Muutettiinko suosituksia vastaamaan komission oikeaa kantaa? __Ei, [lähde vain poistettiin](https://www.kaypahoito.fi/nix03202), mutta autistien itsetuntemuskyä perusteetta kyseenalaistava väite jätettiin sivulle.__ Ehkä he vain poistivat nolon virheen, ja kun luet tätä, suositukset on uusittu. 
+ 
 
 ## Maininnat USa:n korkeimmassa oikeudessa.<a id="scotus"></a>
 Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytyshoidoista työpaikkasyrjintään ja alaikäisten transhoitojen kriminalisointiin](scotus.md). Kuluu yleensä päästä korkeimpaan oikeuteen, joten alemmilla oikeustasoilla on enemmän Kaltialan viime vuosina koventunutta retoriikkaa, sekä niiden välillä olevailla oikeusasteilla. Onneksi ei ole kaikissas 50 osavaltiossa, mutta kyllä muutama kymmen taitaa olla. Sitten esim. [ADF on mukana](https://adfmedialegalfiles.blob.core.windows.net/files/StJohnsCountySchoolBoardAmicusBrief.pdf) jossain circuit ourtissa, muttei ennen. What I'm trying to say is that neurtypicals could never.
@@ -153,10 +168,9 @@ Mutta en tee tätä oman kokemukseni takia. Päinvastoin, koska olen välttänyt
 ##  Tulossa <a id="tulossa"></a>
 Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn materiaalia tutkiessani Suomen transpolitiikkaa, ja sen yhteyksiä kansainväliseen anti-gender liikkeeseen
 
-- lista kymmenistä lakialoitteista ja oikeusjutuista Amerikassa, josssa Suomalaista transpolitiikkaa ja lääkärin polemiikkiä hyödynnetään laajasti erilaisissa anti-gender politiikanteossa
+- kattava lista kymmenistä lakialoitteista ja oikeusjutuista Amerikassa, josssa Suomalaista transpolitiikkaa ja lääkärin polemiikkiä hyödynnetään laajasti erilaisissa anti-gender politiikanteossa
 - tietoa SEGM-järjestöstä, sen rahoituksesta, ja kuinka ylilääkäri Kaltialasta paljastui Floridan kuvernöörin anti-trans asiamiehen kirjekaveri
 - selitystä siitä, miksi eheytyshoitoja nykyään kutsutaan huonon maineen takia, ja kuinka tätä uutta versiota esitävät ovat osittain samaa porukkaa, kuin SEGM-järjestö.
-- näyttöä siitä, kuinka Duodecim poisti ASD ja Sukupuolidysforia hoitosuosituksista hyvin laadukkaan tieteellisen lähteen, koska se ei sopinut kirjoittajien maailmankuvaan
 - selitystä ROGD-teorian synnystä, ja amerikkalaisten kristilliskonservatiivien ja britti-TERFfien pitkäaikaisesta yhteistyö, jonka tuloksena se syntyi
 - transaktivismin ulkopuolella olevan epidemiologin kritiikkiä ROGD:n sosiaalisesta tarttumisesta, sekä yhden Kaltialan tutkimuksen vakavista tilastieteellisistä virheistä
 - asiaa muiden Suomen transtutkimusten etiikasta, metodologian laadusta ja vanhentuneista lähteistä
