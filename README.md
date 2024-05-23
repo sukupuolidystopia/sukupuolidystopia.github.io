@@ -55,7 +55,7 @@ Koska halusin varmistaa, ettei oma confirmation bias vääristänyt ymmärrystä
 Tavalla tai toisella [sivua päivitettiin](https://web.archive.org/web/20240000000000*/https://www.kaypahoito.fi/nix03202) pian sen jälkeen. Muutettiinko suosituksia vastaamaan komission oikeaa kantaa? __Ei, [lähde vain poistettiin](https://www.kaypahoito.fi/nix03202), mutta autistien itsetuntemuskyä perusteetta kyseenalaistava väite jätettiin sivulle.__ Ehkä he vain poistivat nolon virheen, ja kun luet tätä, suositukset on uusittu. 
  
 
-## Maininnat USa:n korkeimmassa oikeudessa.<a id="scotus"></a>
+## Maininnat USAn korkeimmassa oikeudessa<a id="scotus"></a>
 Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytyshoidoista työpaikkasyrjintään ja alaikäisten transhoitojen kriminalisointiin](scotus.md). Kuluu yleensä päästä korkeimpaan oikeuteen, joten alemmilla oikeustasoilla on enemmän Kaltialan viime vuosina koventunutta retoriikkaa, sekä niiden välillä olevailla oikeusasteilla. Onneksi ei ole kaikissas 50 osavaltiossa, mutta kyllä muutama kymmen taitaa olla. Sitten esim. [ADF on mukana](https://adfmedialegalfiles.blob.core.windows.net/files/StJohnsCountySchoolBoardAmicusBrief.pdf) jossain circuit ourtissa, muttei ennen. What I'm trying to say is that neurtypicals could never.
   
 ##  Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen <a id="usa"></a>
