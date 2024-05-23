@@ -11,14 +11,15 @@
  2. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
  4. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  5. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 6. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
- 7. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 8. [Eheytyshoidot](#eheys)
- 9. [Kaltiala](#kaltiala)
- 10. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 11. [Tulossa](#tulossa)
- 12. [Sidonnaisuudet](#sidos)
- 13. [Yhteystiedot ja some](#some)
+ 6. [Podcast- ja videolähteitä](#audio)
+ 7. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
+ 8. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 9. [Eheytyshoidot](#eheys)
+ 10. [Kaltiala](#kaltiala)
+ 11. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 12. [Tulossa](#tulossa)
+ 13. [Sidonnaisuudet](#sidos)
+ 14. [Yhteystiedot ja some](#some)
   
  
 
@@ -73,6 +74,21 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
 [Assigned Media](https://www.assignedmedia.org/) *[Teen yhteisprojektia Assigned Median Evanin kanssa]* <br>
 [Translash Media](https://translash.org/) Intersektionaalista perspektiiviä korostava, amerikkalaisesta vastaiskusta transoikeuksien edistykseen kertova media. Ja tämä vastaisku ei ole jotain, jonka vaikutukset eivät jo näkyisi Suomessa. Podcasteja, videoita, ja myös iloa. 
+
+## Podcast- ja videolähteitä <a id="audio"></a
+
+ Podcastit
+- [Maintenance Phasen jakso Rapid Onset Gender Dysphoriasta](https://podcasts.apple.com/us/podcast/rapid-onset-gender-dysphoria/id1535408667?i=1000655034746) - Kovan luokan tiedenörtit selittävät yleistajuisesti spekulatiivisen teorian, joka ohjaa Suomen transpolitiikkaa.
+- [The Anti-Trans Hate Machine: A Plot Against Equality -sarja](https://podcasts.apple.com/us/podcast/the-anti-trans-hate-machine-a-plot-against-equality/id1570901784) - Kertoo siitä, kuinka amerikkalaisen anti-trans liikkeen takana on paljon laajempi strategia liittyen esim. aborttikieltoon ja julkisen peruskoulutuksen alasajoon. 
+
+Videot
+- [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System | Philosophy Tube](https://www.youtube.com/watch?v=v1eWIshUzr8) - Abigail Thornin kertoo sekä henkilökohtainen tarinan brittiläisen transhoidon haasteista, sekä laajemmasta kriisistä leikkauksien kanssa kamppailevasta julkisesta terveydenhuollosta.
+- [When You're Trans and Autistic | Swolesome](https://www.youtube.com/watch?v=wk0tOe83__g) - luinka autismia käytetään transmaskuliinisten syrjimiseen kahdesta eri kulmasta
+- [Autogynephilia | ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) Kertoo Ray Blanchardin transmisogyynisesta
+
+
+
+
 
 ##  Riittakerttu Kaltiala <a id="kaltiala"></a>
 Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiivisesta taustasta, kotimaisista hoitokäytännöistä, tutkimuksista, ulkomaan vaikuttamisesta jne. Koska monella on hänestä hyvin maltillinen käsitys valtamediasta, [tästä](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=13573140799537477824&scipsc=1&q=kaltiala&btnG=) voi äkkiä nähdä, kuinka useassa tutkimuksessaan hän on käyttänyt lähteenä [puhdasta anti-trans pseudotiedettä](https://sci-hub.ru/10.1080/00332925.2017.1350804). 
