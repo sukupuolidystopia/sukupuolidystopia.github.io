@@ -17,11 +17,11 @@
  9. [Kaltiala](#kaltiala)
  10. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
  11. [Tulossa](#tulossa)
- 12. [Yhteystiedot ja some](#some)
+ 12. [Sidonnaisuudet](#sidos)
+ 13. [Yhteystiedot ja some](#some)
   
  
 
-´
 
 ##  Suomen todellisuudesta <a id="item"></a>
 
@@ -63,7 +63,8 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 ](https://www.thestranger.com/queer/2023/04/06/78936831/the-gops-war-on-trans-kids-relies-on-myths-about-a-progressive-europe)  <br>
  - [What’s Going on With Gender-Affirming Care in Europe?](https://www.assignedmedia.org/breaking-news/gender-affirming-care-europe)
    *"Claims that Norway, Sweden, Finland, and the UK have acted to restrict access to gender-affirming care are the latest misleading tactic in the fight against this necessary treatment."*
--  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä.  <br> 
+-  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä.  <br>
+-  [A New Era - Key Actors in Anti-Trans Conversion Therapy](https://healthliberationnow.com/wp-content/uploads/2022/06/A-New-Era-Key-Actors-Behind-Anti-Trans-Conversion-Therapy.pdf) Hyvin kattava raportti transihmisten eheytysyrityksestä modernissa kontekstissa, mm. exploration therapy nimellä, mitä [Kaltiala käytti toistuvasti](https://www.instagram.com/reel/C7OCHDftNpS/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) kuvaillessaan Suomen lähestymistapaa alaikäisen toimiessaan asiantuntijana Floridan transhoitokiellon puolesta, ja [jonka esitti nuoria tapaaville terveydenhollin ammattilaisille](#eheys)
  - [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkimuksessa
 
  
@@ -153,8 +154,15 @@ Alla vain pieni otanta enimmäkseen oikeistolaisia verkkouutisia Yhdysvalloista,
     - UnHerd on brittiläinen uutis- ja mielipidesivusto
 
 - [The White House's Specious Gender Manifesto](https://quillette.com/2022/05/13/joe-bidens-faulty-gender-diktat/) *Suomen tiukennetut hoitosuositukset mainitaan sekä siteerataan Kaltialaa oltuaan kuuluisan ns. Gender Critical podcastin vieraana*
-    - Quillette on Australialainen uutis- ja mielipidesivusto, joka kutsuu itsään libertaristiseksi, mutta julkaisee paljon anti-trans materiaalia
+    - Quillette on Australialainen uutis- ja mielipidesivusto, joka kutsuu itsään libertaristiseksi, mutta julkaisee paljon anti-trans materiaalia, joka oman mielipiteeni mukaan menee libertarismin itsemääräämisoikeutta korostavia periaatteita vastaan.
  
+## Sidonnaisuudet <a id="sidos"></a>
+
+Teen tätä yksin, vapaa-ajallani ja ilman ulkoista rahoitusta, hyödyntäen muiden tekemiä tutkimuksia, minulle lähettyjä lähteitä, sekä alkuperäistä tutkimusta. En edusta mitään tai omaa sidoksia mihinkään kansalaisjärjestöön, tai poliittiseen puolueeseen. Tässä esitetyt mielipiteet tai päätelmät ovat omiani, enkä puhu kaikkien transihmisten puolesta. 
+
+Se, että olen transsukupuolinen. asettaa minut monen cis-ihmisen mielessä automaattisesti puolueelliseksi lähteeksi, ja tietenkin omat kokemukseni informoivat, sitä, mitä asioita tuon esille. Evan Urquhart on ainoa lähde, johon olen säännöllisesti yhteydessä Assigned median työn olla olevaa artikkelia varten, ja muutenkin, jos on tietty lähde kadoksissa, koska meillä on samantyyppinen erikoituminen. Hänet hiljattain nimitettiin [MIT:n alaiseen journalismiohjelmaan] erikoituneena anti-trans psedotieteeseen ja disinfomaatioon. 
+
+
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
 
 Niin ovatkin. Mutta jos olet Suomessa asuva transihminen, jolla olisi tarvetta lääketieteelliselle transitiolle, vastassa on enemmän anti-gender narratiiveihin kuin tieteeseen nojautuva järjestelmä, jota ei uskalleta kyseenalaistaa ns. transpolien mielivaltaisten päätösteon takia. Samalla kun sateenkaariliput liehuvat ja Suomi antaa itsestään suvaitsevaisen kuvan, meillä on Sukupuoli-identiteetin tutkimuskeskus, jossa ihmiset laitetaan arviointiprosessiläpi, joka on kaukana kansainvälisistä hoitosuosituksista, eikä eri arviointivaiheiden tarpeellisuudelle ole tieteellistä näyttöä. Ja pelkästään tämän prosessin aloittamista joutuu usein odottamaan vuosia. 
