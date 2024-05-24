@@ -85,10 +85,10 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 
 
 Videot
-- [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System | Philosophy Tube](https://www.youtube.com/watch?v=v1eWIshUzr8) - Abigail Thornin kertoo sekä henkilökohtainen tarinan brittiläisen transhoidon haasteista, sekä laajemmasta kriisistä leikkauksien kanssa kamppailevasta julkisesta terveydenhuollosta.
-- [When You're Trans and Autistic | Swolesome](https://www.youtube.com/watch?v=wk0tOe83__g) - luinka autismia käytetään transmaskuliinisten syrjimiseen kahdesta eri kulmasta
-- [Autogynephilia | ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) -  Ray Blanchardin popolurisoivasta transmisogyynisesta teoriasta ja epäeettisistä- ja epätieteellisistä tutkimusmetodeista
-- [The Anti-Trans Violence of Civility Politics | Jesse Gender](https://www.youtube.com/watch?v=-1TL9id26Ec&t=11s) Voisi luulla, että transasioilla ei olisi mitään yhteyttä systemaattiseen rasismiin ja rotutieteeseen. Mutta ensiksikin transsukupuolisuus ei ole valkoisille länsieurooppalaisille varattu identiteetti, ja toiseksi, katso video.
+- [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System - Philosophy Tube](https://www.youtube.com/watch?v=v1eWIshUzr8) - Abigail Thornin kertoo sekä henkilökohtainen tarinan brittiläisen transhoidon haasteista, sekä laajemmasta kriisistä leikkauksien kanssa kamppailevasta julkisesta terveydenhuollosta.
+- [When You're Trans and Autistic - Swolesome](https://www.youtube.com/watch?v=wk0tOe83__g) - luinka autismia käytetään transmaskuliinisten syrjimiseen kahdesta eri kulmasta
+- [Autogynephilia - ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) -  Ray Blanchardin popolurisoivasta transmisogyynisesta teoriasta ja epäeettisistä- ja epätieteellisistä tutkimusmetodeista
+- [The Anti-Trans Violence of Civility Politics - Jesse Gender](https://www.youtube.com/watch?v=-1TL9id26Ec&t=11s) Voisi luulla, että transasioilla ei olisi mitään yhteyttä systemaattiseen rasismiin ja rotutieteeseen. Mutta ensiksikin transsukupuolisuus ei ole valkoisille länsieurooppalaisille varattu identiteetti, ja toiseksi, katso video.
 - https://www.youtube.com/watch?v=2OLNEiECN24&t=6s
 
 
@@ -178,7 +178,7 @@ Alla vain pieni otanta enimmäkseen oikeistolaisia verkkouutisia Yhdysvalloista,
 
 Teen tätä yksin, vapaa-ajallani ja ilman ulkoista rahoitusta, hyödyntäen muiden tekemiä tutkimuksia, minulle lähettyjä lähteitä, sekä alkuperäistä tutkimusta. En edusta mitään tai omaa sidoksia mihinkään kansalaisjärjestöön, tai poliittiseen puolueeseen. Tässä esitetyt mielipiteet tai päätelmät ovat omiani, enkä puhu kaikkien transihmisten puolesta. 
 
-Se, että olen transsukupuolinen. asettaa minut monen cis-ihmisen mielessä automaattisesti puolueelliseksi lähteeksi, ja tietenkin omat kokemukseni informoivat, sitä, mitä asioita tuon esille. Evan Urquhart on ainoa lähde, johon olen säännöllisesti yhteydessä Assigned median työn olla olevaa artikkelia varten, ja muutenkin, jos on tietty lähde kadoksissa, koska meillä on samantyyppinen erikoituminen. Hänet hiljattain nimitettiin [MIT:n alaiseen journalismiohjelmaan] erikoituneena anti-trans psedotieteeseen ja disinfomaatioon. 
+Se, että olen transsukupuolinen. asettaa minut monen cis-ihmisen mielessä automaattisesti puolueelliseksi lähteeksi, ja tietenkin omat kokemukseni informoivat, sitä, mitä asioita tuon esille. Evan Urquhart on ainoa lähde, johon olen säännöllisesti yhteydessä Assigned median työn olla olevaa artikkelia varten. Ja muutenkin, jos on tietty lähde kadoksissa, koska meillä on samantyyppinen erikoistuminen. Hänet hiljattain nimitettiin [MIT:n alaiseen journalismiohjelmaan](https://www.assignedmedia.org/breaking-news/assigned-media-evan-urquhart-ksj-fellowship) erikoituneena anti-trans psedotieteeseen ja disinfomaatioon. 
 
 
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
