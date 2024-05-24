@@ -26,10 +26,11 @@
 
 ##  Suomen todellisuudesta <a id="item"></a>
 
-[Viralliset houtosuositukset](https://palveluvalikoima.fi/dysforia-transsukupuolisuus) eivät ole kovin selkeästi tai helppotajuisesti nimetty, ja edes moni transasioihin erikoistunut ei tietänyt, mistä ne löytyvät. Olisi pitänyt aloittaa lukemalla amerikkalaisia anti-trans poliittisia asiakirjoja, niin useasta niihin linkitetään. Suosituksista ei löydy lähteitä, "Valmistelumuistio" ja "Liite 2" -tiedostoista löytyy eniten kyseenalaisia lähteitä.
+[Viralliset houtosuositukset](https://palveluvalikoima.fi/dysforia-transsukupuolisuus) eivät ole kovin selkeästi tai helppotajuisesti nimetty, ja edes moni transasioihin erikoistunut ei tietänyt, mistä ne löytyvät. Olisi pitänyt aloittaa lukemalla amerikkalaisia anti-trans poliittisia asiakirjoja, niin useasta niihin linkitetään [täällä](#scotus), ja [jotenkin STM:n byrokraattiset asiakirjat ovat löytäneet tiensä Australian poliittiseen keskusteluun](https://www.parliament.nsw.gov.au/ladocs/submissions/85281/Submission%2035%20-%20Australian%20Christian%20Lobby.pdf) asti, kun kyse on tranhoitojen rajoituksista. Suosituksista ei löydy lähteitä, mutta "Valmistelumuistio" ja "Liite 2" -tiedostoista löytyy eniten kyseenalaisia lähteitä.
 
 - [“Kuvaile minulle miten masturboit?” – transnuorten asema hoitojärjestelmässä on synkkä](https://kehraaja.com/kuvaile-minulle-miten-masturboit-julkikuvan-takaa-paljastuu-transpolien-nuorten-synkka-tilanne/) 
 - [“Meidän pitää puhua lääkäristä”](https://julmaria.wordpress.com/2019/06/06/meidan-pitaa-puhua-laakarista/) Transihmiset ovat yrittäneet puhua Kaltialasta ainakin vuodesta 2019 saakka.
+- @transpolitiikka instagram-tili
 
 Akateemista työtä, usein pdf-muodossa:
 - [”TUNTUU ETTÄ MUT TÄYTYY RIKKOA ENNEN KUIN VOIN SAADA SEN MITÄ TARVITSEN” Medikalisaatio, hidas väkivalta ja siitä selviytyminen transsu-kupuolisten transterveydenhuoltoa käsittelevissä blogikirjoituksissa](https://jyx.jyu.fi/bitstream/handle/123456789/85203/1/URN%3ANBN%3Afi%3Ajyu-202301261494.pdf)
