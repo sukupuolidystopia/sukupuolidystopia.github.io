@@ -101,6 +101,9 @@ Tämä Tampereen ylipiston professori ja TAYSin nuorisopsykiatrian ylilääkäri
 <img src="https://sukupuolidystopia.github.io/images/conv1.png" width="350"/><br>
 <img src="https://sukupuolidystopia.github.io/images/conv2.png" width="350"/><br>
 <sub><sup> [Lähde](https://www.thetrevorproject.org/wp-content/uploads/2023/05/2023.05.05-Chiles-v.-Salazar-Trevor-Project-AFSP-AAS-Amicus-Brief-010110855630.pdf)</sup></sub><br>
+Suomessa ei ole "Gender Affirming Care". Transhoidot ovat saatavilla joillekin, ja usein vaativat vuosien jonottelua, sitten vuosien odottelua, että elämäntilanne ja mielenterveys nähdään sopivaksi arvioinnin aloittamiseksi. Instan @transpolitiikka tilillä näkee, kuinka usein sukupuoli-identiteetin kyseenalaistaminen on osa prosessia. Tämä on [Gender Exploratory Therapy](https://www.instagram.com/reel/C7OCHDftNpS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), jossa transitio on viimeinen hoitokeino, jossa kaikki muut ongelmat pitää ensin mennä läpi, ennen kuin sitä voidaan harkita. 
+
+Lääkärilehdessä oli vuonna 2011 tämä lause *"Sukupuoli-identiteetin kanssa kamppaileva on aina tutkittava huolellisesti. Ikään katsomatta."[...]"[Transhoitoja koskeva] Asetus ei kiellä psykiatrisia esitutkimuksia, kunhan pääsyä niihin ei estetä".* [Lähde](https://sukupuolidystopia.github.io/images/puhuttaa.png). 
 
 Kaltiala ei ottanut kommenttipyyntöä eheytyshoitokieltoon liittyen [kovin hyvin vastaan](https://www.eduskunta.fi/FI/vaski/JulkaisuMetatieto/Documents/EDK-2023-AK-7499.pdf).  Menin Kaltilan 12:n transaiheisen tieteellisen tutkimuksen lähdeluettelon ja laskin viitteet tutkijoihin, jotka kannattavat eheytyshoitoja: Blanchard, Raymond: 8; Bradley, Susan: 12; Cantor, James: 2,  Marchiano, Lisa: 8; Zucker, Kenneth: 22. Suurin osa näistä nimistä löytyy [SPLC:n raportista anti-trans pseudotiedeverkostosta](https://www.splcenter.org/captain/defining-pseudoscience-network), sekä [useassa paikassa täällä](#usa). 
 
