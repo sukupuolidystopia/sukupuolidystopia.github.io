@@ -14,12 +14,13 @@
  6. [Podcast- ja videolähteitä](#audio)
  7. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
  8. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 9. [Eheytyshoidot](#eheys)
- 10. [Kaltiala](#kaltiala)
- 11. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 12. [Tulossa](#tulossa)
- 13. [Sidonnaisuudet](#sidos)
- 14. [Yhteystiedot ja some](#some)
+ 9. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 10. [Eheytyshoidot](#eheys)
+ 11. [Kaltiala](#kaltiala)
+ 12. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 13. [Tulossa](#tulossa)
+ 14. [Sidonnaisuudet](#sidos)
+ 15. [Yhteystiedot ja some](#some)
   
  
 
@@ -68,6 +69,13 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 -  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä. [Suomalainen tutkimus oli kolmanneksi useimmiten mainuttu](https://www.splcenter.org/sites/default/files/appendix4-3-publications-cited-anti-lgbtq-expert-witnesses.pdf) tutkittujen anti-trans lakialoitteiden yhteydessä  <br>
 -  [A New Era - Key Actors in Anti-Trans Conversion Therapy](https://healthliberationnow.com/wp-content/uploads/2022/06/A-New-Era-Key-Actors-Behind-Anti-Trans-Conversion-Therapy.pdf) Hyvin kattava raportti transihmisten eheytysyrityksestä modernissa kontekstissa, mm. exploration therapy nimellä, mitä [Kaltiala käytti toistuvasti](https://www.instagram.com/reel/C7OCHDftNpS/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) kuvaillessaan Suomen lähestymistapaa alaikäisen toimiessaan asiantuntijana Floridan transhoitokiellon puolesta, ja [jonka esitti nuoria tapaaville terveydenhollin ammattilaisille](#eheys)
  - [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkimuksessa
+
+## "Kansainväliset asiantuntijatehtävät"
+
+(Puhumassa Suomen translinjauksista, kutsuttu koska uskottavuus tulee asemastaan Suomen insitutuutioista, mutta ei vastuussa kenellekään Suomalaiselle)[file:///C:/Users/esrak/Downloads/Remarks%20HHS%20meeting_2022-3.pdf]
+Vuonna 2022 Riittakerttu Kaltiala esiintyi Biden hallinnon edessä vastustamassa Affordable Care Actin pykälää 1557, "Nondiscrimination in Health Programs and Activities". Se kieltää syrjinnän rodun, värin, kansallisen alkuperän, sukupuolen, iän tai vamman perusteella terveysohjelmissa ja -toiminnoissa, jotka saavat liittovaltion rahoitusta tai joita hallinnoivat toimeenpanoelimet. Uudistettu sääntö tarkentaa vuoden 2020 säännön epäselvyyksiä, laajentaa suojia seksuaalisen suuntautumisen ja sukupuoli-identiteetin osalta, sekä varmistaa syrjimättömät käytännöt teleterveyspalveluissa ja kliinisten algoritmien käytössä. (Tässä näkee)[https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR], että SEGM-järjestön perustaja kutsui kuulemisen, ja moni muista nimistä löytyy Suomalaisten transtutkimusten lähdeluettelosta. Mutta tämä on sallittua, jos on tehty vapaa-ajalla.
+
+Tähään tulossa lisää asiaa hänen vuosien yheksistä Floridaan, Britteihin, ja nyt kahtena vuotena putkeen esitelmöimässä Buhtanissa TUNI:n Zoom-tausta päällä, ja TAYS:in nimi Powerpoint slaideissa.
 
  
 ##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
