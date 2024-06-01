@@ -76,7 +76,8 @@ Moneen Kaltialan aisantuntijatehtävään kuuluu puhuminen Suomen translinjauksi
 Vuonna 2022 Riittakerttu Kaltiala esiintyi Biden hallinnon edessä vastustamassa [Affordable Care Actin pykälää 1557](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202110&RIN=0945-AA17), "Nondiscrimination in Health Programs and Activities". Se kieltää syrjinnän rodun, värin, kansallisen alkuperän, sukupuolen, iän tai vamman perusteella terveysohjelmissa ja -toiminnoissa, jotka saavat liittovaltion rahoitusta tai joita hallinnoivat toimeenpanoelimet. Uudistettu sääntö tarkentaa vuoden 2020 säännön epäselvyyksiä, laajentaa suojia seksuaalisen suuntautumisen ja sukupuoli-identiteetin osalta, sekä varmistaa syrjimättömät käytännöt teleterveyspalveluissa ja kliinisten algoritmien käytössä. (Tässä näkee[https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR], että SEGM-järjestön perustaja William Malone kutsui kuulemisen, ja moni muista nimistä löytyy Suomalaisten transtutkimusten lähdeluettelosta, ja esim. eheytyshoitokietojen vastustuksesta. Mutta tämä on sallittua, jos on tehty vapaa-ajalla. Tässä esitetty (lausunto asiaan liitten)[https://sukupuolidystopia.github.io/images/Remarks_HHS_meeting_2022.pdf], jonka tarkoitus oli siis vaikuttaa liittovaltion lainsäädäntöön. 
  
 Tähään tulossa lisää asiaa hänen vuosien yhteksistä Floridaan, kuinka ne seurasivat mukana Britteihin, ja nyt kahtena vuotena putkeen esitelmöimässä Bhutanissa TUNI:n Zoom-tausta päällä, ja TAYS:in nimi Powerpoint slaideissa.
-
+- https://www.youtube.com/watch?v=IXPWpDYoPKQ
+- https://youtu.be/QXNOsxpP2ow?t=365
  
 ##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
 [Erin In The Morning](https://www.erininthemorning.com/)  
@@ -105,6 +106,8 @@ Varmasti pitää tehdä ihan oma sivu, missä eritylty kaikki asiat konservatiiv
 
 Tämä Tampereen ylipiston professori ja TAYSin nuorisopsykiatrian ylilääkäri on esiintynyt paljon mediassa. Toiselle yleisölle tarkoitettua viestintää näkee [tässä yksi hänen vuonna 2011 kirjoittama juttu](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf), missä vastustaa alaikäisten transhoitoja. Ensimmäinen aukeama on lääkäriltä, joka on hoitojen puolesta, kun taas Kaltialan vastauksen perusteella eheytyshoito olisi parempi ratkaisu. Jo tässä näkyy monta teemaa, jotka tulevat näkymään läpi uransa. Eikä tuo ole edes ainoa tätä kantaa edistävä kirjoitus samalta vuodelta, jolloin hän aloitti alaikäisten transhoidoista vastaavana. [Aikaisempi](https://sukupuolidystopia.github.io/images/puhuttaa.png), 2011 huhtikuussa Lääkärilehdessä julkaistu kirjoitus viittaa jopa Valviran kanssa suunnitteilla oleviin mahdollisiin toimenpiteisiin alaikäisten hoitojen estoksi. Tämä varmaan toimitettiin Lääkärilehdelle ennen, kun Kaltiala laitettiin vastuuseen alaikäisten transhoidoista. [Zinnia Jones on seurannut hänen toimiaan vuodesta 2018 lähtien.](https://genderanalysis.net/entity/riittakerttu-kaltiala-heino/)
 
+- Tässä [lääkärilehti julkaisee puhdastaa propagandaa](https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/), joka ei paljoa eroa amerikkalaisesta oikeistomediasta. Kaltiala haastatellaan, mutta hänet on tässä kertomuksessa leikattu pois kuvasta politisoimasta Cass Review'tä. 
+   
 ## Eheytyshoidot <a id="eheys"></a>
 <img src="https://sukupuolidystopia.github.io/images/conv1.png" width="350"/><br>
 <img src="https://sukupuolidystopia.github.io/images/conv2.png" width="350"/><br>
