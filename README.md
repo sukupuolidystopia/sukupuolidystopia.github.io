@@ -4,6 +4,8 @@
 
 ❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Kulku omalla vastuulla.❗ <br>
 
+[30+ syytä](usa.md) olla ylpeä suomalaisten hiljaisuudesta
+
 
 **Sisällysluettelo:**
 
