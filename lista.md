@@ -26,6 +26,10 @@ Arkansas<br>
 California<br>
 Colorado<br>
 Connecticut<br>
+-https://www.cga.ct.gov/2024/juddata/TMY/2024SB-00214-R010304-Bentivegna,%20Joseph,%20MD-None-Opposes-TMY.PDF<br>
+-https://www.cga.ct.gov/2024/juddata/TMY/2024SB-00214-R000304-Van%20Mol,%20Andre,%20Dr-ACPeds-Opposes-TMY.PDF<br>
+-https://www.cga.ct.gov/2024/juddata/TMY/2024SB-00214-R000304-Cretella,%20Michelle,%20MD-Opposes-TMY.PDF<br>
+-https://www.cga.ct.gov/2024/juddata/TMY/2024SB-00214-R000304-Heyer,%20Walt,%20Speaker%20and%20author-Sex%20Change%20Regret-Opposes-TMY.PDF<br>
 Delaware<br>
 Florida<br>
 Georgia<br>
@@ -51,16 +55,19 @@ Mississippi<br>
 Missouri<br>
 Montana<br>
 Nebraska<br>
+- https://web.archive.org/web/20240210032058/https://nebraskalegislature.gov/FloorDocs/108/PDF/Transcripts/FloorDebate/r1day48.pdf <br>
 Nevada<br>
 New Hampshire<br>
 New Jersey<br>
 New Mexico<br>
 New York<br>
 North Carolina<br>
-- [Kadell v. Falwell](https://www.nctreasurer.com/documents/files/dst/states-amicus-folwell/open)<br>
+- https://www.nctreasurer.com/documents/files/dst/states-amicus-folwell/open<br>
 Ohio<br>
-- https://web.archive.org/web/20240105143835/https://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/general_assembly_135/chamber/135th_ga/ready_for_publication/committee_docs/cmte_s_govt_1/testimony/cmte_s_govt_1_2023-11-28-0200_920/hb68_bonnet_proponent2.pdf<br>
+- https://web.archive.org/web/20240105143835/https://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/general_assembly_135/chamber/135th_ga/ready_for_publication/committee_docs/cmte_s_govt_1/<br> testimony/cmte_s_govt_1_2023-11-28-0200_920/hb68_bonnet_proponent2.pdf<br>
 Oklahoma<br>
+- https://oklahoma-council.files.svdcdn.com/production/assets/pdfs/2023-06-27-Doc.-102-1-Amicus-Brief_OCPA-DNH.pdf
+- https://www.aclu.org/wp-content/uploads/2023/05/086-Defendants-15-53-Response-to-Plaintiffs-Motion-for-Preliminary-Injunction.pdf
 Oregon<br>
 - https://web.archive.org/web/20231002055239/https://olis.oregonlegislature.gov/liz/2023R1/Downloads/PublicTestimonyDocument/49580<br> 
 Rhode Island<br>
