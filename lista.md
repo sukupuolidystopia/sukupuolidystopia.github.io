@@ -21,8 +21,8 @@ Alabama<br>
 Alaska<br>
 Arizona<br>
 Arkansas<br>
--[https://www.aclu.org/wp-content/uploads/legal-documents/055-1_Exhibit_1.pdf]<br>
--[https://www.aclu.org/wp-content/uploads/legal-documents/045-3_paul_hruz_declaration.pdf]<br>
+-https://www.aclu.org/wp-content/uploads/legal-documents/055-1_Exhibit_1.pdf<br>
+-https://www.aclu.org/wp-content/uploads/legal-documents/045-3_paul_hruz_declaration.pdf<br>
 California<br>
 Colorado<br>
 Connecticut<br>
@@ -75,12 +75,12 @@ South Carolina<br>
 South Dakota<br>
 Tennessee<br>
 Texas<br>
--[https://adfmedialegalfiles.blob.core.windows.net/files/TexasLoeAmicusBrief.pdf]<br>
--[https://capitol.texas.gov/tlodocs/88R/publiccomments/Meetings/C4102023032708001/InputItems/7030302e-e9b1-4554-9404-d15f93f5a59e.pdf]<br>
--[http://files.eqcf.org/wp-content/uploads/2022/07/Cantor-Expert-Report_Ds-TI-response.pdf]<br>
--[https://www.aclu.org/wp-content/uploads/2023/07/2023-12-22-Amicus-Brief-of-Do-No-Harm-ISO-Appellants.pdf]<br>
--[https://www.aclu.org/wp-content/uploads/legal-documents/2022.11.04_Defendants_Plea_to_the_Jurisdiction.pdf]<br>
--[https://jlc.org/sites/default/files/attachments/2023-04/2022.11.15%20Appellant%27s%20Brief.pdf]<br>
+-https://adfmedialegalfiles.blob.core.windows.net/files/TexasLoeAmicusBrief.pdf<br>
+-https://capitol.texas.gov/tlodocs/88R/publiccomments/Meetings/C4102023032708001/InputItems/7030302e-e9b1-4554-9404-d15f93f5a59e.pdf<br>
+-http://files.eqcf.org/wp-content/uploads/2022/07/Cantor-Expert-Report_Ds-TI-response.pdf<br>
+-https://www.aclu.org/wp-content/uploads/2023/07/2023-12-22-Amicus-Brief-of-Do-No-Harm-ISO-Appellants.pdf<br>
+-https://www.aclu.org/wp-content/uploads/legal-documents/2022.11.04_Defendants_Plea_to_the_Jurisdiction.pdf<br>
+-https://jlc.org/sites/default/files/attachments/2023-04/2022.11.15%20Appellant%27s%20Brief.pdf<br>
 Utah<br>
 Vermont<br>
 Virginia<br>
