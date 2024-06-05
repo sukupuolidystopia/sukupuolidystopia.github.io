@@ -1,4 +1,6 @@
-**Suomalaiset hoitosuositukset, tutkimukset ja/tai polemiikki anti-trans politiikassa Yhdysvalloissa**
+**Suomalaiset hoitosuositukset, tutkimukset ja/tai polemiikki anti-gender esimerkkinä politiikassa Yhdysvalloissa**<br>
+*Lista ei ole kattava ja tarkoitus on lisätä selityksiä, onko kyseessä eheytyshoidon vastustus, syrjintäkiellon vastustus, transhoitojen kielto/kriminalisointi, vessa, tai urheilulaki. Kaikkia löytyy, vain CTRL+F "Finland","Kaltiala", "COHERE", tai "palko"*
+
 __Liittovaltiotasolla__:<br>
 -https://docs.house.gov/meetings/IF/IF14/20200630/110845/HHRG-116-IF14-20200630-SD029.pdf<br>
 -Tätä Kaltiala kannatti ihan henkilökohtaisesti https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR<br>
