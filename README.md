@@ -4,7 +4,7 @@
 
 ❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Kulku omalla vastuulla.❗ <br>
 
-[30+ mainintaa](lista.html) Suomen hoitosuosituksista, suomalaisista tutkimuksista amerikkalaisissa anti-trans lakialoitteissa.
+[30+ mainintaa](lista.html) Suomen hoitosuosituksista, suomalaisista tutkimuksista amerikkalaisissa anti-trans lakialoitteissa jne.
 
 
 **Sisällysluettelo:**
