@@ -101,7 +101,7 @@ Sanotaan, että valtion virkahenkilöllä on vapaus tehdä vapaa-aikanaan, mitä
 Videot:
 - [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System - Philosophy Tube](https://www.youtube.com/watch?v=v1eWIshUzr8) - Abigail Thornin kertoo sekä henkilökohtainen tarinan brittiläisen transhoidon haasteista, sekä laajemmasta kriisistä leikkauksien kanssa kamppailevasta julkisesta terveydenhuollosta.
 - [When You're Trans and Autistic - Swolesome](https://www.youtube.com/watch?v=wk0tOe83__g) - luinka autismia käytetään transmaskuliinisten syrjimiseen kahdesta eri kulmasta
-- [Autogynephilia - ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) -  Ray Blanchardin popolurisoivasta transmisogyynisesta teoriasta ja epäeettisistä- ja epätieteellisistä tutkimusmetodeista
+- [Autogynephilia - ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) -  Ray Blanchardin popolarisoimasta transmisogyynisesta teoriasta ja epäeettisistä- ja epätieteellisistä tutkimusmetodeista. Nimi joka tulee usein vastaan suomalaisissa transtutkimukisssa ja hoitosuosituksissa.
 - [The Anti-Trans Violence of Civility Politics - Jesse Gender](https://www.youtube.com/watch?v=-1TL9id26Ec&t=11s) Voisi luulla, että transasioilla ei olisi mitään yhteyttä systemaattiseen rasismiin ja rotutieteeseen. Mutta ensiksikin transsukupuolisuus ei ole valkoisille länsieurooppalaisille varattu identiteetti, ja toiseksi, katso video.
 - [How Conservatives Created (and Cancelled) Gender](https://www.youtube.com/watch?v=QLWKYTxLYT4) Mm. Cass Review'tä käsitellään tässä, eli siis terveyspolitiikkaa, jossa oli Suomalaiset tekijät mukana ja Suomen hoitosuositukset olivat yhdet ainoasta kahdesta tarpeeksi korkealaatuisia. 
 
