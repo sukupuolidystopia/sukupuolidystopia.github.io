@@ -2,7 +2,7 @@
 <sub><sup>*Normaalia ja hyväksyttävää yhteistyötä valtion virkamiehen ja vieraan valtion edustajan kanssa.* [Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Kulku omalla vastuulla.❗ <br>
+❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin.❗ <br>
 
 [30+ mainintaa](lista.html) Suomen hoitosuosituksista, suomalaisista tutkimuksista amerikkalaisissa anti-trans lakialoitteissa jne.
 
