@@ -116,6 +116,8 @@ Tämä Tampereen ylipiston professori ja TAYSin nuorisopsykiatrian ylilääkäri
 - Tässä [lääkärilehti julkaisee puhdastaa propagandaa](https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/), joka ei paljoa eroa amerikkalaisesta oikeistomediasta. Kaltiala haastatellaan, mutta hänet on tässä kertomuksessa leikattu pois kuvasta politisoimasta Cass Review'tä. 
    
 ## Eheytyshoidot <a id="eheys"></a>
+[Kartta modernista anti-trans eheytyshoitoverkostosta, jossa paljon yhteyksi Suomeen](https://healthliberationnow.com/anti-trans-conversion-therapy-map-of-influence/)
+
 <img src="https://sukupuolidystopia.github.io/images/conv1.png" width="350"/><br>
 <img src="https://sukupuolidystopia.github.io/images/conv2.png" width="350"/><br>
 <sub><sup> [Lähde](https://www.thetrevorproject.org/wp-content/uploads/2023/05/2023.05.05-Chiles-v.-Salazar-Trevor-Project-AFSP-AAS-Amicus-Brief-010110855630.pdf)</sup></sub><br>
