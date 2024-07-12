@@ -12,17 +12,18 @@
  1. [Suomen todellisuudesta](#item)
  2. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
  4. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 5. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 6. [Podcast- ja videolähteitä](#audio)
- 7. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
- 8. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 9. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 10. [Eheytyshoidot](#eheys)
- 11. [Kaltiala](#kaltiala)
- 12. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 13. [Tulossa](#tulossa)
- 14. [Sidonnaisuudet](#sidos)
- 15. [Yhteystiedot ja some](#some)
+ 5. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
+ 6. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 7. [Podcast- ja videolähteitä](#audio)
+ 8. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
+ 9. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 10. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 11. [Eheytyshoidot](#eheys)
+ 12. [Kaltiala](#kaltiala)
+ 13. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 14. [Tulossa](#tulossa)
+ 15. [Sidonnaisuudet](#sidos)
+ 16. [Yhteystiedot ja some](#some)
   
  
 
@@ -74,6 +75,18 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 -  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä. [Suomalainen tutkimus oli kolmanneksi useimmiten mainuttu](https://www.splcenter.org/sites/default/files/appendix4-3-publications-cited-anti-lgbtq-expert-witnesses.pdf) tutkittujen anti-trans lakialoitteiden yhteydessä  <br>
 -  [A New Era - Key Actors in Anti-Trans Conversion Therapy](https://healthliberationnow.com/wp-content/uploads/2022/06/A-New-Era-Key-Actors-Behind-Anti-Trans-Conversion-Therapy.pdf) Hyvin kattava raportti transihmisten eheytysyrityksestä modernissa kontekstissa, mm. exploration therapy nimellä, mitä [Kaltiala käytti toistuvasti](https://www.instagram.com/reel/C7OCHDftNpS/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) kuvaillessaan Suomen lähestymistapaa alaikäisen toimiessaan asiantuntijana Floridan transhoitokiellon puolesta, ja [jonka esitti nuoria tapaaville terveydenhollin ammattilaisille](#eheys)
  - [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkimuksessa
+
+##  TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa <a id="bhutan"></a>
+
+Bhutanin valtio on järjestänyt vuosina 2023 ja 2024 terveystapahtuman, jossa oli sukupuolidysforia-symposiumi. [Puhujalista](https://thelinkbhutan.org/seminars/symposium_gender_dysphoria/program/) tuo yhteen maltillisemman kuvan itsestään antavia henkilöitä, joilla yhteyksiä anti-gender liikkeeseen, sekä puhtaitaita anti-trans kiihkoilijoita. [Zinnia Jones](https://twitter.com/ErinInTheMorn/status/1784314343703617690) löysi tämän tapahtuman. [Näin](https://thelinkbhutan.org/seminars/symposium_gender_dysphoria/program/the_story.pdf) tapahtuman järjestäjät kuvailevat seminaaria (sivun mukaan myös esim. ensimmäinen transhoitokliniikka avattiin Yhdysvalloissa 15 vuotta sitten, joka on aika monta vuosikymmentä myöhemmin, kuin todellisuudessa):
+
+*How do you manage an adolescent with mobile in hand, stating he is suicidal and was born in the wrong body? Who do you consult? How do you counsel a mother whose lovely daughter berated her fiercely for not addressing her as 'he'?
+[...]
+Is Bhutan now where the U.S. and other western countries were 10 to 15 years ago before the gender dysphoria phenomenon descended on these countries? Imagine if what has happened in these countries could be avoided in Bhutan. What could we do? Would informing the physicians and health workers help?*
+
+Tässä on vuoden 2023 esiintyjälista. Moni nimi löytyy SPLC:n anti-trans disinformaatioverkostosta, ja anti-trans eheytyshoitoverkostosta. Mukana on ollut mm. [Paul Hruz](https://glaad.org/gap/paul-hruz/), [Stephen Levine](https://transdatalibrary.org/person/stephen-b-levine/), jotka ovat molemmat olleet asiantuntijatodistajina [ainakin 12 eri anti-trans lakialoitteessa Yhdysvalloissa](https://www.huffpost.com/entry/paid-experts-defending-anti-trans-law_n_65021a7ee4b01df7c3b6d513?utm_source=substack&utm_medium=email), usein [ADF](https://transdatalibrary.org/organization/alliance-defending-freedom/):n kaltaisten viharyhmien puolesta. Myös [Stella O'Malley](https://transdatalibrary.org/person/stella-omalley/), sekä [Linda Blade](https://www.transgendermap.com/issues/topics/media/linda-blade/), jonka missio on transnaisten sulkemien pois kaikista urheilulajeista. Jos vielä luulit, että tässä voisi olla jotenkin kyse sukupuolidysforian parhaiden hoitomenetelmien ja tiedon edistämisestä. Tampereen yliopiston ja TAYS:in logot olivat näkyvästi esillä Kaltilan presentaatiossa.
+
+Tämä, jos jokin, on esimerkki anti-gender disinformaation viennistä ulkomaille. Suomi siis harrastaa sitä verovaroin. Pitää kai mennä läpi puhujalistat ja kerätä kaikki heidän yhteydet ääriryhmiin yhteen siinä toivossa, että olisi täysin kiistattomasti esitetty, että tässä edistetään ääri-ideologiaa, että ehkä joku tekisi jotain. Tämä on käytännössä sama, kuin laitaoikeisto, joka ei huolestuta enemmistöä kotimaassaan, koska varovat tarpeeksi sanojaan, mutta osallistuvat kuitenkin uusnatsien kokoontumiseen ulkomailla. Ei voi edes sanoa, että oli jotenkin vahingossa päätynyt paikalle, koska osallistui [seuraavana vuonna](https://t.co/D8NBH7C9TB), ja koska Kaltialalla oli jo valmiiksi yhteyksiä niin moneen osallistujaan.
 
 ## "Kansainväliset asiantuntijatehtävät"<a id="asia"></a>
 
