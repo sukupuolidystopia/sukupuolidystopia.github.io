@@ -13,17 +13,18 @@
  2. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
  4. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  5. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
- 6. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 7. [Podcast- ja videolähteitä](#audio)
- 8. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
- 9. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 10. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 11. [Eheytyshoidot](#eheys)
- 12. [Kaltiala](#kaltiala)
- 13. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 14. [Tulossa](#tulossa)
- 15. [Sidonnaisuudet](#sidos)
- 16. [Yhteystiedot ja some](#some)
+ 6. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
+ 7. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 8. [Podcast- ja videolähteitä](#audio)
+ 9. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
+ 10. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 11. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 12. [Eheytyshoidot](#eheys)
+ 13. [Kaltiala](#kaltiala)
+ 14. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 15. [Tulossa](#tulossa)
+ 16. [Sidonnaisuudet](#sidos)
+ 17. [Yhteystiedot ja some](#some)
   
  
 
@@ -87,6 +88,24 @@ Is Bhutan now where the U.S. and other western countries were 10 to 15 years ago
 [Tässä](https://thelinkbhutan.org/seminars/symposium_gender_dysphoria/program/) on vuoden 2023 esiintyjälista. Moni nimi löytyy SPLC:n anti-trans disinformaatioverkostosta, ja anti-trans eheytyshoitoverkostosta. Mukana on ollut mm. [Paul Hruz](https://glaad.org/gap/paul-hruz/), [Stephen Levine](https://transdatalibrary.org/person/stephen-b-levine/), jotka ovat molemmat olleet asiantuntijatodistajina [ainakin 12 eri anti-trans lakialoitteessa Yhdysvalloissa](https://www.huffpost.com/entry/paid-experts-defending-anti-trans-law_n_65021a7ee4b01df7c3b6d513?utm_source=substack&utm_medium=email), usein [ADF](https://transdatalibrary.org/organization/alliance-defending-freedom/):n kaltaisten viharyhmien puolesta. Myös [Stella O'Malley](https://transdatalibrary.org/person/stella-omalley/), jonka podcastissa Kaltiala on vieraillut. [Linda Blade](https://www.transgendermap.com/issues/topics/media/linda-blade/) on mukana, hänen missio on transnaisten sulkemien pois kaikista urheilulajeista. Jos vielä luulit, että tässä voisi olla jotenkin kyse sukupuolidysforian parhaiden hoitomenetelmien ja tiedon edistämisestä. Tampereen yliopiston ja TAYS:in logot olivat näkyvästi esillä Kaltilan presentaatiossa.
 
 Tämä, jos jokin, on esimerkki anti-gender disinformaation viennistä ulkomaille. Suomi siis harrastaa sitä verovaroin. Pitää kai mennä läpi puhujalistat ja kerätä kaikki heidän yhteydet ääriryhmiin yhteen siinä toivossa, että olisi täysin kiistattomasti esitetty, että tässä edistetään ääri-ideologiaa, että ehkä joku tekisi jotain. Tämä on käytännössä sama, kuin laitaoikeisto, joka ei huolestuta enemmistöä kotimaassaan, koska varovat tarpeeksi sanojaan, mutta osallistuvat kuitenkin uusnatsien kokoontumiseen ulkomailla. Ei voi edes sanoa, että oli jotenkin vahingossa päätynyt paikalle, koska osallistui [seuraavana vuonna](https://t.co/D8NBH7C9TB), ja koska Kaltialalla oli jo valmiiksi yhteyksiä niin moneen osallistujaan.
+
+##  Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä <a id="harm"></a>
+
+Jo pelkän [tapahtuman](https://www.tickettailor.com/events/clinicaladvisorynetworkforsexgender/1116765) nimi kuulostaa koirapillilltä, ja osallistujalista varmisti epäilyt, että kyseessä on gender-critical tapahtuma. Useat queer-järjestöt osoittivat mieltään "eheytyshoitokonferenssin" edessä. Tässä muita puhujia:
+
+•Stelley O’Malley, Genspectin perustaja ja johtaja, joka on kuvannut pyrkimyksiään tukahduttaa teini-ikäisten sukupuoli-identiteettiä terapeuttisessa työssään, lisäten: *"En usko, että sinun tulisi tuntea empatiaa tai sympatiaa nuoria trans-tyttöjä kohtaan."*. Hän osallistui myös Bhutanin konferenssinn. 
+
+•Rachel Cashman, koulujen trans-inkluusion vastainen kampanjoitsija ja Women’s Declaration Internationalin (WDI) tukija. Entisellä nimellään Women’s Human Rights Campaign, WDI on avoimesti vaatinut *“elimination […] of the practice of transgenderism”*.
+
+•Az Hakeem, Genspectin jäsen ja ehdotetun eheytyshoitokiellon aktiivinen vastustaja. Hakeemin entinen potilas teki hänestä valituksen viranomaisille eheytyshoidon takia.
+
+[Lähde](https://ruthpearce.net/2024/03/03/rcgp-host-conversion-therapy-conference-in-london-protest-23-march/)
+
+Tapahtuman järjesti Clinical Advisory Network on Sex and Gender, jota kutsutaan [anti-trans bulvaanijärjestöksi](https://www.transgendermap.com/issues/regret/clinical-advisory-network-on-sex-and-gender/). Usean muunkin osallistujan tiedot löytyy anti-trans aktivisteista kirjaa pitäviltä sivuilta, kuten [Transgender Map](https://www.transgendermap.com/).
+
+<img src="https://lh7-us.googleusercontent.com/SrZHRNdiJR46aRBOccm4lDXQ4NK1xDePjLwDgKNQrSZTd5Nrc8dYuhqVmf8cL6noomk8iEX0gamxkoYn7D_OcMIDHvpbftbmfsxbOlGYM0qC04AivslAinDsyWaL6J44FE3Vkrn_8ChOxThOfOmcKjQ" width="500"/><br>
+[Useat queer-järjestöt yrittivät estää konferenssin tapahtumisen.](https://whatthetrans.com/get-loud-get-angry-can-sg-protest/)
+
 
 ## "Kansainväliset asiantuntijatehtävät"<a id="asia"></a>
 
