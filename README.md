@@ -2,7 +2,7 @@
 <sub><sup>*Normaalia ja hyväksyttävää yhteistyötä valtion virkamiehen ja vieraan valtion edustajan kanssa.* [Lähde](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)</sup></sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Kulku omalla vastuulla.❗ <br>
+❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin.❗ <br>
 
 [30+ mainintaa](lista.html) Suomen hoitosuosituksista, suomalaisista tutkimuksista amerikkalaisissa anti-trans lakialoitteissa jne.
 
@@ -12,17 +12,19 @@
  1. [Suomen todellisuudesta](#item)
  2. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
  4. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 5. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 6. [Podcast- ja videolähteitä](#audio)
- 7. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
- 8. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 9. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 10. [Eheytyshoidot](#eheys)
- 11. [Kaltiala](#kaltiala)
- 12. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 13. [Tulossa](#tulossa)
- 14. [Sidonnaisuudet](#sidos)
- 15. [Yhteystiedot ja some](#some)
+ 5. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
+ 6. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
+ 7. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 8. [Podcast- ja videolähteitä](#audio)
+ 9. [Suomi anti-trans lähteenä USAn korkeimmasta oikeudesta](#scotus)
+ 10. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 11. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 12. [Eheytyshoidot](#eheys)
+ 13. [Kaltiala](#kaltiala)
+ 14. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 15. [Tulossa](#tulossa)
+ 16. [Sidonnaisuudet](#sidos)
+ 17. [Yhteystiedot ja some](#some)
   
  
 
@@ -46,6 +48,7 @@ Sukupuolidysforiaa kokeneiden ihmisten kokemukset
 terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132230/Va%CC%88yrynenVilma.pdf?sequence=2&isAllowed=y)
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
+
 
 ## Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle<a id="duo"></a>
 Ettei kukaan saa väärää käsitystä ja luulee, että Kaltiala on kaiken tämän takana; Ennen huhtikuun 20. päivää [nämä](https://web.archive.org/web/20240420183451/https://www.kaypahoito.fi/nix03202) olivat Duodecimin Autismikirjon häiriö ja sukupuolidysforia -suositukset. Seitsemännen lähteen väitettiin tukevan varsin kummallista lausetta, joten tarkistin lähteen. Suosituksissa lukee:
@@ -73,6 +76,36 @@ Vielä työn alla, mutta [tässä otanta korkeimman oikeuden tapauksista eheytys
 -  [SPLC:n Combating Anti-trans Pseudoscience](https://www.splcenter.org/captain/) Hyvin laaja-alaisia raportteja anti-trans pseudotieteestä. [Suomalainen tutkimus oli kolmanneksi useimmiten mainuttu](https://www.splcenter.org/sites/default/files/appendix4-3-publications-cited-anti-lgbtq-expert-witnesses.pdf) tutkittujen anti-trans lakialoitteiden yhteydessä  <br>
 -  [A New Era - Key Actors in Anti-Trans Conversion Therapy](https://healthliberationnow.com/wp-content/uploads/2022/06/A-New-Era-Key-Actors-Behind-Anti-Trans-Conversion-Therapy.pdf) Hyvin kattava raportti transihmisten eheytysyrityksestä modernissa kontekstissa, mm. exploration therapy nimellä, mitä [Kaltiala käytti toistuvasti](https://www.instagram.com/reel/C7OCHDftNpS/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) kuvaillessaan Suomen lähestymistapaa alaikäisen toimiessaan asiantuntijana Floridan transhoitokiellon puolesta, ja [jonka esitti nuoria tapaaville terveydenhollin ammattilaisille](#eheys)
  - [Trans Advocaten Disco Sexology -sarja](https://www.transadvocate.com/part-i-the-rise-and-fall-of-discosexology-dr-zucker-camh-conversion-therapy_n_19556.htm) Kertoo useista SPLC:n mainitsemasta psykiatrista historiallisemmasta näkökulmasta translääketieteen kehittyessä. Näihin psykiatreihin viitataan paljon Suomalaisessa transtutkimuksessa
+
+##  TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa <a id="bhutan"></a>
+
+Bhutanin valtio on järjestänyt vuosina 2023 ja 2024 terveystapahtuman, jossa oli sukupuolidysforia-symposiumi. [Puhujalista](https://thelinkbhutan.org/seminars/symposium_gender_dysphoria/program/) tuo yhteen maltillisemman kuvan itsestään antavia henkilöitä, joilla yhteyksiä anti-gender liikkeeseen, sekä puhtaitaita anti-trans kiihkoilijoita. [Zinnia Jones](https://twitter.com/ErinInTheMorn/status/1784314343703617690) löysi tämän tapahtuman. [Näin](https://thelinkbhutan.org/seminars/symposium_gender_dysphoria/program/the_story.pdf) tapahtuman järjestäjät kuvailevat seminaaria (sivun mukaan myös esim. ensimmäinen transhoitokliniikka avattiin Yhdysvalloissa 15 vuotta sitten, joka on aika monta vuosikymmentä myöhemmin, kuin todellisuudessa):
+
+*How do you manage an adolescent with mobile in hand, stating he is suicidal and was born in the wrong body? Who do you consult? How do you counsel a mother whose lovely daughter berated her fiercely for not addressing her as 'he'?
+[...]
+Is Bhutan now where the U.S. and other western countries were 10 to 15 years ago before the gender dysphoria phenomenon descended on these countries? Imagine if what has happened in these countries could be avoided in Bhutan. What could we do? Would informing the physicians and health workers help?*
+
+[Tässä](https://thelinkbhutan.org/seminars/symposium_gender_dysphoria/program/) on vuoden 2023 esiintyjälista. Moni nimi löytyy SPLC:n anti-trans disinformaatioverkostosta, ja anti-trans eheytyshoitoverkostosta. Mukana on ollut mm. [Paul Hruz](https://glaad.org/gap/paul-hruz/), [Stephen Levine](https://transdatalibrary.org/person/stephen-b-levine/), jotka ovat molemmat olleet asiantuntijatodistajina [ainakin 12 eri anti-trans lakialoitteessa Yhdysvalloissa](https://www.huffpost.com/entry/paid-experts-defending-anti-trans-law_n_65021a7ee4b01df7c3b6d513?utm_source=substack&utm_medium=email), usein [ADF](https://transdatalibrary.org/organization/alliance-defending-freedom/):n kaltaisten viharyhmien puolesta. Myös [Stella O'Malley](https://transdatalibrary.org/person/stella-omalley/), jonka podcastissa Kaltiala on vieraillut. [Linda Blade](https://www.transgendermap.com/issues/topics/media/linda-blade/) on mukana, hänen missio on transnaisten sulkemien pois kaikista urheilulajeista. Jos vielä luulit, että tässä voisi olla jotenkin kyse sukupuolidysforian parhaiden hoitomenetelmien ja tiedon edistämisestä. Tampereen yliopiston ja TAYS:in logot olivat näkyvästi esillä Kaltilan presentaatiossa.
+
+Tämä, jos jokin, on esimerkki anti-gender disinformaation viennistä ulkomaille. Suomi siis harrastaa sitä verovaroin. Pitää kai mennä läpi puhujalistat ja kerätä kaikki heidän yhteydet ääriryhmiin yhteen siinä toivossa, että olisi täysin kiistattomasti esitetty, että tässä edistetään ääri-ideologiaa, että ehkä joku tekisi jotain. Tämä on käytännössä sama, kuin laitaoikeisto, joka ei huolestuta enemmistöä kotimaassaan, koska varovat tarpeeksi sanojaan, mutta osallistuvat kuitenkin uusnatsien kokoontumiseen ulkomailla. Ei voi edes sanoa, että oli jotenkin vahingossa päätynyt paikalle, koska osallistui [seuraavana vuonna](https://t.co/D8NBH7C9TB), ja koska Kaltialalla oli jo valmiiksi yhteyksiä niin moneen osallistujaan.
+
+##  Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä <a id="harm"></a>
+
+Jos on yhtään altistunut anti-gender retoriikalle, [tapahtuman](https://www.tickettailor.com/events/clinicaladvisorynetworkforsexgender/1116765) nimi kuulostaa selkeältä koirapillilltä.  Osallistujalista varmisti epäilyt, että kyseessä on gender-critical tapahtuma. Tässä muita puhujia Kaltialan lisäksi:
+
+•[Stelley O’Malley](https://transdatalibrary.org/person/stella-omalley/), Genspectin perustaja ja johtaja, joka on kuvannut pyrkimyksiään tukahduttaa teini-ikäisten sukupuoli-identiteettiä terapeuttisessa työssään, lisäten: *"En usko, että sinun tulisi tuntea empatiaa tai sympatiaa nuoria trans-tyttöjä kohtaan."*. Hän osallistui myös Bhutanin konferenssiin. 
+
+•Rachel Cashman, koulujen trans-inkluusion vastainen kampanjoitsija ja Women’s Declaration Internationalin (WDI) tukija. Entisellä nimellään Women’s Human Rights Campaign, WDI on avoimesti vaatinut [*“elimination […] of the practice of transgenderism”*](https://committees.parliament.uk/writtenevidence/17510/pdf/).
+
+•Az Hakeem, Genspectin jäsen ja ehdotetun eheytyshoitokiellon aktiivinen vastustaja. Hakeemin entinen potilas teki hänestä valituksen viranomaisille eheytyshoidon takia.
+
+[Lähde](https://ruthpearce.net/2024/03/03/rcgp-host-conversion-therapy-conference-in-london-protest-23-march/)
+
+Tapahtuman järjesti Clinical Advisory Network on Sex and Gender, jota kutsutaan [anti-trans bulvaanijärjestöksi](https://www.transgendermap.com/issues/regret/clinical-advisory-network-on-sex-and-gender/), koska päällepäin puhuvat varoivaisuudesta ja tieteellisen näytön tarpeesta, mutta se on savuverho anti-gender liikkeelle, transfobialle, ja muille ääri-ideologioille.  Esimerkiksi tässä tapahtumassa puhui myös [transfobinen nettitrolli](https://www.transgendermap.com/issues/sociology/michael-biggs/), sekä ["ex-transgender" liikkeen kannattaja, jonka yhdistys myy palveluita vanhemmille, jotka vastustavat lastensa transitiota](https://www.transgendermap.com/issues/psychology/anna-hutchinson/). Tämä, kuten monet muut Kaltialan ulkomaiset esiintymiset ei ole puolustettavissa edes kuvailemalla sitä "molempien puolien" tapahtumaksi, koska pelkästään anti-gender ideologia eri variaatioissaan oli edustettuna. Tiede on tällaisissa konferensseissa asia, mistä etsitään esimerkkejä valmiiksi lukkoon lyötyjen uskomusten tukemiseksi. Kaltialan asema ja narratiivi, niin harhanjohtava kuin se onkin, on hyvin tehokas työkalu mielipidevaikuttamisessa.
+
+<img src="https://lh7-us.googleusercontent.com/SrZHRNdiJR46aRBOccm4lDXQ4NK1xDePjLwDgKNQrSZTd5Nrc8dYuhqVmf8cL6noomk8iEX0gamxkoYn7D_OcMIDHvpbftbmfsxbOlGYM0qC04AivslAinDsyWaL6J44FE3Vkrn_8ChOxThOfOmcKjQ" width="500"/><br>
+[Useat queer-järjestöt yrittivät estää "eheytyshoitokonferenssin" tapahtumisen.](https://whatthetrans.com/get-loud-get-angry-can-sg-protest/)
+
 
 ## "Kansainväliset asiantuntijatehtävät"<a id="asia"></a>
 
@@ -115,6 +148,8 @@ Tämä Tampereen ylipiston professori ja TAYSin nuorisopsykiatrian ylilääkäri
 - Tässä [lääkärilehti julkaisee puhdastaa propagandaa](https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/), joka ei paljoa eroa amerikkalaisesta oikeistomediasta. Kaltiala haastatellaan, mutta hänet on tässä kertomuksessa leikattu pois kuvasta politisoimasta Cass Review'tä. 
    
 ## Eheytyshoidot <a id="eheys"></a>
+[Kartta modernista anti-trans eheytyshoitoverkostosta, jossa paljon yhteyksi Suomeen](https://healthliberationnow.com/anti-trans-conversion-therapy-map-of-influence/)
+
 <img src="https://sukupuolidystopia.github.io/images/conv1.png" width="350"/><br>
 <img src="https://sukupuolidystopia.github.io/images/conv2.png" width="350"/><br>
 <sub><sup> [Lähde](https://www.thetrevorproject.org/wp-content/uploads/2023/05/2023.05.05-Chiles-v.-Salazar-Trevor-Project-AFSP-AAS-Amicus-Brief-010110855630.pdf)</sup></sub><br>
@@ -141,13 +176,19 @@ Se, että olen transsukupuolinen. asettaa minut monen cis-ihmisen mielessä auto
 
 ## Miksi sukupuolidystopia, onhan asiat paljon huonommin monessa muussa maassa? <a id="miksi"></a>
 
-Niin ovatkin, mutta verorahoja käytetään kampanjointiin edistystä vastaan ulkomaillakin. Puhumattakaan siitä, että jos olet Suomessa asuva transihminen, jolla olisi tarvetta lääketieteelliselle transitiolle, vastassa on enemmän anti-gender narratiiveihin kuin tieteeseen nojautuva järjestelmä, jota ei uskalleta kyseenalaistaa ns. transpolien mielivaltaisten päätösteon takia. Samalla kun sateenkaariliput liehuvat ja Suomi antaa itsestään suvaitsevaisen kuvan, meillä on Sukupuoli-identiteetin tutkimuskeskus, jossa ihmiset laitetaan arviointiprosessiläpi, joka on kaukana kansainvälisistä hoitosuosituksista, eikä eri arviointivaiheiden tarpeellisuudelle ole tieteellistä näyttöä. Ja pelkästään tämän prosessin aloittamista joutuu usein odottamaan vuosia. 
+Niin ovatkin, mutta harva suomalainen tietää, että transsukupuolista lasta tukevilla vanhemmilla olisi paremmat mahdollisuudet saada blokkereita eheytyshoidon sijaan Floridassa, kuin Suomessa. Tämä on tulotasosta riippumaton fakta. Jos olet Suomessa asuva transihminen, jolla olisi tarvetta lääketieteelliselle transitiolle, vastassa on ensiksi vuosien hoitojonot, sitte enemmän anti-gender narratiiveihin kuin tieteeseen nojautuva järjestelmä, jota on vaikea kyseenalaistaa ns. transpolien mielivaltaisten päätösteon takia. Eikö hoitojonot voisi ylittää menemällä yksityiselle? Yksityiseltä ei ole mahdollista saada tätä hoitoa. Tämäkin mitä teen, on riski, koska transpolien lääkärit seuraavat sitä, mitä heistä sanotaan netissä, ja huonon maineen takia kehoittavat potilaita puhumaan kokemuksistaan positiivisesti. Yhden henkilön kertoman mukaan hänelle annettiin ymmärtää, että olivat seuranneet netissä hänen krittiisiä forumikirjoituksita. 
 
-On olemassa parempi tapa tehdä asiat, mutta valitettavasti Suomessa on konservatiivinen lääkärikulttuuri, ja vähillä resursseilla pyörivät transpolit, jossa yksittäisellä henkilöllä voi olla kohtuuton määrä vaikutusvaltaa. Tämä vaikutusvalta on päätynyt riittakerttu Kaltialalle, vaikka ennen nimitystä vastuuseen nuorten transhoidoista, hän vastusti ideaa kahdella kirjoutuksella Lääkärilehdessä, joista toisen otsikko on [Pelastakaa edes lapset](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf). Ei ole lioiteltua sanoa hänyä kansainvälisesti vaikutusvaltaisimmaksi suomalaiseksi lääkäriksi, kun ottaa huomiion lakialoitteet, jotka viittaavat hänen kirjoutuksiin, sekä hänen suora osallistuminen transihmisten oikeuksien rajouttamiseen tai siihen pyrkimiseen Yhdysvalloissa ja Briteissä yhdessä SEGM-bulvaanijärjestön kanssa. Lisäksi hän on tehnyt valtavati mediaesiintymisiä, joille  on tuonut lisähuomiota Elon Musk ja J.K. Rowling. Oikeistomediat kuten Daily Caller, Daily Wire, National Review, New York Post, Daily Mail ja Suomessa Oikea Media ovat ylistäneet hänen rohkeutta nousta gender-ideologiaa vastaan.
+Moni ulkopuolinen tuntuu ajattelevan, että transpoleilla työskentelevät ovat kuin lemmikkieläinlääkäreitä: ei kukaan hankkiutuisi lemmikkieläinlääkäriksi, jos ei pitäisi lemmikeistä ja olisi sitä mieltä, että niiden hoito on resurssien haaskausta. Ei kuintenkaan ole mitään translääketieteen erikoitumista, johon ohjautuisivat ihmiset, joilla olisi eritysitä mielenkiintoa sukupuolivähemmistöjen hyvinvointia kohtaan (saati sitten, että itse kuuluisivat sukupuolivähemmistöön). Suomessa alan huipulle voi päästä, vaikka jo ennen nimitystä vastuuseen nuorten transhoidoista vastusti alaikäisten transhoitojen ideaa kahdella kirjoutuksella Lääkärilehdessä, joista toisen otsikko on [Pelastakaa edes lapset](https://sukupuolidystopia.github.io/images/For_and_against_adolescent_trans_care_2011-2.pdf). 
 
-Yleisemminkin on harvoja maita, joilla on yhtä progressiivinen maine ulkomailla, kuin Suomella. Siksi  minulle oli kova shokki muuttaa Suomeen perheeni kannustettua, kun translakikin meni läpi. Sitten saun kuulla, että vaikka minulla on kaikki paperit kunnossa aiemmilta lääkäreiltä, jonojen takia en tule näkemän endokrinologia, joka jatkaisi hormonihoitoa ja ohjaisi laboriatoriotestejä vuoteen. Ilman ulkomaista hoitokontaktia testosteronihoito olisi lopettu seinään ilman mitään valvontaa. Kuvittele jotain murrosiän tai vaihdevuosien tapaista, mutta niin, että muutos hormoneissa ei tapahdu vähitellen. Jos paperit eivät olisi kunnossa, olisi lukuisan vuoden jono aloittaa suomalainen prosessi alusta. Ja siis "parerit eivät ole kunnossa", on totta myös, jos aiempi arvioitiprosessi on Suomen systeemiä modernimpi. Minkä viestin tästä voi saada, kuin että transsukupuolisten terveys on toissijaista byrokratialla, jonka on tarkoitus minimoida transhoitojen saatavuus. 
+Ei ole lioiteltua sanoa Kaltialaa kansainvälisesti vaikutusvaltaisimmaksi suomalaiseksi lääkäriksi, kun ottaa huomiion lakialoitteet, jotka viittaavat hänen kirjoutuksiin, sekä hänen suora osallistuminen transihmisten oikeuksien rajouttamiseen pyrkivään aktivismiin Yhdysvalloissa ja Briteissä. Lisäksi hän on tehnyt valtavati mediaesiintymisiä, joille  on tuonut lisähuomiota sellaiset pienet nimet, kuten Elon Musk ja J.K. Rowling. Oikeistomediat kuten Daily Caller, Daily Wire, National Review, New York Post, Daily Mail ja Suomessa Oikea Media ovat ylistäneet hänen rohkeutta nousta gender-ideologiaa vastaan. Ja samalla ylistetetään Suomen tiukennettuja hoitosuosituksia, joista hän ottaa kunnian itselleen. Tuntuu kummalliselta, että Suomen maininta paljon harmittomanpien asiaoiden yheteydessä ylittää uutiskynnyken, mutta jotenkin [maailman 20 suosituimman uutissivun joukkoon](https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/) kuuluvat Daily Mail ja New York Post julkaisivat molemmat kaksi tämäntyyppistä juttua, ja tämä jää vaille huomioita.
 
-Mutta en tee tätä oman kokemukseni takia. Päinvastoin, koska olen välttänyt Suomen prosessin kokonaisuudessaan, "sua ne ei ole pystynyt kuluttamaan loppuun". Monella on huonompi kokemus, ja useammalla tulee olemaan yhä huonompi, jos saman menon annetaan jatkua. Ja vaikka transasiat ei kiinnostaisi, Suomen transtiede tekee Suomen yliopistot naurunalaiseksi, kun pienikin määrä ulkomaista tunnistusta yhdistettynä hierarkiaan ja olemassoleviin ennakkoluuloihin riittää siihen, että hyvä metodologia tai lähdekritiikki saavat lentää ulos ikkunasta. Ja opetus- sekä sosiaali- ja terveysministeriöt rahoittavat tätä kaikkea.
+Henkilökohtainen syyni on, että minulla on kokemus informed consent mallin transhoidosta. Muistan, kuinka onnen kukkuroilla olin pyöräilessäni kotiin, kun lääkäri oli keskeyttänyt elämäntarinani, jota aloin kertoa lapsuudesta asti sukupuoliristiriitojani, kuten Itä-Euroopassa piti, ja sanoi "Meitä ei täällä kiinnosta arvioida, oletko tarpeeksi trans, meitä kiinnostaa, että olet terve", ja kertoi, että jos minulla oli epäilyksiä tai halusin lisätietoa hormonejen vaikutuksesta, heillä oli ihmiset sitä varten. Kaikki tämä tapahtui parissa viikossa paikallisen KELA-kortin saannin jälkeen. Sain hormonit ja lähetteet laboratoriokokeisiin, ensimmäisen kerra niin, että terveydenhuoltohenkilöstö kohteli minua samanlaisena ihmisenä, kuin he. 
+
+Tämänhetkisessä tilanteessa tuntuu, että olisi parempi, jos minulla ei olisi tuota positivista muistoa. Suomessa asiat toimivat täysin päinvastoin. Minun fyysisisellä terveydelläni on vähemmän väliä, kuin sillä, että varmistavat oikein perinpohjaisesti, että olen oikeasti trans, ja oikein luokiteltu. Suomeen muutettua, ilman ulkomaista hoitokontaktia testosteronihoito olisi lopettu seinään ilman laboratoriokokeita, valvontaa, tai tukea. Kuvittele jotain murrosiän tai vaihdevuosien tapaista, mutta niin, että muutos hormoneissa ei tapahdu vähitellen. Kun sanoin transpolille, että eihän tämä missään maailmassa voi olla terveydelleni hyväksi, minulle vastattiin "me ei tietenkään voida suositella sitä, mutta monet potilaat hankkii hormonit muin keinoin" (enkä ole ainoa, jolle on vinkattu ties mitä katulääkkeitä). Minkä viestin tästä voi saada, kuin että transsukupuolisten terveys on toissijaista byrokratialle, jonka on tarkoitus minimoida lääketieteellisten transhoitojen saatavuus.  
+
+Jos paperit eivät olisi kunnossa, olisi lukuisan vuoden jono aloittaa suomalainen prosessi alusta. Ja hoitojonojen lyhentämisen sijaan 750 000e löytyy kyllä [neuropsykiatriseen seksuaaliterapiaan](https://www.hankintailmoitukset.fi/fi/public/procurement/62070/notice/87852/overview), jota minulle tarjottiin, että voisin yhtä hyvin mennä, kun olen hormonijonossa, vaikka minä enkä lääkärikään nähnyt sille tarvetta. Ajattele, kuinka monelle kymmenen ilmaista terapiakertaa voisi olla suureksi avuksi? Itse olen jo kuntouttavassa terapiassa, ja tämä terapia on tarkoitettu vain ja ainoastaan autisteille, ennen lääkehoitojen aloittamista. Mutta olen samasa vaiheessa byrokratiaa, ja näköjään näiden resurssien suhteen ei tarvitse olla säästeliäs. 
+
+Tämä on vain oma kokemukseni. Transpolitiikka-instasta voi lukea paljon pahempia. Lisäksi on monia, jotka eivät edellämainituista syistä voi puhua julkisesti, edes nimettömänä. On [tappouhkauksien pelossa elävät translapsien perheet](https://kehraaja.com/lasten-oikeuksia-puolustava-mielipidekirjoitus-johti-pommiuhkaukseen-uhkaus-ei-ensimmainen-transnuoren-aidille/), ja vahemmat binääriset transihmiset, jotka ovat sulautuneet yhteiskuntaan eivätkä ymmärrettävästi halua palata omista vaikeuksistaan muistuttavaan aikaan. Sitten on ulkomailta hoitonsa hankkineet hyvävaraiset transihmiset, jotka eivät halua tuoda huomiota asiaan, ja yleensäkin näin henkilökohtaisesta asiasta julkisesti puhuminen ei pitäisi olla asia, jota vaadittaisiin, että epäkohtiin voisi edes alkaa puututtua. Mutta jotain tässä nyt vaaditaan. 
 
 ##  Tulossa <a id="tulossa"></a>
 Tämä sivusto on vasta työn alla, mutta minulle on kerääntynyt plajomn materiaalia tutkiessani Suomen transpolitiikkaa, ja sen yhteyksiä kansainväliseen anti-gender liikkeeseen
