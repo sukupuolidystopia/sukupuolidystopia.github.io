@@ -91,20 +91,20 @@ Tämä, jos jokin, on esimerkki anti-gender disinformaation viennistä ulkomaill
 
 ##  Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä <a id="harm"></a>
 
-Jo pelkän [tapahtuman](https://www.tickettailor.com/events/clinicaladvisorynetworkforsexgender/1116765) nimi kuulostaa koirapillilltä, ja osallistujalista varmisti epäilyt, että kyseessä on gender-critical tapahtuma. Useat queer-järjestöt osoittivat mieltään "eheytyshoitokonferenssin" edessä. Tässä muita puhujia:
+Jos on yhtään altistunut anti-gender retoriikalle, [tapahtuman](https://www.tickettailor.com/events/clinicaladvisorynetworkforsexgender/1116765) nimi kuulostaa selkeältä koirapillilltä.  Osallistujalista varmisti epäilyt, että kyseessä on gender-critical tapahtuma. Tässä muita puhujia Kaltialan lisäksi:
 
-•Stelley O’Malley, Genspectin perustaja ja johtaja, joka on kuvannut pyrkimyksiään tukahduttaa teini-ikäisten sukupuoli-identiteettiä terapeuttisessa työssään, lisäten: *"En usko, että sinun tulisi tuntea empatiaa tai sympatiaa nuoria trans-tyttöjä kohtaan."*. Hän osallistui myös Bhutanin konferenssinn. 
+•[Stelley O’Malley](https://transdatalibrary.org/person/stella-omalley/), Genspectin perustaja ja johtaja, joka on kuvannut pyrkimyksiään tukahduttaa teini-ikäisten sukupuoli-identiteettiä terapeuttisessa työssään, lisäten: *"En usko, että sinun tulisi tuntea empatiaa tai sympatiaa nuoria trans-tyttöjä kohtaan."*. Hän osallistui myös Bhutanin konferenssiin. 
 
-•Rachel Cashman, koulujen trans-inkluusion vastainen kampanjoitsija ja Women’s Declaration Internationalin (WDI) tukija. Entisellä nimellään Women’s Human Rights Campaign, WDI on avoimesti vaatinut *“elimination […] of the practice of transgenderism”*.
+•Rachel Cashman, koulujen trans-inkluusion vastainen kampanjoitsija ja Women’s Declaration Internationalin (WDI) tukija. Entisellä nimellään Women’s Human Rights Campaign, WDI on avoimesti vaatinut [*“elimination […] of the practice of transgenderism”*](https://committees.parliament.uk/writtenevidence/17510/pdf/).
 
 •Az Hakeem, Genspectin jäsen ja ehdotetun eheytyshoitokiellon aktiivinen vastustaja. Hakeemin entinen potilas teki hänestä valituksen viranomaisille eheytyshoidon takia.
 
 [Lähde](https://ruthpearce.net/2024/03/03/rcgp-host-conversion-therapy-conference-in-london-protest-23-march/)
 
-Tapahtuman järjesti Clinical Advisory Network on Sex and Gender, jota kutsutaan [anti-trans bulvaanijärjestöksi](https://www.transgendermap.com/issues/regret/clinical-advisory-network-on-sex-and-gender/). Usean muunkin osallistujan tiedot löytyy anti-trans aktivisteista kirjaa pitäviltä sivuilta, kuten [Transgender Map](https://www.transgendermap.com/).
+Tapahtuman järjesti Clinical Advisory Network on Sex and Gender, jota kutsutaan [anti-trans bulvaanijärjestöksi](https://www.transgendermap.com/issues/regret/clinical-advisory-network-on-sex-and-gender/), koska päällepäin puhuvat varoivaisuudesta ja tieteellisen näytön tarpeesta, mutta se on savuverho anti-gender liikkeelle, transfobialle, ja muille ääri-ideologioille.  Esimerkiksi tässä tapahtumassa puhui myös [transfobinen nettitrolli](https://www.transgendermap.com/issues/sociology/michael-biggs/), sekä ["ex-transgender" liikkeen kannattaja, jonka yhdistys myy palveluita vanhemmille, jotka vastustavat lastensa transitiota](https://www.transgendermap.com/issues/psychology/anna-hutchinson/). Tämä, kuten monet muut Kaltialan ulkomaiset esiintymiset ei ole puolustettavissa edes kuvailemalla sitä "molempien puolien" tapahtumaksi, koska pelkästään anti-gender ideologia eri variaatioissaan oli edustettuna. Tiede on tällaisissa konferensseissa asia, mistä etsitään esimerkkejä valmiiksi lukkoon lyötyjen uskomusten tukemiseksi. Kaltialan asema ja narratiivi, niin harhanjohtava kuin se onkin, on hyvin tehokas työkalu mielipidevaikuttamisessa.
 
 <img src="https://lh7-us.googleusercontent.com/SrZHRNdiJR46aRBOccm4lDXQ4NK1xDePjLwDgKNQrSZTd5Nrc8dYuhqVmf8cL6noomk8iEX0gamxkoYn7D_OcMIDHvpbftbmfsxbOlGYM0qC04AivslAinDsyWaL6J44FE3Vkrn_8ChOxThOfOmcKjQ" width="500"/><br>
-[Useat queer-järjestöt yrittivät estää konferenssin tapahtumisen.](https://whatthetrans.com/get-loud-get-angry-can-sg-protest/)
+[Useat queer-järjestöt yrittivät estää "eheytyshoitokonferenssin" tapahtumisen.](https://whatthetrans.com/get-loud-get-angry-can-sg-protest/)
 
 
 ## "Kansainväliset asiantuntijatehtävät"<a id="asia"></a>
