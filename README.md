@@ -4,6 +4,7 @@
 
 ❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin.❗ <br>
 
+["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
 
 **Sisällysluettelo:**
 
