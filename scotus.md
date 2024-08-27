@@ -8,12 +8,13 @@ Ryhmä opiskelijoita haastoi Boyertownin koulupiirin oikeuteen, koska piiri sall
 - Asiakirja viittaa Kaltialan tutkimuksessa, joka sanoo transsukupuolisten nuorten usein kärsivän psykiatrisista ongelmista, joiden hoidon pitäisi olla ensisijaista. Se on tässä tulkittu tässä tarkoittamaan sukupuoli-identiteetin tunnistamista missään muodossa.
 - Tämän asiakirjan takana on usea henkilö, jolla on yhteyksiä Kaltialaan SEGM-järjestön käutta. Esimerkiksi Andre Von Mol, joka [näiden uskonnollisten julkaisujen mukaan](https://shop.bethel.com/collections/andre-van-mol-md) vastustaa myös aborttia, kantasolututkimusta ja sukupuolineutraalia avioliittoa.
 
-[**Eheytyshoitolaki: Brian Tingley vastaan Washingtonin osavaltio (2023)**](https://www.supremecourt.gov/DocketPDF/22/22-942/265658/20230428141210218_Amicus%20Curiae%20Brief%20of%20Ethics%20and%20Public%20Policy%20Ctr.pdf)
+[**Eheytyshoitolaki: Brian Tingley vastaan Washingtonin osavaltio**](https://www.supremecourt.gov/DocketPDF/22/22-942/265658/20230428141210218_Amicus%20Curiae%20Brief%20of%20Ethics%20and%20Public%20Policy%20Ctr.pdf)
 
-Tämä asiakirja vastustaa Washingtonin osavaltion eheytyshoitokieltoa.
-- Suomen hoitosuosituksiin viitataan osiossa *"Other countries are increasingly aware ofthe unethical nature of gender affirmation"*. Tämä väite ei pidä paikkaansa Suomen hoitosuoksien suhteen, mutta Kaltialan muut kirjoitukset ovat samaa linjaa.
+Kyseessä on haaste Washingtonin osavaltion laille, joka kieltää yritykset muuttaa alaikäisten seksuaalista suuntautumista tai sukupuoli-identiteettiä. [Tingley hävisi](https://www.nclrights.org/our-work/cases/tingley-v-ferguson/)
+-Suomen hoitosuosituksiin viitataan osiossa *"Other countries are increasingly aware ofthe unethical nature of gender affirmation"*. Tämä väite ei pidä paikkaansa Suomen hoitosuoksien suhteen, mutta Kaltialan muut kirjoitukset ovat samaa linjaa.
 Asiakijan on laatinut [The Ethics and Public Policy Center (EPPC)](https://en.wikipedia.org/wiki/Ethics_and_Public_Policy_Center), konservatiivinen ajatushautomo ja vaikuttamisryhmä, joka sijaitsee Washington D.C:ssä. Perustettu vuonna 1976, ryhmä kuvaa itseään "omistautuneeksi soveltamaan juutalais-kristillistä moraaliperinnettä keskeisiin julkisen politiikan kysymyksiin" ja ajamaan perustavia periaatteita kuten "rule of law".
 - Toisen, myös Suomen hoitosuosituksiin nojaava [eheytyshoitokieltoa vastustava](https://www.supremecourt.gov/DocketPDF/22/22-942/259917/20230327112233200_2023.03.27%20USSC%20Petition%20for%20Writ%20of%20Certiorari.pdf) asiakirja on Räsäsen keissistä tuttu Alliance Defending Freedom.
+- Kolmas, joka vain ohimennen mainitsee Suomen ja linkittää Palkoon, mutta ajattelin, että [kristittyjen hammaslääkäreiden kannanotto eheytyshoitokieltoon on huvittava ajatus.](https://www.supremecourt.gov/DocketPDF/22/22-942/265586/20230427164102758_CMDA%20v2.pdf)
 
 [**Syrjintäoikeus: G.& G.R. Harris Funeral Homes,Inc.Petitioner vastaan Equal Employment Opportunity Commission(2019)**](https://www.supremecourt.gov/DocketPDF/18/18-107/113231/20190822134020283_18-107%20Amici%20BOM%20National%20Medical%20and%20Policy%20Groups.pdf)
 
