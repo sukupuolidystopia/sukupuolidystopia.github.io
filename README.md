@@ -11,7 +11,7 @@
  1. [Suomen todellisuudesta](#item)
  2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
  3. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
- 4. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
+ 4. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
  5. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
  6. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
  7. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
@@ -50,7 +50,7 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
 
-## Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa<a id="rokote"></a>
+## Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjan kanssa<a id="rokote"></a>
 Hiljattaain [Rolling Stone](https://www.rollingstone.com/politics/politics-features/rfk-jr-anti-vax-orgs-funding-major-charities-1234857214/) ja [Important Context](https://www.importantcontext.news/p/americas-biggest-charities-bankrolled) -julkaisut paljastivat 15 miljoonan dollarin rahoituksen Fidelity ja Vanguard -rahastoilta menneen koronarokoseen ulostulon aikana rokoteskeptisyyttä levittäneeseen kampanjaan. Nämä järjestöt ottavat vastaan rahoituksia nimettömiltä lahjoittajilta, ja jakavat vuosittain miljardeja dollareita apurahoja. Mukaanlukien Päivi Räsäsen kallit amerikkalaiset juristit maksaneelle, aborttioideikeuden yhdysvaltain korkeimmassa oikeudessa kaataneelle ADF:lle, sekä RFK nuoremman rokoteskeptiselle järjestölle ja lääkärijärjestölle, joka kannusti ihmisiä Ivermectin ja Hydroxycloriquin -huuhaalääkkeiden käyttöön, joka johti ihmisten kuolemaan.
 
 Tämä liittyy Suomeen siten, että SEGM-järjestöön, jonka jäsenten kanssa Riittakerttu Kaltiala ja Laura Takala (o.s. Suomalainen) allekirjoittivat avoimen kirjeen, ja [Kaltiala tehnyt laajaa yhteistyötä](#kaltiala), on sannut ainakin [satoja tuhansia dollareita samoilta järjestöiltä, jotka myös rahoittaneet ADF:ää](https://www.splcenter.org/captain/defining-pseudoscience-network). Kaltiala on ilmoittanut ottaneen järjestöltä korvauksta vastaan Lääkärilehdessä. Patrick Hunter on myös SEGMin jäsen. 
@@ -58,9 +58,7 @@ Tämä liittyy Suomeen siten, että SEGM-järjestöön, jonka jäsenten kanssa R
 Ottaen huomioon, kuinka paljon Kaltialan narratiivi tulee esille korkeimmassa oikeudessa, vaikka Tampereen yliopistoa tai edes ei ole Tamperetta mainittu siellä ikinä ennen tai nytkään muussa kontektissa, ja ADF:n tiedetään (soveltaneen pitkäjänteistä strategiaa aborttioikeuden kumoamiseen)[https://www.nytimes.com/2024/05/28/magazine/roe-v-wade-christian-network.html], ja olleen mukana SEGM:in luonnissa, ja rokotevastaisuus myös hyvin oikeistolaiseksi muuntunut ilmiö, niin pitäisikö vähintään kysyä, onko sopivaa, että pienen Suomen valtion virkahenkilö on tekemisissä tämän luokan toimijoiden kanssa, jonka laajempaa kontekstia ei todennäköisesti itsekään ymmärrä?
 
 
-
-
-## Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle<a id="duo"></a>
+## Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen<a id="duo"></a>
 Ettei kukaan saa väärää käsitystä ja luulee, että Kaltiala on kaiken tämän takana; Ennen huhtikuun 20. päivää [nämä](https://web.archive.org/web/20240420183451/https://www.kaypahoito.fi/nix03202) olivat Duodecimin Autismikirjon häiriö ja sukupuolidysforia -suositukset. Seitsemännen lähteen väitettiin tukevan varsin kummallista lausetta, joten tarkistin lähteen. Suosituksissa lukee:
 
 *"Tutkimuksissa arvioidaan, johtuuko esimerkiksi ulkopuolisuuden tunne ASD:stä vai GD:stä, sillä molemmat voivat tätä aiheuttaa."*
@@ -74,7 +72,8 @@ Koska halusin varmistaa, ettei oma confirmation bias vääristänyt ymmärrystä
 Tavalla tai toisella [sivua päivitettiin](https://web.archive.org/web/20240000000000*/https://www.kaypahoito.fi/nix03202) pian sen jälkeen. Muutettiinko suosituksia vastaamaan komission oikeaa kantaa? __Ei, [lähde vain poistettiin](https://www.kaypahoito.fi/nix03202), mutta autistien itsetuntemuskyä perusteetta kyseenalaistava väite jätettiin sivulle.__ Tai ehkä he vain poistivat nolon virheen, ja kun luet tätä, suositukset on uusittu. 
 
 ## "Mutta lääketiede on tiedettä, ei politiikkaa!"<a id="tiede"></a>
-*(Puhun tässä Kaltialasta, vaikka hän on vain yksi tutkimuksiin liitetysitä nimistä, mutta hän on niissä yhdistävä tekijä. Asiaa ei pitäisi henkilöidä häneen liikaa, mutta hän itse tekee sitä niin paljon ulkomaisessa mediassa, kun taas muut tutkijat antavat haastatteluja harvoin, tai ei koskaan, joten on helpompaa puhua niin).*
+*Osio vaatii kipeästi päivitystä, mutta yksin en ehdi pitää kaikkea ajan tassa - tai edes oikolukea, mutta on tullut esille sellaisen pienen tahon kuin Yale School of Medicinen mukaan väärin tulkittu tutkimus, jne.
+(Puhun tässä Kaltialasta, vaikka hän on vain yksi tutkimuksiin liitetysitä nimistä, mutta hän on niissä yhdistävä tekijä. Asiaa ei pitäisi henkilöidä häneen liikaa, mutta hän itse tekee sitä niin paljon ulkomaisessa mediassa, kun taas muut tutkijat antavat haastatteluja harvoin, tai ei koskaan, joten on helpompaa puhua niin).*
 
 George Orwellin 1984 on loppuunsa lainattu, mutta ei voi olla ajattelmatta sanoja *"War is peace. Freedom is slavery. Ignorance is strength.”* kun lähtökohtana on oletus, että näiden asioiden esille tuonti on tieteen politisoimista. Hyvinkin neutraalit tahot ovat esittäneet [vakavaa kritiikkiä](https://gidmk.substack.com/p/does-gender-affirming-care-reduce) Kaltialan ja kollegoiden tekemää tutkimusta ja ideologisia siteitä kohtaan. Olen ollut tuon kirjoittaneen Gideon M-K:n kanssa yhteydessä, eikä hänellä ollut hyvää sanottavaa muistakaan tutkimuksista, joita näytin hänelle varmistaakseni, että omat ennakkoluuloni eivät vääristäneet tulkintaani. 
 
