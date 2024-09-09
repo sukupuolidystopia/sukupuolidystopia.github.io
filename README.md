@@ -9,22 +9,23 @@
 **Sisällysluettelo:**
 
  1. [Suomen todellisuudesta](#item)
- 2. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
- 3. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
- 4. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 5. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
- 6. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
- 7. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 8. [Podcast- ja videolähteitä](#audio)
- 9. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
- 10. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 11. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 12. [Eheytyshoidot](#eheys)
- 13. [Kaltiala](#kaltiala)
- 14. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 15. [Tulossa](#tulossa)
- 16. [Sidonnaisuudet](#sidos)
- 17. [Yhteystiedot ja some](#some)
+ 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
+ 3. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
+ 4. [Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle](#duo)
+ 5. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
+ 6. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
+ 7. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
+ 8. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 9. [Podcast- ja videolähteitä](#audio)
+ 10. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
+ 11. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 12. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 13. [Eheytyshoidot](#eheys)
+ 14. [Kaltiala](#kaltiala)
+ 15. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 16. [Tulossa](#tulossa)
+ 17. [Sidonnaisuudet](#sidos)
+ 18. [Yhteystiedot ja some](#some)
   
  
 
@@ -48,6 +49,15 @@ Sukupuolidysforiaa kokeneiden ihmisten kokemukset
 terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132230/Va%CC%88yrynenVilma.pdf?sequence=2&isAllowed=y)
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
+
+## Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa<a id="rokote"></a>
+Hiljattaain [Rolling Stone](https://www.rollingstone.com/politics/politics-features/rfk-jr-anti-vax-orgs-funding-major-charities-1234857214/) ja [Important Context](https://www.importantcontext.news/p/americas-biggest-charities-bankrolled) -julkaisut paljastivat 15 miljoonan dollarin rahoituksen Fidelity ja Vanguard -rahastoilta menneen koronarokoseen ulostulon aikana rokoteskeptisyyttä levittäneeseen kampanjaan. Nämä järjestöt ottavat vastaan rahoituksia nimettömiltä lahjoittajilta, ja jakavat vuosittain miljardeja dollareita apurahoja. Mukaanlukien Päivi Räsäsen kallit amerikkalaiset juristit maksaneelle, aborttioideikeuden yhdysvaltain korkeimmassa oikeudessa kaataneelle ADF:lle, sekä RFK nuoremman rokoteskeptiselle järjestölle ja lääkärijärjestölle, joka kannusti ihmisiä Ivermectin ja Hydroxycloriquin -huuhaalääkkeiden käyttöön, joka johti ihmisten kuolemaan.
+
+Tämä liittyy Suomeen siten, että SEGM-järjestöön, jonka jäsenten kanssa Riittakerttu Kaltiala ja Laura Takala (o.s. Suomalainen) allekirjoittivat avoimen kirjeen, ja [Kaltiala tehnyt laajaa yhteistyötä](#kaltiala), on sannut ainakin [satoja tuhansia dollareita samoilta järjestöiltä, jotka myös rahoittaneet ADF:ää](https://www.splcenter.org/captain/defining-pseudoscience-network). Kaltiala on ilmoittanut ottaneen järjestöltä korvauksta vastaan Lääkärilehdessä. Patrick Hunter on myös SEGMin jäsen. 
+
+Ottaen huomioon, kuinka paljon Kaltialan narratiivi tulee esille korkeimmassa oikeudessa, vaikka Tampereen yliopistoa tai edes ei ole Tamperetta mainittu siellä ikinä ennen tai nytkään muussa kontektissa, ja ADF:n tiedetään (soveltaneen pitkäjänteistä strategiaa aborttioikeuden kumoamiseen)[https://www.nytimes.com/2024/05/28/magazine/roe-v-wade-christian-network.html], ja olleen mukana SEGM:in luonnissa, ja rokotevastaisuus myös hyvin oikeistolaiseksi muuntunut ilmiö, niin pitäisikö vähintään kysyä, onko sopivaa, että pienen Suomen valtion virkahenkilö on tekemisissä tämän luokan toimijoiden kanssa, jonka laajempaa kontekstia ei todennäköisesti itsekään ymmärrä?
+
+
 
 
 ## Duodecimin Käypä Hoito -suositukset viittaavat ideologian menevän tieteen edelle<a id="duo"></a>
