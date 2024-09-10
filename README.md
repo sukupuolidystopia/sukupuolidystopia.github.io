@@ -168,7 +168,7 @@ Vuonna 2022 Riittakerttu Kaltiala esiintyi Biden hallinnon edessä vastustamassa
 
 [Tässä näkee](https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR), että SEGM-järjestön perustaja William Malone kutsui kuulemisen, ja moni muista nimistä löytyy Suomalaisten transtutkimusten lähdeluettelosta, ja esim. eheytyshoitokietojen vastustuksesta. Mutta tämä on sallittua, jos on tehty vapaa-ajalla. Tässä esitetty [lausunto asiaan liitten](https://sukupuolidystopia.github.io/images/Remarks_HHS_meeting_2022.pdf), jonka tarkoitus oli siis vaikuttaa liittovaltion lainsäädäntöön. 
  
-Sanotaan, että valtion virkahenkilöllä on vapaus tehdä vapaa-aikanaan, mitä haluaa. Mutta on epäselvää, mitä ovat tehyty vapaa-ajalla, ja mitä ei. Ainakin kuvausryhmät ovat tulleet Hollannista[(https://www.youtube.com/watch?v=IXPWpDYoPKQ)] ja [Kanadasta](https://youtu.be/QXNOsxpP2ow?t=365) haastattelemaan TAYSiin kahta hyvin sensaatiohakuista tv-ohjelmaa varten, koska se näkyy kuvasta. Toinen sisältää nuoren itsemurhayrityksen dramatisoinnin, ja kauhuelokuva soundtracking ja väripaletin, ja menee lähes parodian puolelle. 
+Sanotaan, että valtion virkahenkilöllä on vapaus tehdä vapaa-aikanaan, mitä haluaa. Mutta on epäselvää, mitä ovat tehyty vapaa-ajalla, ja mitä ei. Ainakin kuvausryhmät ovat tulleet [Hollannista](https://www.youtube.com/watch?v=IXPWpDYoPKQ) ja [Kanadasta](https://youtu.be/QXNOsxpP2ow?t=365) haastattelemaan TAYSiin kahta hyvin sensaatiohakuista tv-ohjelmaa varten, koska se näkyy kuvasta. Toinen sisältää nuoren itsemurhayrityksen dramatisoinnin, ja kauhuelokuva soundtracking ja väripaletin, ja menee lähes parodian puolelle. 
 
  
 ##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
