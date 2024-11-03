@@ -64,11 +64,22 @@ Ottaen huomioon, kuinka paljon Kaltialan narratiivi tulee esille korkeimmassa oi
 
 ## Tiedättekö, mitä kaikkea Bulgariassa tapahtuu? <a id="bulgaria"></a>
 
-Bugarian ja SVA-järjestön tapauksessa länsimäisia ulkomaisyhteyksiä on lukuisia ja näkyvät toiminnassa, joka ottaa mallia lännestä, eikä vain Venäjältä, kuten moni näyttää olettaneen. Ilman näyttöä. Sekin ppioli kiinnostaisi, mutta hieman huomioita kannattaisi antaa länsimäisvaikutteille. Kyseessä ei Bulgarian yhä synodi, sem ortodoksikirkon korkein halllitno-elim öähetti niille lausuntonsa samaa sukupulta olevien avioliitota vastaan.(https://www.sva.bg/%d1%81%d0%b2%d0%b5%d1%82%d0%b8%d1%8f%d1%82-%d1%81%d0%b8%d0%bd%d0%be%d0%b4-%d0%bd%d0%b8-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0-%d0%b7%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8/)
+"Kovasta painostuksesta huolimatta korkeimman kassaatiotuomioistuimen siviilikollegio päätti noudattaa korkeinta lakiamme – perustuslakia ja suojella lapsia ja maamme tulevaisuutta, kun emme salli sukupuolenvaihtoa asiakirjoissa. Päätös kesti yli kaksi vuotta, jonka aikana asia siirrettiin myös perustuslakituomioistuimeen. Yhdistyksenä osallistuimme vetoomukseen, mielipiteisiin, käännökseen ja promootioon elokuvasta ”gendering problems”, johon osallistuimme lääkäreitä ja asiantuntijoita sekä leikkaukseen osallistuneiden nuorten osallistumista."
+
+Nälkälakossa korkeimman oikeuden edessä olleelle Gabriela Bankovalle sukuuolen juridinen vaihto oli jo valmiiksi vaikeaa. Hän kertoo, ettei saanut apteekista antibiootteja sairastaessaan keuhkokuumetta, koska hänen luuliin käyttäväm väärää henkilöllisyystodistusta. Muutenkin sukupuolivähemmistöjen asema on Bulgariassa huono, ja katsoessa SVA:n sivua aihe on esillä enemmän, kuin https://www.dw.com/en/fighting-for-trans-rights-in-bulgaria/a-67577549
+
+"Toukokuussa meidät kutsuttiin illallisella kapeassa piirissä maailmankuulun konservatiivinen kanadalaisen professorin, yliopiston luennoitsijan, kirjailijan ja kliinisen psykologin - Jordan Petersonin ja hänen vaimonsa kanssa Sofian vierailun aikana. Kokouksen aikana toimme ne lyhyesti sen, mitä olemme saavuttaneet vuosien varrella, ja haasteisiin, jotka olemme saavuttaneet puolustaaksemme avioliittoa, perhearvoja, Wihmisarvoa ja vapautta."
+
+"Toukokuun lopussa osallistuimme lausuntoon esitetyistä muunnuksista, joistakin muutoksilla, lakiehdotuksista perheväkivallasta. Kirjeen avulla vaadimme, että hallituksen olisi määriteltävä selkeästi ja yksiselitteisesti väkivaltatyypit, poistettava epämääräiset ja oikeat luokat, eikä sallittava eturistiriitaa ja ilkeämielisten käytäntöjen laillistamista. Kannatimme kansanäänestyksen järjestäminen koulua käyvien lasten suojelemiseksi ideologialta heidän sukupuolensa ja identiteettinsä muuttamiseksi."
+
+[SVA-Mitä Saavutimme 2023](https://www.sva.bg/%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%be%d1%82%d0%bd%d0%be%d1%81%d0%bd%d0%be-%d0%bf%d0%be%d1%81%d0%bb%d0%b5%d0%b4%d1%81%d1%82%d0%b2%d0%b8%d1%8f%d1%82%d0%b0-%d0%be%d1%82-%d1%81/)
+
+
+Bugarian ja SVA-järjestön tapauksessa länsimäisia ulkomaisyhteyksiä on lukuisia ja näkyvät toiminnassa, joka ottaa mallia lännestä, eikä vain Venäjältä, kuten moni näyttää olettaneen. Ilman näyttöä. Sekin ppioli kiinnostaisi, mutta hieman huomioita kannattaisi antaa länsimäisvaikutteille. Kyseessä ei Bulgarian yhä synodi, sem ortodoksikirkon korkein halllitno-elim öähetti niille [lausuntonsa samaa sukupulta olevien avioliitota vastaan](https://www.sva.bg/%d1%81%d0%b2%d0%b5%d1%82%d0%b8%d1%8f%d1%82-%d1%81%d0%b8%d0%bd%d0%be%d0%b4-%d0%bd%d0%b8-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0-%d0%b7%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8/)
 
 Tämä ei ollut ensimmäinen anti-LGBT Bulgariassa. Viime vo 
 
-[Avoin kirjain koulutuslakiin hyväksyttyjen muutosten yhteydessä](https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2%d1%8a%d0%b2-%d0%b2%d1%80%d1%8a%d0%b7%d0%ba%d0%b0-%d1%81-%d0%bf%d1%80%d0%b8%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d0%bf/)
+[Avoin kirje koulutuslakiin hyväksyttyjen muutosten yhteydessä](https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2%d1%8a%d0%b2-%d0%b2%d1%80%d1%8a%d0%b7%d0%ba%d0%b0-%d1%81-%d0%bf%d1%80%d0%b8%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d0%bf/)
 On huomioitavaa, että järjestö ei näe ongelmallisena ainostaan LGBT-aiheita, vaan myös etnisyyden-
 [Avoin kirje perhemyönniltä organisaatioilta, jotka tukevat koulutuslain muutoksia]https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2-%d0%bf%d0%be%d0%b4%d0%ba%d1%80%d0%b5%d0%bf%d0%b0-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8%d1%82/)
 
@@ -89,6 +100,7 @@ Kyseessäon 14-17 vuotialle tarkoitettu Erasmus+ Drag-aktivismileiti, mutta se l
 Istamblin soimuksen(https://www.sva.bg/%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b7%d0%b0-%d0%be%d1%82%d1%85%d0%b2%d1%8a%d1%80%d0%bb%d1%8f%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b8%d1%80%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0/)
 
 Reddit-keskustelujen perusteella Venäläimem propaganda vaikuttaa Bulgariassa, ja he edelleen kutsuvat Imar Khalifia transsukupuiliseksi. Kuitenkin yheydet amerikkalaiseen anti-genderliikkeeseen meneväyAmerikkalaisjärjestöjen
+
 
 ## Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen<a id="duo"></a>
 Ettei kukaan saa väärää käsitystä ja luulee, että Kaltiala on kaiken tämän takana; Ennen huhtikuun 20. päivää [nämä](https://web.archive.org/web/20240420183451/https://www.kaypahoito.fi/nix03202) olivat Duodecimin Autismikirjon häiriö ja sukupuolidysforia -suositukset. Seitsemännen lähteen väitettiin tukevan varsin kummallista lausetta, joten tarkistin lähteen. Suosituksissa lukee:
