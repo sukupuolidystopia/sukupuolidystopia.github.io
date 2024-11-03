@@ -10,22 +10,23 @@
 
  1. [Suomen todellisuudesta](#item)
  2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 3. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
- 4. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
- 5. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
- 6. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
- 7. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
- 8. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 9. [Podcast- ja videolähteitä](#audio)
- 10. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
- 11. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 12. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 13. [Eheytyshoidot](#eheys)
- 14. [Kaltiala](#kaltiala)
- 15. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 16. [Tulossa](#tulossa)
- 17. [Sidonnaisuudet](#sidos)
- 18. [Yhteystiedot ja some](#some)
+ 3. [Homopropagana on vain jäävuoren huippu siitä, mitä Bulgariassa tapahtuu](#bulgaria)
+ 4. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
+ 5. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
+ 6. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
+ 7. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
+ 8. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
+ 9. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 10. [Podcast- ja videolähteitä](#audio)
+ 11. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
+ 12. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 13. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 14. [Eheytyshoidot](#eheys)
+ 15. [Kaltiala](#kaltiala)
+ 16. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 17. [Tulossa](#tulossa)
+ 18. [Sidonnaisuudet](#sidos)
+ 19. [Yhteystiedot ja some](#some)
   
  
 
@@ -60,6 +61,34 @@ Venäläinen anti-gender disinformaatio nähdään Suomessa ongelmana, ja syyst�
 Ottaen huomioon, kuinka paljon Kaltialan narratiivi tulee esille korkeimmassa oikeudessa, vaikka Tampereen yliopistoa tai edes ei ole Tamperetta mainittu siellä ikinä ennen tai nytkään muussa kontektissa, ja ADF:n tiedetään [soveltaneen pitkäjänteistä strategiaa aborttioikeuden kumoamiseen](https://www.nytimes.com/2024/05/28/magazine/roe-v-wade-christian-network.html), ja olleen mukana SEGM:in luonnissa, niin pitäisikö vähintään kysyä, onko sopivaa, että pienen Suomen valtion virkahenkilö on tekemisissä tämän luokan toimijoiden kanssa, jonka laajempaa kontekstia ei todennäköisesti itsekään ymmärrä? En oleta taustalla olevan joku kaikenkattava salaliitto. Mutta toivoisin, että edes murto-osa resursseista ja huomiosta, joita käytetty Venäjän anti-gender vaikuttamiseen perehtymiseen, tai Päivi Räsäsen sanojen ympärille tehdyn jutun käsittelemiseen, ohjattaisiin tähän.
 
 [Tässä](https://healthliberationnow.com/2023/02/07/segm-exposed-reloaded-the-shadow-money-behind-a-leading-anti-trans-think-tank/) sukelletaan todella syvälle SEGMin rahoitukskuvioihin tuon ns. starttirahan ulkopuolella, on ja aikajanaa, mutta en itsekään ole voinut perehtyä kunnolla, koska Yhdysvaltain verolainsäädäntö. Mutta tulu sivulla vastaan lisää suomalaisia tutkimuksia luettavasksi ja päivittämistä tiede-osioon. On niin paljon päivittämistä jo valmiiksi.
+
+## Tiedättekö, mitä kaikkea Bulgariassa tapahtuu? <a id="bulgaria"></a>
+
+Bugarian ja SVA-järjestön tapauksessa länsimäisia ulkomaisyhteyksiä on lukuisia ja näkyvät toiminnassa, joka ottaa mallia lännestä, eikä vain Venäjältä, kuten moni näyttää olettaneen. Ilman näyttöä. Sekin ppioli kiinnostaisi, mutta hieman huomioita kannattaisi antaa länsimäisvaikutteille. Kyseessä ei Bulgarian yhä synodi, sem ortodoksikirkon korkein halllitno-elim öähetti niille lausuntonsa samaa sukupulta olevien avioliitota vastaan.(https://www.sva.bg/%d1%81%d0%b2%d0%b5%d1%82%d0%b8%d1%8f%d1%82-%d1%81%d0%b8%d0%bd%d0%be%d0%b4-%d0%bd%d0%b8-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b8%d1%80%d0%b0-%d0%b7%d0%b0-%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8/)
+
+Tämä ei ollut ensimmäinen anti-LGBT Bulgariassa. Viime vo 
+
+[Avoin kirjain koulutuslakiin hyväksyttyjen muutosten yhteydessä](https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2%d1%8a%d0%b2-%d0%b2%d1%80%d1%8a%d0%b7%d0%ba%d0%b0-%d1%81-%d0%bf%d1%80%d0%b8%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d0%bf/)
+On huomioitavaa, että järjestö ei näe ongelmallisena ainostaan LGBT-aiheita, vaan myös etnisyyden-
+[Avoin kirje perhemyönniltä organisaatioilta, jotka tukevat koulutuslain muutoksia]https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2-%d0%bf%d0%be%d0%b4%d0%ba%d1%80%d0%b5%d0%bf%d0%b0-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8%d1%82/)
+
+Hieman otteita keskustelusta löytyy täältä, yksi puheenvuoro oli;
+"That there are no more useful people in Europe for Vladimir Putin and for Russia than those who began to put a sign of equality between non-traditional sexual orientation and European values. People who replaced their national flags or the flag of the European Union with the rainbow flag are the most harmful people for Europe"
+
+"https://www.reddit.com/r/europe/comments/1emjfvg/bulgarian_parliament_bans_lgbtq_propaganda_in/"
+
+Nämä molemmat viittaavat SEGM-järjestöön, konka 
+[American College of Pediatricsin lausunto sukupuoleen perustuvalle tuomioistuimelle](https://www-sva-bg.translate.goog/%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%b5%d0%b6-%d0%bf%d0%be-%d0%bf%d0%b5/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+[Tieteellinen raportti lääketieteellisistä sukupuolenvaihtomenettelyistä](https://www-sva-bg.translate.goog/%D0%BD%D0%B0%D1%83%D1%87%D0%B5%D0%BD-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%BD%D0%BE-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%BF/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+Lobbausjärjestö I
+
+[https://www.youtube.com/watch?v=f2q0sWwdH7U]Anti-trans videopropagndaa on tarjonnut Family Watch International ja American College of Pediatriciansin avulla. Siis viharyhmä ACPeds on levinnyt maailmalle. Video on katsottu 10000 kertaaa
+[EU:n rahoittaa lasten hyväksikäyttoä](https://www.sva.bg/%D0%B7%D0%BB%D0%BE%D1%83%D0%BF%D1%80%D0%B5%D0%B1%D0%B0-%D1%81-%D0%B4%D0%B5%D1%86%D0%B0-%D0%BF%D0%BE%D0%B4-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD/)
+Kyseessäon 14-17 vuotialle tarkoitettu Erasmus+ Drag-aktivismileiti, mutta se linkittää vetoomukseen, joka sanoo "This programme is a horrific brainwashing workshop funded by the EU in partnership with radical LGBT groups. Being exposed to this kind of sexualisation makes them vulnerable targets for predators." Kyseinen alusta on sama, millä Päivi Räsäsen pulustukseski kerättiin nimiä. Tätä kuvaillaan erityisen loukkaavana katolilaisia maita kohtaan. Bukgaria on ortodoksinen ja SVA:n nimellä 
+
+Istamblin soimuksen(https://www.sva.bg/%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b7%d0%b0-%d0%be%d1%82%d1%85%d0%b2%d1%8a%d1%80%d0%bb%d1%8f%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%b4%d0%b8%d1%80%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d0%b0%d1%82%d0%b0-%d0%bd%d0%b0/)
+
+Reddit-keskustelujen perusteella Venäläimem propaganda vaikuttaa Bulgariassa, ja he edelleen kutsuvat Imar Khalifia transsukupuiliseksi. Kuitenkin yheydet amerikkalaiseen anti-genderliikkeeseen meneväyAmerikkalaisjärjestöjen
 
 ## Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen<a id="duo"></a>
 Ettei kukaan saa väärää käsitystä ja luulee, että Kaltiala on kaiken tämän takana; Ennen huhtikuun 20. päivää [nämä](https://web.archive.org/web/20240420183451/https://www.kaypahoito.fi/nix03202) olivat Duodecimin Autismikirjon häiriö ja sukupuolidysforia -suositukset. Seitsemännen lähteen väitettiin tukevan varsin kummallista lausetta, joten tarkistin lähteen. Suosituksissa lukee:
