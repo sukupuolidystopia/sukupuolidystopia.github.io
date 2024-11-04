@@ -2,7 +2,7 @@
 <sub><sup>*Tämän oikeudessa esille tulleen sähköpostin perusteella, TAYSin ylilääkärin ja TUNIn professori Kaltala pyrki tarkoituksella johtamaan suomalaisia harhaan, koska kyseessä oli yhteistyö Ron DeSatisin hallinnon ja jopa ehkäisyä vastustavan äärikonservatiivin Hunteri kanssa.  [Ote tästä](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b78de3-f609-4288-bccd-70cdb7589f81_1006x939.jpeg) joka on osa todistajanlausuntoa [tästä oikeusjutusta.](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1)*   </sup></sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin.❗ <br>
+❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Lisäksi sivun päivittäminen ja siistiminen ei ole mahdollisita yksistään toiminnan kiihtyessä hiljattain, sekä Euroopassa että Yhdysvalloisaa. ❗ <br>
 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
 
