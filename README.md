@@ -82,16 +82,14 @@ Jordan Peterson on suositellut Hesarin Kaltiala-profiiliin perustuvaa juttua nim
 
 Tässä näyttää yhdistyvän venäläiset perheväkivallan "perheen sisällä" säilyttämään pyrkivät keinot, sekä hyvin amerikkalnen lähesyminen transhoitoihin.
 
-_Bulgarian ja SVA-järjestön tapauksessa länsimäisia ulkomaisyhteyksiä on lukuisia ja näkyvät toiminnassa, jotka saavat merkittävää lobbausapua lännestä niin "tieteellisien" lähteiden (IFTCPP,SEGM), yleisölle tarkoitetun propagandan (ACPeds, Family Watch International) eikä vain Venäjältä, kuten moni näyttää olettaneen._ Venäjän vaikutus kiinnostaisii, ja mielelläni kuulisisn niistä, mutta hieman huomioita kannattaisi antaa länsimäisvaikutteille.
+__Bulgarian ja SVA-järjestön tapauksessa länsimäisia ulkomaisyhteyksiä on lukuisia ja näkyvät toiminnassa, jotka saavat merkittävää lobbausapua lännestä niin "tieteellisien" lähteiden (IFTCPP,SEGM), yleisölle tarkoitetun propagandan (ACPeds, Family Watch International) eikä vain Venäjältä, kuten moni näyttää olettaneen.__ Venäjän vaikutus kiinnostaisii, ja mielelläni kuulisin niistä. Maininnat, mihin olen törmännyt liittyvät mediapropagandaan, kun tässä on länsimaisia valmiita lobbaudoumentteja sekä mediapropagandaa lokalisoituna. Minun on vaikea nähdä että miknkään vieraan valtion - tai sisäisen vihaideologian, vaikutukseen on parasta vastata asian noustattavat vahvat tunteet asiaan perehtymisen korvikkeena. Erään toisen ilonpilaaja sanoo; "Love with your heart, use yur head for everything else."
 
-Tämä ei ollut ensimmäinen anti-LGBT Bulgariassa. Viime vo 
-
+Tässä SVA:n poliittisia vetoomuksia:
 [Avoin kirje koulutuslakiin hyväksyttyjen muutosten yhteydessä](https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2%d1%8a%d0%b2-%d0%b2%d1%80%d1%8a%d0%b7%d0%ba%d0%b0-%d1%81-%d0%bf%d1%80%d0%b8%d0%b5%d1%82%d0%b8%d1%82%d0%b5-%d0%bf/)
 On huomioitavaa, että järjestö ei näe ongelmallisena ainostaan LGBT-aiheita, vaan myös etnisyyteen liittyen. 
 [Avoin kirje perhemyönniltä organisaatioilta, jotka tukevat koulutuslain muutoksia](https://www.sva.bg/%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%be-%d0%bf%d0%b8%d1%81%d0%bc%d0%be-%d0%b2-%d0%bf%d0%be%d0%b4%d0%ba%d1%80%d0%b5%d0%bf%d0%b0-%d0%bd%d0%b0-%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%bd%d0%b8%d1%82/)
 
-
-Nämä molemmat viittaavat SEGM-järjestöön, jonka kolmessa taahtumassa Kaltiala on puhunut. 
+Nämä molemmat viittaavat SEGM-järjestöön, jonka kolmessa taahtumassa Kaltiala on puhunut, sekä Suomen transhoitosuosituksiin ja suomalaistutkimuksiin. 
 [American College of Pediatricsin lausunto sukupuoleen perustuvalle tuomioistuimelle](https://www-sva-bg.translate.goog/%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d0%bd%d0%b0-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d1%8f-%d0%ba%d0%be%d0%bb%d0%b5%d0%b6-%d0%bf%d0%be-%d0%bf%d0%b5/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 IFTCC:n [Tieteellinen raportti lääketieteellisistä sukupuolenvaihtomenettelyistä](https://www-sva-bg.translate.goog/%D0%BD%D0%B0%D1%83%D1%87%D0%B5%D0%BD-%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%BD%D0%BE-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%BF/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
@@ -102,7 +100,7 @@ Kyseessäon 14-17 vuotialle tarkoitettu Erasmus+ Drag-aktivismileiti, mutta se l
 -[Räsäsen tapaus tuli esille usasti järjestön sivuilla, tässä viimeinen päivitys, jossa hän voitti kaikki syytteet](https://www.sva.bg/%d1%84%d0%b8%d0%bd%d0%bb%d0%b0%d0%bd%d0%b4%d1%81%d0%ba%d0%b0-%d0%bf%d0%b0%d1%80%d0%bb%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d1%80%d0%b8%d1%81%d0%ba%d0%b0-%d1%81%d0%bf%d0%b5%d1%87%d0%b5%d0%bb%d0%b8/)
 Sen tutkimuksen perusteella, mitä olen tehnyt, [alaikäisten transhoitojen kriminalisointi on saattaa olla seuraavana Bulgariassa.](https://www.bta.bg/bg/news/bulgaria/oficial-messages/743449-aots-stanovishte-vav-vrazka-s-predlozheniyata-v-zzd-davashti-lesen-dostap-na-de)
 
-Huolestuttavaa tässä on se, että IFTCC;n sivuille on hiljattain ilmestynyt uusia asiakirjoja slaavilaisiksi kieliksi, ja yleisesti työkaluja, joita on käytetty anti-trans politikkaan käytetään maissa, joissa ei ole samanlaista kansalaisyheyskuntaa tai vastaliikettä, kuin Yhdysvalloissa. Yhdysvaltoja voi kritisoida monesta, mutta ACLU ei ole edes LGBT järjestö, vaan yleinen kansalaisoikeusjärjestö. 
+Huolestuttavaa tässä on se, että IFTCC;n sivuille on hiljattain ilmestynyt uusia asiakirjoja slaavilaisiksi kieliksi. Yhdysvaltoja voi kritisoida monesta, mutta ACLU ei ole edes LGBT järjestö, vaan yleinen kansalaisoikeusjärjestö. Suomessa Seta oli ohjaamassa minua puhumaaan transjärjestöille, kun luulin, että heitä kiinnostaisi tietää, että Bulgariassa on toteutunut muutakin anti-LGBT lainsäädäntöä.
 
 Kaltiala on ollut siellä myös uutisissa esillä. mm. vuonna [2021](https://www.actualno.com/analysis/irini-zikidis-v-evropa-v-momenta-bitkata-za-taka-narechenija-djendyr-vypros-e-gnevna-i-jarostna-news_1607659.html) ja [2024](https://novini247.com/novini/avtor-%C2%A0d-r-rittakerttu-kaltiala-%C2%A0thefp-com%C2%A0v-moyata-strana-kakto-i-v-drugi-namirame_7009653.html).
 
