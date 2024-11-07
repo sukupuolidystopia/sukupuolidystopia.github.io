@@ -213,14 +213,14 @@ Tapahtuman järjesti Clinical Advisory Network on Sex and Gender, jota kutsutaan
 
 ## "Kansainväliset asiantuntijatehtävät"<a id="asia"></a>
 
-Moneen Kaltialan aisantuntijatehtävään kuuluu puhuminen Suomen translinjauksista, tilanteissa, joihin hänet on kutsuttu, koska uskottavuus tulee asemastaan Suomen insitutuutioista, mutta ei ole tästä toiminnasta vastuussa kenellekään Suomalaiselle
+Judith Butlerin Kuka Pelkää Sukuopuolta sivulla 166. käsitellään yhtä Trumpin aikaista linjausta heikentemään suolejua syrjinnältä terveydenhuollossa. Siinä voi lukea laajemnin kokstista, ja kuinka [Section 1557](https://www.hhs.gov/civil-rights/for-individuals/section-1557/index.html) liittyy yhteeen korkeimman oikeuden tapauksiin. Tossa linkissä näkyy, että se on haastettu osavaltiotasolla - eikä ole voimassa mm. Floridassa.
+
 Vuonna 2022 Riittakerttu Kaltiala esiintyi Biden hallinnon edessä vastustamassa [Affordable Care Actin pykälää 1557](https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202110&RIN=0945-AA17), "Nondiscrimination in Health Programs and Activities". Se kieltää syrjinnän rodun, värin, kansallisen alkuperän, sukupuolen, iän tai vamman perusteella terveysohjelmissa ja -toiminnoissa, jotka saavat liittovaltion rahoitusta tai joita hallinnoivat toimeenpanoelimet. Uudistettu sääntö tarkentaa vuoden 2020 säännön epäselvyyksiä, laajentaa suojia seksuaalisen suuntautumisen ja sukupuoli-identiteetin osalta.
 
 [Tässä näkee](https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR), että SEGM-järjestön perustaja William Malone kutsui kuulemisen, ja moni muista nimistä löytyy Suomalaisten transtutkimusten lähdeluettelosta, ja esim. eheytyshoitokietojen vastustuksesta. Mutta tämä on sallittua, jos on tehty vapaa-ajalla. Tässä esitetty [lausunto asiaan liitten](https://sukupuolidystopia.github.io/images/Remarks_HHS_meeting_2022.pdf), jonka tarkoitus oli siis vaikuttaa liittovaltion lainsäädäntöön. 
  
-Sanotaan, että valtion virkahenkilöllä on vapaus tehdä vapaa-aikanaan, mitä haluaa. Mutta on epäselvää, mitä ovat tehyty vapaa-ajalla, ja mitä ei. Ainakin kuvausryhmät ovat tulleet [Hollannista](https://www.youtube.com/watch?v=IXPWpDYoPKQ) ja [Kanadasta](https://youtu.be/QXNOsxpP2ow?t=365) haastattelemaan TAYSiin kahta hyvin sensaatiohakuista tv-ohjelmaa varten, koska se näkyy kuvasta. Toinen sisältää nuoren itsemurhayrityksen dramatisoinnin, ja kauhuelokuva soundtracking ja väripaletin, ja menee lähes parodian puolelle. 
+Sanotaan, että valtion virkahenkilöllä on vapaus tehdä vapaa-aikanaan, mitä haluaa (kohtuun puitteissa). Mutta on epäselvää, mitä ovat tehyty vapaa-ajalla, ja mitä ei. Ja Trump on hyvä esimerkki myös siinä, kuinka yleisesti hyväksyttyjen normien hiljaisen sopimuksen rikkomalla voi päästä pitkälle. Ainakin kuvausryhmät ovat tulleet [Hollannista](https://www.youtube.com/watch?v=IXPWpDYoPKQ) ja [Kanadasta](https://youtu.be/QXNOsxpP2ow?t=365) haastattelemaan TAYSiin kahta hyvin sensaatiohakuista tv-ohjelmaa varten. Sen sijaan esimerkiksi eheytyshoitokieltoon liittyen hänellä ei olluy aikaa, kuin vastata kirjallsesti. Ja lukuisasssa laatumeidassa julkiastun, MIT:m tiedejournalismi fellowishipin saanut Uvan Urquhartin hasstettelupyybtöihin hän ei vastannut ollenkaan.
 
- 
 ##  Tuoreinta tietoa ulkomailta <a id="ajantasalla"></a>
 [Erin In The Morning](https://www.erininthemorning.com/)  
 [Zinnia Jones](https://zinniajones.medium.com/)  <br> 
