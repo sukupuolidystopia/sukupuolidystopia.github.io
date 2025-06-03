@@ -6,6 +6,9 @@
 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
 
+[”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti” (pdf)](https://sukupuolidystopia.github.io/Kaltila_Hunter-1.pdf)
+Hyvin pikkutarkoin lähdeviittein varustettu aikajana vain yhdestä aspektista Suomen antigender-yhteistyötä, Alabamasta Floridaan, Britanniaan ja takaisin
+
 **Sisällysluettelo:**
 
  1. [Suomen todellisuudesta](#item)
