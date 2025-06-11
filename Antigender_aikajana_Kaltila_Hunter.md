@@ -8,7 +8,7 @@
 *signal: ekfinland.21*   
 *ajantaisainen versio löytyy: sukupuolidystopia.github.io*
 
-Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu ehkäisyn[^2], abortin[^3], ja sateenkaarioikeuksien vastustaminen[^4].  CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.¹
+Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu ehkäisyn[^2], abortin[^3], ja sateenkaarioikeuksien vastustaminen[^4].  CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.[^1]
 
 **Helmikuu 2022:** Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa,  "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia,  nähtyään hoitojen aiheuttamat haitat⁽ᵛᶦᶦᵗᵉ ᵖᵘᵘᵗᵗᵘᵘ⁾ nuorille". Kuten monen muunkin osavaltion kiellon kohdalla,  STM:n hoitosuositukset ovat liitteenä.[^5]
 
@@ -22,7 +22,7 @@ Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa 
 
 **Heinäkuu 2023:** Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"[^18], jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltiala ja Takala. Useat allekirjoittajat, Hunter mukaan lukien ovat SEGM-aktiiveja. Stephen Levine,  joka on toiminut ainakin 12 anti-trans lain asiantuntijatodistajana,¹⁴ ja on esittänyt, että sukupuolidysforian takana voi olla liian symbioottinen äiti tai narsistinen luonne. Häntä haastatellaan sukupuolidysforiasta useita näiden lakeja oikeudessa puolustavan ADF:n sivuilla.[^19]
 
-**Huhtikuu 2024:** Brittiläisen alaikäisten transhoito-raportin, ns. Cass Review'n lopullinen versio julkaistaan.[^20] Vaikka raportti yllättää monet Euroopassa, versio siitä on ollut jo pari vuotta ollut käytössä Yhdysvaltain politiikassa.⁸ ¹¹
+**Huhtikuu 2024:** Brittiläisen alaikäisten transhoito-raportin, ns. Cass Review'n lopullinen versio julkaistaan.[^20] Vaikka raportti yllättää monet Euroopassa, versio siitä on ollut jo pari vuotta ollut käytössä Yhdysvaltain politiikassa.[^8][^10] 
 
 CR:stä uutisoidaan Suomessa riemuvoittona[^21] meidän kansaivälisesti katsottuna poikkeukselliselle lähestymistavalle[^22] nuorten sukupuolidysforian hoitoon.   
 Kaltiala itsekin kehuu raportin tuloksia lehdistössä mainitsematta yhteyttään siihen,[^23] ja syyttää kriitikoita tieteen politisoimisesta[^24] . 
