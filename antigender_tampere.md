@@ -104,7 +104,7 @@ https://www.aamulehti.fi/kotimaa/art-2000010406647.htm
 https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
 
 [^26]:  Cassin oma vastaus liittyen Hunteriin, joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
-https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
+https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf
 
 [^27]:  [https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg](Kalt)
 
@@ -113,7 +113,10 @@ https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
 [^29]:  *“Transgender people of all ages face a critical inflection point in the UK and across the globe today. If politics continue to interfere with transgender healthcare, clinical services and research in this field may not recover. Peoples’ lives will be drastically—andneedlessly—upended. Further, the politicization of healthcare is a concern not just for transgender people, but for all people. Every person deserves the opportunity to make private and deeply personal medical decisions in consultation with healthcare providers whose work is guided by sound evidence, appropriate training, and clinical expertise”* 
 https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf
 
-[^30]:  *Medical professional societies were not recognizably involved in the preparation of the report. A so-called “Assurance Group” was appointed, but it was explicitly not involved in the development of recommendations for the Cass Review. There are reports that an “Advisory Board” was also established. The composition and specific contribution of this “Advisory Board” are not documented* (Ruuska et al., 2024 \[tämä sama kuin viitteeni 19, josta Kaltialan neuvonantajuus paljastui\]*; Cass, 2024)”*
+[^30]:  *Medical professional societies were not recognizably involved in the preparation of the report. A so-called “Assurance Group” was appointed, but it was explicitly not involved in the development of recommendations for the Cass Review. There are reports that an “Advisory Board” was also established. The composition and specific contribution of this “Advisory Board” are not documented* (Ruuska et al., 2024 \[tämä sama kuin viitteeni 19, josta Kaltialan neuvonantajuus paljastui\]*; Cass, 2024)”* https://register.awmf.org/de/leitlinien/detail/028-014
+Englanninkielisen käännöksen lähde: 
+https://www.erininthemorning.com/p/new-german-swiss-and-austria-guidelines
+
 
 
 [^31]:  Mukana järjestämässä myös kirjan kieltojen kärkinimi Yhdysvalloissa, Mom’s for Liberty. Tai kaikki nuo alla olevat ryhmät on samassa kategoriassa. DIAG-järjestöstä taas kiitelty erästä toista asiasta Suomessa uskottavalla äänenpainolla puhuvaa, kun levittänyt heidän resurssejaan täällä. Hänkin jättää aina ulkomaiset sidosyhteydet mainitsematta. https://x.com/genspect/status/1886247003589640661
