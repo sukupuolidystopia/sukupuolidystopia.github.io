@@ -115,7 +115,9 @@ https://law.yale.edu/sites/default/files/documents/integrity-project_cass-respon
 
 [^30]:  *Medical professional societies were not recognizably involved in the preparation of the report. A so-called “Assurance Group” was appointed, but it was explicitly not involved in the development of recommendations for the Cass Review. There are reports that an “Advisory Board” was also established. The composition and specific contribution of this “Advisory Board” are not documented* (Ruuska et al., 2024 \[tämä sama kuin viitteeni 19, josta Kaltialan neuvonantajuus paljastui\]*; Cass, 2024)”*
 
-[^31]:  Mukana järjestämässä myös kirjan kieltojen kärkinimi Yhdysvalloissa, Mom’s for Liberty. Tai kaikki nuo alla olevat ryhmät on samassa kategoriassa. DIAG-järjestöstä taas kiitelty erästä toista asiasta Suomessa uskottavalla äänenpainolla puhuvaa, kun levittänyt heidän resurssejaan täällä. Hänkin jättää aina ulkomaiset sidosyhteydet mainitsematta.
+
+[^31]:  Mukana järjestämässä myös kirjan kieltojen kärkinimi Yhdysvalloissa, Mom’s for Liberty. Tai kaikki nuo alla olevat ryhmät on samassa kategoriassa. DIAG-järjestöstä taas kiitelty erästä toista asiasta Suomessa uskottavalla äänenpainolla puhuvaa, kun levittänyt heidän resurssejaan täällä. Hänkin jättää aina ulkomaiset sidosyhteydet mainitsematta. https://x.com/genspect/status/1886247003589640661
+https://genspect.substack.com/p/the-best-of-genspect-detrans-awareness
 
 [^32]:   s.147 *“Rigorous appraisals consistently demonstrate that only a select few guidelines, notably those from Finland and Sweden, meet high standards for evidence-based clinical decision-making”* Suomi mainitaan raportissa 44 kertaa, Cass Review 77 [https://opa.hhs.gov/sites/default/files/2025-05/gender-dysphoria-report.pdf](https://opa.hhs.gov/sites/default/files/2025-05/gender-dysphoria-report.pdf)  
 [https://www.science.org/content/article/researchers-slam-hhs-report-gender-affirming-care-youth](https://www.science.org/content/article/researchers-slam-hhs-report-gender-affirming-care-youth) 
