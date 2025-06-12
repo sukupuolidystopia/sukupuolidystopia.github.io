@@ -56,7 +56,8 @@ Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksi
 
 [^6]:  [https://www.splcenter.org/resources/extremist-files/anti-lgbtq/](https://www.splcenter.org/resources/extremist-files/anti-lgbtq/)
 
-[^7]:  Society for Evidence-Based Gender Medicinen (SEGM) asiantuntijoissa löytyy kummasti ihmisiä, jotka eivät ole elämässään olleet tekemisissä sukupuolivähemmistöjen kanssa tai tehneet mitään näyttöön perustuvaa lääketiedettä (esim. Marchiano). 
+[^7]:  Society for Evidence-Based Gender Medicinen (SEGM) asiantuntijoissa löytyy kummasti ihmisiä, jotka eivät ole elämässään olleet tekemisissä sukupuolivähemmistöjen kanssa tai tehneet mitään näyttöön perustuvaa lääketiedettä (esim. Marchiano). https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR
+
 
 
 [^8]:  Selitystä vähän kyseessä olevasta säännöksestä. Tämä ei siis mitenkään vaikuttaisi hoitosuosituksiin, vaan pyrki varmistamaan suositusten mukaisten hoitojen korvattavuuteen, erityisesti ryhmien kohdalla, jotka ovat historiallisesti kohdanneet syrjintää:
@@ -100,14 +101,17 @@ https://www.aamulehti.fi/kotimaa/art-2000010406647.htm
 [https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/](https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/)
 
 [^25]: Neuvonantajien nimet eivät olleet heti näkyvillä, mutta se löytyy “conflicts of interest”- kohdasta, joka kertaa vähän siitä, kuinka avoin prosessi oli:
+https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
 
 [^26]:  Cassin oma vastaus liittyen Hunteriin, joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
+https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
 
 [^27]:  [https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg](Kalt)
 
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
 [^29]:  *“Transgender people of all ages face a critical inflection point in the UK and across the globe today. If politics continue to interfere with transgender healthcare, clinical services and research in this field may not recover. Peoples’ lives will be drastically—andneedlessly—upended. Further, the politicization of healthcare is a concern not just for transgender people, but for all people. Every person deserves the opportunity to make private and deeply personal medical decisions in consultation with healthcare providers whose work is guided by sound evidence, appropriate training, and clinical expertise”* 
+https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf
 
 [^30]:  *Medical professional societies were not recognizably involved in the preparation of the report. A so-called “Assurance Group” was appointed, but it was explicitly not involved in the development of recommendations for the Cass Review. There are reports that an “Advisory Board” was also established. The composition and specific contribution of this “Advisory Board” are not documented* (Ruuska et al., 2024 \[tämä sama kuin viitteeni 19, josta Kaltialan neuvonantajuus paljastui\]*; Cass, 2024)”*
 
