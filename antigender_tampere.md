@@ -100,7 +100,7 @@ s.53-54 Tietenkin on mahdollista, että oikeusjutun yhteydessä paljastuneet, yk
 
 [^26]:  Cassin oma vastaus liittyen Hunteriin, joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
 
-[^27]:  (Olen tutun tuttuja mm. ABC:llä asiantuntina puhuneen Reedin kanssa, ja luotan, että hän on varmentanut sähköpostin lähteen. Löytyy “in a new email made exclusively available” \-kohdasta [https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt](https://www.erininthemorning.com/p/dr-cass-backpedals-from-review-hrt)
+[^27]:  [https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg](Kalt)
 
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
