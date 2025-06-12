@@ -67,7 +67,7 @@ https://www.federalregister.gov/documents/2022/07/25/2022-15567/department-of-he
 https://www.youtube.com/watch?v=13bOdkil7Io&t=19s
 [^11]:   *(Kommentti oikeusasiakirjojen käytöstä uskottavana lähteenä: todistusaineiston sisällön valheellinen esitys oikeudelle ei ole pieni asia. Viittaan asiakirjoihin, joita vastapuolella olisi ollut mahdollisuus nostaa asia esille, jos asianajaja olisi syyllistynyt näin vakavaan loukkaukseen. Niin ei kuitenkaan tehty ja vastapuoli hävisi korkeammalla oikeusasteessa, joten voimme olla aika varmoja, että Hunterin sanat on esitetty niissä oikein.)*  
 s.53-54 Tietenkin on mahdollista, että oikeusjutun yhteydessä paljastuneet, yksityiseksi tarkoitetut sähköpostikeskustelut sisältävät asioita, jotka eivät ole totta, mutta missä vaiheessa terve skeptisyys muuttuu yksinkertaisemman, tiedossa olevien faktojen kanssa harmoniassa olevan totuuden kiistoksi?
-ent/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1
+https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1
 
 [^12]:  [https://segm.org/about\_us](https://segm.org/about_us)
 
@@ -93,6 +93,7 @@ ent/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_40
 [^22]:  *(Autoin tämän jutun tutkimisessa)* [https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli)
 
 [^23]:  Tämä Aamulehden prinntiversion kannessa sensaatiomaisella above the fold \-otsikolla “*Jarrua lasten sukupuolipiirteiden muokkaukseen*” esiintynyt juttu on esimerkki erityisen vastuuttomasta tiedeviestinnästä. Tällainen ehdoton kieli ja eriävien näkemysten laittaminen kyseenalaisten motiivien piikkiin on valitettavan yleistä Kaltialalta, johon akateemisia normeja noudattavien on vaikea puuttua rikkomatta niitä itse  
+https://www.aamulehti.fi/kotimaa/art-2000010406647.htm
 
 
 [^24]:  Lääkärilehden toimitus ei nähnyt Kaltilan osallisuutta mainitsemisen arvoisena, kun otin heihin yhteyttä asiaan liittyen. En tiedä olenko tässä vähemmistössä, mutta minusta tämä olisi kyseenalaista toimintaa, olivat löydökset mitä tahansa.  
