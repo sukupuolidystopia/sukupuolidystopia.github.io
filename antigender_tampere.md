@@ -106,8 +106,9 @@ https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
 [^26]:  Cassin oma vastaus liittyen Hunteriin, joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
 https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf
 
-[^27]:  [https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg](Kalt)
-
+[^27]:  https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg
+https://sukupuolidystopia.github.io/tutkimusetiikka.jpg
+https://sukupuolidystopia.github.io/aineisto_lopussa_Kaltiala_tutustuttaa.pdf
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
 [^29]:  *“Transgender people of all ages face a critical inflection point in the UK and across the globe today. If politics continue to interfere with transgender healthcare, clinical services and research in this field may not recover. Peoples’ lives will be drastically—andneedlessly—upended. Further, the politicization of healthcare is a concern not just for transgender people, but for all people. Every person deserves the opportunity to make private and deeply personal medical decisions in consultation with healthcare providers whose work is guided by sound evidence, appropriate training, and clinical expertise”* 
