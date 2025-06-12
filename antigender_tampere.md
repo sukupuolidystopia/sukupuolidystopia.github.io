@@ -117,10 +117,15 @@ https://law.yale.edu/sites/default/files/documents/integrity-project_cass-respon
 
 
 [^31]:  Mukana järjestämässä myös kirjan kieltojen kärkinimi Yhdysvalloissa, Mom’s for Liberty. Tai kaikki nuo alla olevat ryhmät on samassa kategoriassa. DIAG-järjestöstä taas kiitelty erästä toista asiasta Suomessa uskottavalla äänenpainolla puhuvaa, kun levittänyt heidän resurssejaan täällä. Hänkin jättää aina ulkomaiset sidosyhteydet mainitsematta. https://x.com/genspect/status/1886247003589640661
+
+SEGMin kaltainen bulvaani-ryhmä Genspect esittelee tapahtuman parhaat palat, videon otsikossa puhetta silpomisesta (mutilation). Moinen puhe varmasti tekee hyvää detrans-henkilöiden mielenterveydelle.
 https://genspect.substack.com/p/the-best-of-genspect-detrans-awareness
 
-[^32]:   s.147 *“Rigorous appraisals consistently demonstrate that only a select few guidelines, notably those from Finland and Sweden, meet high standards for evidence-based clinical decision-making”* Suomi mainitaan raportissa 44 kertaa, Cass Review 77 [https://opa.hhs.gov/sites/default/files/2025-05/gender-dysphoria-report.pdf](https://opa.hhs.gov/sites/default/files/2025-05/gender-dysphoria-report.pdf)  
-[https://www.science.org/content/article/researchers-slam-hhs-report-gender-affirming-care-youth](https://www.science.org/content/article/researchers-slam-hhs-report-gender-affirming-care-youth) 
+
+[^32]:   s.147 *“Rigorous appraisals consistently demonstrate that only a select few guidelines, notably those from Finland and Sweden, meet high standards for evidence-based clinical decision-making”* Suomi mainitaan raportissa 44 kertaa, Cass Review 77 https://opa.hhs.gov/sites/default/files/2025-05/gender-dysphoria-report.pdf
+https://www.science.org/content/article/researchers-slam-hhs-report-gender-affirming-care-youth 
+Raportin metatietojen perusteella sen tekoon osallistui filosofi Alex Byrne, joka puhui Kaltialan ohessa SEGM-konferensissa Ateenassa viime lokakuussa. Ulkomaiset asiantuntijat ovat nähneet SEGM-yhteyden tieteellisen objektiivisuuden ja uskottavuuden kyseenalaiseksi asettavana tekijänä jo vuosia: https://gidmk.substack.com/p/does-gender-affirming-care-reduce
+
 
 [^33]:  [https://www.laakarilehti.fi/terveydenhuolto/aktivistien-hampaissa/](https://www.laakarilehti.fi/terveydenhuolto/aktivistien-hampaissa/)
 
