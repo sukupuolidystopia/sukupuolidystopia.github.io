@@ -44,13 +44,13 @@ Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa hän
 
 Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksia samalla, kun häntä käsitteleviä juttuja hyllytetään seurausten pelossa.[^34]
 
-[^1]:  *"Meet Catholic Doctors Protecting Kids by Combating Trans Ideology"* \- New Catholic Register
+[^1]:  [*"Meet Catholic Doctors Protecting Kids by Combating Trans Ideology"*](https://www.ncregister.com/features/meet-catholic-doctors-protecting-kids-by-combating-trans-ideology)\- New Catholic Register
 
-[^2]:  *"Abortion is not healthcare"*
+[^2]:  [*"Abortion is not healthcare"*](https://www.cathmed.org/resources/6262/)
 
-[^3]:  *"Contraception is anti-life"* 
+[^3]:  [*"Contraception is anti-life"*](https://www.cathmed.org/assets/files/Contraception%20Data.pdf)
 
-[^4]:  Lausunto samaa sukupuolta olevien avioliitosta, jossa viehätys samaan sukupuoleen sanotaan johtuvan konflikteista itsetunnossa ja luottamuksessa
+[^4]:  Lausunto samaa sukupuolta olevien avioliitosta, jossa viehätys samaan sukupuoleen sanotaan johtuvan konflikteista itsetunnossa ja luottamuksessa https://www.cathmed.org/assets/files/Same_Sex_Marriage.pdf
 
 [^5]:  Alabaman transhoitokieto, jossa Hunterin todistajalausunto s. 254 ja Suomen hoitosuositukset liitteenä.  Ruotsin ja Cass Reviewn väliaikaisversion jälkeen s.718 [https://files.eqcf.org/wp-content/uploads/2022/05/69\_Exhibits.pdf](https://files.eqcf.org/wp-content/uploads/2022/05/69_Exhibits.pdf)
 
