@@ -1,5 +1,7 @@
-⁸**Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
-⁸**Siirto PDF-versiosta meni huonommi, kuin näytti aluksi, PDF versio kotisivuillaparempi**
+**Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
+
+
+**Siirto PDF-versiosta meni huonommin kuin näytti aluksi, PDF versio kotisivuilla parempi**
 
 *eli*  
 *”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”*
