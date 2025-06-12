@@ -1,4 +1,4 @@
-**Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
+⁸**Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
 
 *eli*  
 *”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”*
@@ -58,14 +58,16 @@ Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksi
 
 [^7]:  Society for Evidence-Based Gender Medicinen (SEGM) asiantuntijoissa löytyy kummasti ihmisiä, jotka eivät ole elämässään olleet tekemisissä sukupuolivähemmistöjen kanssa tai tehneet mitään näyttöön perustuvaa lääketiedettä (esim. Marchiano). 
 
-[^8]:  Selitystä vähän kyseessä olevasta säännöksestä. Tämä ei siis mitenkään vaikuttaisi hoitosuosituksiin, vaan pyrki varmistamaan suositusten mukaisten hoitojen korvattavuuteen, erityisesti ryhmien kohdalla, jotka ovat historiallisesti kohdanneet syrjintää:
 
+[^8]:  Selitystä vähän kyseessä olevasta säännöksestä. Tämä ei siis mitenkään vaikuttaisi hoitosuosituksiin, vaan pyrki varmistamaan suositusten mukaisten hoitojen korvattavuuteen, erityisesti ryhmien kohdalla, jotka ovat historiallisesti kohdanneet syrjintää:
+https://www.federalregister.gov/documents/2022/07/25/2022-15567/department-of-health-and-human-services-repeal-of-hhs-rules-on-guidance-enforcement-and-adjudication
 [^9]:  [https://www.flgov.com/eog/news/press/2022/governor-ron-desantis-appoints-four-board-medicine](https://www.flgov.com/eog/news/press/2022/governor-ron-desantis-appoints-four-board-medicine)
 
-[^10]:  Helpoiten varmaan on kuultavissa tässä. Huom. että mainitsee "omat tutkimuksensa, Palko/Coheren, ja Cass Review’n, ja muut asiantuntijat" kun puhuu tahoista, jotka samaa mieltä. Hunter itse sanoi Alabamassa Kaltialan olleen keskeisessä roolissa STM:n alaisen Palkon muuttaessa hoitosuosituksia. Kaltiala ei nyt mainitse osallisuuttaan.
-
+[^10]:  Helpoiten varmaan on kuultavissa tässä. Huom. että mainitsee "omat tutkimuksensa, Palko/Coheren, ja Cass Review’n, ja muut asiantuntijat" kun puhuu tahoista, jotka samaa mieltä. Hunter itse sanoi Alabamassa Kaltialan olleen keskeisessä roolissa STM:n alaisen Palkon muuttaessa hoitosuosituksia. Kaltiala ei nyt mainitse osallisuuttaan. 
+https://www.youtube.com/watch?v=13bOdkil7Io&t=19s
 [^11]:   *(Kommentti oikeusasiakirjojen käytöstä uskottavana lähteenä: todistusaineiston sisällön valheellinen esitys oikeudelle ei ole pieni asia. Viittaan asiakirjoihin, joita vastapuolella olisi ollut mahdollisuus nostaa asia esille, jos asianajaja olisi syyllistynyt näin vakavaan loukkaukseen. Niin ei kuitenkaan tehty ja vastapuoli hävisi korkeammalla oikeusasteessa, joten voimme olla aika varmoja, että Hunterin sanat on esitetty niissä oikein.)*  
 s.53-54 Tietenkin on mahdollista, että oikeusjutun yhteydessä paljastuneet, yksityiseksi tarkoitetut sähköpostikeskustelut sisältävät asioita, jotka eivät ole totta, mutta missä vaiheessa terve skeptisyys muuttuu yksinkertaisemman, tiedossa olevien faktojen kanssa harmoniassa olevan totuuden kiistoksi?
+ent/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1
 
 [^12]:  [https://segm.org/about\_us](https://segm.org/about_us)
 
