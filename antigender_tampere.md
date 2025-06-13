@@ -64,9 +64,9 @@ Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksi
 [^7]: Society for Evidence-Based Gender Medicinen (SEGM) asiantuntijoissa löytyy kummasti ihmisiä, jotka eivät ole elämässään olleet tekemisissä sukupuolivähemmistöjen kanssa tai tehneet mitään näyttöön perustuvaa lääketiedettä (esim. Marchiano). [https://mobile.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=0945-AA17&meetingId=131923&acronym=0945-HHS/OCR]
 
 [^8]:  Selitystä vähän kyseessä olevasta säännöksestä. Tämä ei siis mitenkään vaikuttaisi hoitosuosituksiin, vaan pyrki varmistamaan suositusten mukaisten hoitojen korvattavuuteen, erityisesti ryhmien kohdalla, jotka ovat historiallisesti kohdanneet syrjintää:
+[https://www.federalregister.gov/documents/2022/07/25/2022-15567/department-of-health-and-human-services-repeal-of-hhs-rules-on-guidance-enforcement-and-adjudication](https://www.federalregister.gov/documents/2022/07/25/2022-15567/department-of-health-and-human-services-repeal-of-hhs-rules-on-guidance-enforcement-and-adjudication)
 
-[https://www.federalregister.gov/documents/2022/07/25/2022-15567/department-of-health-and-human-services-repeal-of-hhs-rules-on-guidance-enforcement-and-adjudication]
-[^9]:  [https://www.flgov.com/eog/news/press/2022/governor-ron-desantis-appoints-four-board-medicine](https://www.flgov.com/eog/news/press/2022/governor-ron-desantis-appoints-four-board-medicine)
+[^9]:  [Lehdistötiedote DeSantisin nimityksistä](https://www.flgov.com/eog/news/press/2022/governor-ron-desantis-appoints-four-board-medicine)
 
 [^10]:  Helpoiten varmaan on kuultavissa tässä. Huom. että mainitsee "omat tutkimuksensa, Palko/Coheren, ja Cass Review’n, ja muut asiantuntijat" kun puhuu tahoista, jotka samaa mieltä. Hunter itse sanoi Alabamassa Kaltialan olleen keskeisessä roolissa STM:n alaisen Palkon muuttaessa hoitosuosituksia. Kaltiala ei nyt mainitse osallisuuttaan. 
 https://www.youtube.com/watch?v=13bOdkil7Io&t=19s
@@ -98,17 +98,18 @@ https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03
 
 [^22]:  *(Autoin tämän jutun tutkimisessa)* [https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli)
 
-[^23]:  Tämä Aamulehden prinntiversion kannessa sensaatiomaisella above the fold \-otsikolla “*Jarrua lasten sukupuolipiirteiden muokkaukseen*” esiintynyt juttu on esimerkki erityisen vastuuttomasta tiedeviestinnästä. Tällainen ehdoton kieli ja eriävien näkemysten laittaminen kyseenalaisten motiivien piikkiin on valitettavan yleistä Kaltialalta, johon akateemisia normeja noudattavien on vaikea puuttua rikkomatta niitä itse  
-https://www.aamulehti.fi/kotimaa/art-2000010406647.htm
+[^23]:  [Tämä](https://www.aamulehti.fi/kotimaa/art-2000010406647.html) Aamulehden prinntiversion kannessa sensaatiomaisella above the fold -otsikolla “*Jarrua lasten sukupuolipiirteiden muokkaukseen*” esiintynyt juttu on esimerkki erityisen vastuuttomasta tiedeviestinnästä. Tällainen ehdoton kieli ja eriävien näkemysten laittaminen kyseenalaisten motiivien piikkiin on valitettavan yleistä Kaltialalta, johon akateemisia normeja noudattavien on vaikea puuttua rikkomatta niitä itse  
+
 
 
 [^24]:  Lääkärilehden toimitus ei nähnyt Kaltilan osallisuutta mainitsemisen arvoisena, kun otin heihin yhteyttä asiaan liittyen. En tiedä olenko tässä vähemmistössä, mutta minusta tämä olisi kyseenalaista toimintaa, olivat löydökset mitä tahansa.  
 [https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/](https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/)
 
-[^25]: Neuvonantajien nimet eivät olleet heti näkyvillä, mutta se löytyy “conflicts of interest”- kohdasta, joka kertaa vähän siitä, kuinka avoin prosessi oli:
-https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf
+[^25]: Neuvonantajien nimet eivät olleet heti näkyvillä, mutta se (löytyy lopusta “conflicts of interest”- kohdasta)[https://mentalhealth.bmj.com/content/ebmental/27/1/e300940.full.pdf]
+, joka kertaa vähän siitä, kuinka avoin prosessi oli.
 
-[^26]:  Cassin oma vastaus liittyen Hunteriin, joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
+[^26]:  [Cassin oma vastaus liittyen Hunteriin](https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf
+), joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
 https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf
 
 [^27]:  https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg
