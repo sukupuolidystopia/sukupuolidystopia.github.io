@@ -1,5 +1,7 @@
 **Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
 
+<sup><sup>Tämä ei ole lainkaan kattava kuvaus Kaltialan ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla) on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan.</sup></sup>
+
 <font color="red">
 ***Siirto PDF-versiosta meni huonommin kuin näytti aluksi, PDF versio kotisivuilla parempi***</font>
 
@@ -10,12 +12,13 @@ _*”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudess
 [*esa.klmki@gmail.com*](mailto:esa.klmki@gmail.com)*,*   
 *signal: ekfinland.21*   
 *ajantaisainen versio löytyy: sukupuolidystopia.github.io*
+Saa käyttää ja levittää vapaasti, omaan sisältöön jne. Tärkeintä olisi, että tieto leviäisi
 
 Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu ehkäisyn[^2], abortin[^3], ja sateenkaarioikeuksien vastustaminen[^4].  CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.[^1]
 
 **Helmikuu 2022:** Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa,  "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia,  nähtyään hoitojen aiheuttamat haitat nuorille". Kuten monen muunkin osavaltion kiellon kohdalla, STM:n hoitosuositukset ovat liitteenä.[^5]
 
-**Huhtikuu 2022:** Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM[^6] järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. [^7]SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä⁸, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa[^8]
+**Huhtikuu 2022:** Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM[^6] järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. [^7]SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa[^8]
 
 **Toukokuu 2022:** Ron DeSantis nimittää Hunterin Florida Medical Boardin johtoon[^9].
 
@@ -45,7 +48,7 @@ Suuri saksalais-itävaltalais-sveitsiläinen raportti on yksi lukuisista CR:ää
 
 Mutta laajempi Yhdysvaltain poliittinen konteksti ja yhteydet, joiden kohdalla ei tarvitse arvailla, ovatko nuorten transhoistoihin puuttuminen politiikan kautta alkusoittoa naisten ja seksuaalivähemmistöjen oikeuksiin puuttumiseen on tämän ulkopuolella. Myös se, kuinka Suomessa Kaltiala ei ole yksin ulkomaan yhteistyössään, vaan se näyttää yhdistävän useita henkilöitä, jotka saavat puhua aiheesta uskottavina ihmisinä Suomessa. 
 
-Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa häntä, puolueetonta tutkijaa[^33]. Juttu antaa käsityksen, ettei tee muuta, kuin tutki ja hoida Tampereella radikaalien trans-aktivistien levittäessä valheita.²⁸ Kansainvälisenä homo-, bi- ja transfobian vastaisena päivänä TikTokissa-mediassa julkaistaan hänen haastattelu, jossa hän jälleen syyttää kriitikoistaan tieteen politisoinnista.
+Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa häntä, puolueetonta tutkijaa[^33]. Juttu antaa käsityksen, ettei tee muuta, kuin tutki ja hoida Tampereella radikaalien trans-aktivistien levittäessä valheita. Kansainvälisenä homo-, bi- ja transfobian vastaisena päivänä jossain TikTokissa-mediassa julkaistaan hänen haastattelu, jossa hän jälleen syyttää kriitikoistaan tieteen politisoinnista.
 
 Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksia samalla, kun häntä käsitteleviä juttuja hyllytetään seurausten pelossa.[^34]
 
@@ -100,8 +103,6 @@ https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03
 
 [^23]:  [Tämä](https://www.aamulehti.fi/kotimaa/art-2000010406647.html) Aamulehden prinntiversion kannessa sensaatiomaisella above the fold -otsikolla “*Jarrua lasten sukupuolipiirteiden muokkaukseen*” esiintynyt juttu on esimerkki erityisen vastuuttomasta tiedeviestinnästä. Tällainen ehdoton kieli ja eriävien näkemysten laittaminen kyseenalaisten motiivien piikkiin on valitettavan yleistä Kaltialalta, johon akateemisia normeja noudattavien on vaikea puuttua rikkomatta niitä itse  
 
-
-
 [^24]:  Lääkärilehden toimitus ei nähnyt Kaltilan osallisuutta mainitsemisen arvoisena, kun otin heihin yhteyttä asiaan liittyen. En tiedä olenko tässä vähemmistössä, mutta minusta tämä olisi kyseenalaista toimintaa, olivat löydökset mitä tahansa.  
 [https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/](https://www.laakarilehti.fi/terveydenhuolto/iso-britannia-kallistuu-suomen-linjalle-alaikaisten-sukupuoliahdistuksen-hoidossa/)
 
@@ -112,24 +113,19 @@ https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03
 ), joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
 
 [^27]: [Kaltialan alkiuperäinen tutustusmeili](https://sukupuolidystopia.github.io/Cass_Hunter_tutustutus.jpg)
-
-https://sukupuolidystopia.github.io/cass_hunter_tutustutus.jpg
 https://sukupuolidystopia.github.io/tutkimusetiikka.jpg
 https://sukupuolidystopia.github.io/aineisto_lopussa_Kaltiala_tutustuttaa.pdf
+
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
 [^29]:  *“Transgender people of all ages face a critical inflection point in the UK and across the globe today. If politics continue to interfere with transgender healthcare, clinical services and research in this field may not recover. Peoples’ lives will be drastically—andneedlessly—upended. Further, the politicization of healthcare is a concern not just for transgender people, but for all people. Every person deserves the opportunity to make private and deeply personal medical decisions in consultation with healthcare providers whose work is guided by sound evidence, appropriate training, and clinical expertise”* 
-
 [https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf]
 
 [^30]:  *Medical professional societies were not recognizably involved in the preparation of the report. A so-called “Assurance Group” was appointed, but it was explicitly not involved in the development of recommendations for the Cass Review. There are reports that an “Advisory Board” was also established. The composition and specific contribution of this “Advisory Board” are not documented* (Ruuska et al., 2024 \[tämä sama kuin viitteeni 19, josta Kaltialan neuvonantajuus paljastui\]*; Cass, 2024)”* https://register.awmf.org/de/leitlinien/detail/028-014
 Englanninkielisen käännöksen lähde: 
 [https://www.erininthemorning.com/p/new-german-swiss-and-austria-guidelines]
 
-
-
 [^31]:  Mukana järjestämässä myös kirjan kieltojen kärkinimi Yhdysvalloissa, Mom’s for Liberty. Tai kaikki nuo alla olevat ryhmät on samassa kategoriassa. DIAG-järjestöstä taas kiitelty erästä toista asiasta Suomessa uskottavalla äänenpainolla puhuvaa, kun levittänyt heidän resurssejaan täällä. Hänkin jättää aina ulkomaiset sidosyhteydet mainitsematta. [https://x.com/genspect/status/1886247003589640661]
-
 SEGMin kaltainen bulvaani-ryhmä Genspect esittelee tapahtuman parhaat palat, videon otsikossa puhetta silpomisesta (mutilation). Moinen puhe varmasti tekee hyvää detrans-henkilöiden mielenterveydelle.
 [https://genspect.substack.com/p/the-best-of-genspect-detrans-awareness]
 
