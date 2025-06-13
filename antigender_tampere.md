@@ -1,18 +1,12 @@
 **Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
 
-<sup><sup>Tämä ei ole lainkaan kattava kuvaus Kaltialan ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla) on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan.</sup></sup>
+<sup>Tämä ei ole lainkaan kattava kuvaus Kaltialan ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla) on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan. </sup>
 
 <font color="red">
 ***Siirto PDF-versiosta meni huonommin kuin näytti aluksi, PDF versio kotisivuilla parempi***</font>
 
 *eli*  
-_*”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”*_
-
-*Laatinut Esa Kalliomäki,*  
-[*esa.klmki@gmail.com*](mailto:esa.klmki@gmail.com)*,*   
-*signal: ekfinland.21*   
-*ajantaisainen versio löytyy: sukupuolidystopia.github.io*
-Saa käyttää ja levittää vapaasti, omaan sisältöön jne. Tärkeintä olisi, että tieto leviäisi
+*_”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”_*
 
 Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu ehkäisyn[^2], abortin[^3], ja sateenkaarioikeuksien vastustaminen[^4].  CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.[^1]
 
@@ -51,6 +45,14 @@ Mutta laajempi Yhdysvaltain poliittinen konteksti ja yhteydet, joiden kohdalla e
 Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa häntä, puolueetonta tutkijaa[^33]. Juttu antaa käsityksen, ettei tee muuta, kuin tutki ja hoida Tampereella radikaalien trans-aktivistien levittäessä valheita. Kansainvälisenä homo-, bi- ja transfobian vastaisena päivänä jossain TikTokissa-mediassa julkaistaan hänen haastattelu, jossa hän jälleen syyttää kriitikoistaan tieteen politisoinnista.
 
 Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksia samalla, kun häntä käsitteleviä juttuja hyllytetään seurausten pelossa.[^34]
+
+<sup>
+*Laatinut Esa Kalliomäki,*  
+[*esa.klmki@gmail.com*](mailto:esa.klmki@gmail.com)*,*   
+*signal: ekfinland.21*   
+*ajantaisainen versio löytyy: sukupuolidystopia.github.io*
+Saa käyttää ja levittää vapaasti, omaan sisältöön jne. Tärkeintä olisi, että tieto leviäisi
+</sup>
 
 [^1]:  [*"Meet Catholic Doctors Protecting Kids by Combating Trans Ideology"*](https://www.ncregister.com/features/meet-catholic-doctors-protecting-kids-by-combating-trans-ideology)\- New Catholic Register
 
