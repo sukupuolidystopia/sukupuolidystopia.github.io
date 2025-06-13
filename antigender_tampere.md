@@ -13,7 +13,7 @@ _*”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudess
 
 Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu ehkäisyn[^2], abortin[^3], ja sateenkaarioikeuksien vastustaminen[^4].  CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.[^1]
 
-**Helmikuu 2022:** Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa,  "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia,  nähtyään hoitojen aiheuttamat haitat⁽ᵛᶦᶦᵗᵉ ᵖᵘᵘᵗᵗᵘᵘ⁾ nuorille". Kuten monen muunkin osavaltion kiellon kohdalla,  STM:n hoitosuositukset ovat liitteenä.[^5]
+**Helmikuu 2022:** Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa,  "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia,  nähtyään hoitojen aiheuttamat haitat nuorille". Kuten monen muunkin osavaltion kiellon kohdalla, STM:n hoitosuositukset ovat liitteenä.[^5]
 
 **Huhtikuu 2022:** Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM[^6] järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. [^7]SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä⁸, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa[^8]
 
@@ -23,14 +23,16 @@ Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu
 
 Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa työskentelevät lääkärit “noudattavat hoitosuosituksia eivätkä siten ole meidän kannalla kiellon suhteen”.[^11] Hunter sai lopulta Kaltialan lisäksi kerättyä asiantuntijoiksi Oxfordin sosiologian professori, SEGM-neuvonantaja[^12] ja transfobinen nettitrolli Michael Biggsin[^13] ja ADF:n vessalakien[^14] jne. tueksi usein todistava[^15] endokrinologi Michael Laidlaw’n[^16]. Kielto hyväksytään.[^17]
 
-**Heinäkuu 2023:** Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"[^18], jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltiala ja Takala. Useat allekirjoittajat, Hunter mukaan lukien ovat SEGM-aktiiveja. Stephen Levine,  joka on toiminut ainakin 12 anti-trans lain asiantuntijatodistajana,¹⁴ ja on esittänyt, että sukupuolidysforian takana voi olla liian symbioottinen äiti tai narsistinen luonne. Häntä haastatellaan sukupuolidysforiasta useita näiden lakeja oikeudessa puolustavan ADF:n sivuilla.[^19]
+**Heinäkuu 2023:** Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"[^18], jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltiala ja Takala. Useat allekirjoittajat, Hunter mukaan lukien ovat SEGM-aktiiveja. Stephen Levine,  joka on toiminut ainakin 12 anti-trans lain asiantuntijatodistajana,[^14] ja on esittänyt, että sukupuolidysforian takana voi olla liian symbioottinen äiti tai narsistinen luonne. Häntä haastatellaan sukupuolidysforiasta useita näiden lakeja oikeudessa puolustavan ADF:n sivuilla.[^19]
 
 **Huhtikuu 2024:** Brittiläisen alaikäisten transhoito-raportin, ns. Cass Review'n lopullinen versio julkaistaan.[^20] Vaikka raportti yllättää monet Euroopassa, versio siitä on ollut jo pari vuotta ollut käytössä Yhdysvaltain politiikassa.[^8][^10] 
 
 CR:stä uutisoidaan Suomessa riemuvoittona[^21] meidän kansaivälisesti katsottuna poikkeukselliselle lähestymistavalle[^22] nuorten sukupuolidysforian hoitoon.   
-Kaltiala itsekin kehuu raportin tuloksia lehdistössä mainitsematta yhteyttään siihen,[^23] ja syyttää kriitikoita tieteen politisoimisesta[^24] . 
+Kaltiala itsekin kehuu raportin tuloksia lehdistössä mainitsematta yhteyttään siihen,[^23] ja syyttää kriitikoita tieteen politisoimisesta[^24].
 
-Kuun loppua kohden Kaltialan rooli CR:n ulkoisena neuvontantajana paljastuu,[^25] sekä Cass Review'n tapaaminen Hunterin kanssa, joka on kiistanalaista hänen poliittisten ja ideologisten kytkösten takia. Cass kiistää, että tiesi Hunterin taustaa, ja sanoo, että tapasivat vain kerran.[^26] Tulee esiin, että Kaltiala "jonka kanssa Hunter on työskennellyt aiemmin" järjesti tapaamisen,[^27] joka oli syyskuussa 2022\. Floridan kielto haastetaan oikeudessa, ja käsittelyn myötä paljastuu, jossa sähköposti, jossa Hunter sanoo tapaavansa Kaltialaa säännöllisesti¹⁰. 
+Kuun loppua kohden Kaltialan rooli CR:n ulkoisena neuvontantajana paljastuu,[^25] sekä Cass Review'n tapaaminen Hunterin kanssa, joka on kiistanalaista hänen poliittisten ja ideologisten kytkösten takia. Cass kiistää, että tiesi Hunterin taustaa, ja sanoo, että tapasivat vain kerran.[^26] [^27], syyskuussa 2022. 
+
+Floridan kielto haastetaan oikeudessa, ja käsittelyn myötä paljastuu, jossa sähköposti, jossa Hunter sanoo tapaavansa Kaltialaa säännöllisesti. Tulee esiin, että Kaltiala "jonka kanssa Hunter on työskennellyt aiemmin" järjesti tapaamisen,
 
 CR:n sisäisten asiakirjojen perusteella Kaltialalla näyttää olleen jopa Senior Research Officer \-rooli.[^28]
 
