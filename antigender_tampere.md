@@ -1,7 +1,5 @@
 
-**Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
-
-<sup>Tämä ei ole lainkaan kattava kuvaus Kaltialan ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla) on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan. </sup>
+**Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa\* **
 
 *eli*  
 *_”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”_*
@@ -38,11 +36,13 @@ Suuri saksalais-itävaltalais-sveitsiläinen raportti on yksi lukuisista CR:ää
 
 **Kesä 2025:** Suomi saa parhaat pisteet myös Trumpin hallinnon raportissa alaikäisten transhoidoista, Ruotsin ja CR:n ohessa.[^32] Asiasta ei yhtään uutista Suomessa.
 
-Mutta laajempi Yhdysvaltain poliittinen konteksti ja yhteydet, joiden kohdalla ei tarvitse arvailla, ovatko nuorten transhoistoihin puuttuminen politiikan kautta alkusoittoa naisten ja seksuaalivähemmistöjen oikeuksiin puuttumiseen on tämän ulkopuolella. Myös se, kuinka Suomessa Kaltiala ei ole yksin ulkomaan yhteistyössään, vaan se näyttää yhdistävän useita henkilöitä, jotka saavat puhua aiheesta uskottavina ihmisinä Suomessa. 
+Yhdysvaltain poliittisen kontekstin ja yhteyksien kohdalla ei tarvitse arvailla, ovatko nuorten transhoistoihin puuttuminen politiikan kautta alkusoittoa naisten ja seksuaalivähemmistöjen oikeuksiin puuttumiseen. Myös se, kuinka Suomessa Kaltiala ei ole yksin ulkomaan yhteistyössään, vaan se näyttää yhdistävän useita henkilöitä, jotka saavat puhua aiheesta uskottavina ihmisinä Suomessa. 
 
 Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa häntä, puolueetonta tutkijaa[^33]. Juttu antaa käsityksen, ettei tee muuta, kuin tutki ja hoida Tampereella radikaalien trans-aktivistien levittäessä valheita. Kansainvälisenä homo-, bi- ja transfobian vastaisena päivänä jossain TikTokissa-mediassa julkaistaan hänen haastattelu, jossa hän jälleen syyttää kriitikoistaan tieteen politisoinnista.
 
 Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksia samalla, kun häntä käsitteleviä juttuja hyllytetään seurausten pelossa.[^34]
+
+<sup>\*Tämä ei ole lainkaan kattava kuvaus Kaltialan poikkeuksellisesta ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla). Tietoja on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan. </sup>
 
 <sup>
 *Laatinut Esa Kalliomäki,*  
