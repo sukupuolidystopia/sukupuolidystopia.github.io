@@ -105,8 +105,8 @@ Saa käyttää ja levittää vapaasti, omaan sisältöön jne. Tärkeintä olisi
 [^26]:  [Cassin oma vastaus liittyen Hunteriin](https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf), joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
 
 [^27]: [Kaltialan alkiuperäinen tutustusmeili](https://sukupuolidystopia.github.io/Cass_Hunter_tutustutusmismeili.jpg)
-[Hunter kertoo säännöllisistä tapaamisista](Tutkimusetiikka.jpg)
-Otteita näistä pdf-tiedostoista: [https://sukupuolidystopia.github.io/aineisto_lopussa_Kaltiala_tutustuttaa.pdf] [ainesto_kokoukset_etiikka.pdf]
+[Hunter kertoo säännöllisistä tapaamisista](https://sukupuolidystopia.github.io/Tutkimusetiikka.jpg)
+Otteita näistä pdf-tiedostoista: [https://sukupuolidystopia.github.io/aineisto_lopussa_Kaltiala_tutustuttaa.pdf] [https://sukupuolidystopia.github.io/ainesto_kokoukset_etiikka.pdf]
 
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
