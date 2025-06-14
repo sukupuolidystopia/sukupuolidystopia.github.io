@@ -1,9 +1,7 @@
+
 **Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa**
 
 <sup>Tämä ei ole lainkaan kattava kuvaus Kaltialan ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla) on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan. </sup>
-
-<font color="red">
-***Siirto PDF-versiosta meni huonommin kuin näytti aluksi, PDF versio kotisivuilla parempi***</font>
 
 *eli*  
 *_”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”_*
@@ -20,7 +18,7 @@ Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu
 
 Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa työskentelevät lääkärit “noudattavat hoitosuosituksia eivätkä siten ole meidän kannalla kiellon suhteen”.[^11] Hunter sai lopulta Kaltialan lisäksi kerättyä asiantuntijoiksi Oxfordin sosiologian professori, SEGM-neuvonantaja[^12] ja transfobinen nettitrolli Michael Biggsin[^13] ja ADF:n vessalakien[^14] jne. tueksi usein todistava[^15] endokrinologi Michael Laidlaw’n[^16]. Kielto hyväksytään.[^17]
 
-**Heinäkuu 2023:** Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"[^18], jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltiala ja Takala. Useat allekirjoittajat, Hunter mukaan lukien ovat SEGM-aktiiveja. Stephen Levine,  joka on toiminut ainakin 12 anti-trans lain asiantuntijatodistajana,[^14] ja on esittänyt, että sukupuolidysforian takana voi olla liian symbioottinen äiti tai narsistinen luonne. Häntä haastatellaan sukupuolidysforiasta useita näiden lakeja oikeudessa puolustavan ADF:n sivuilla.[^19]
+**Heinäkuu 2023:** Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"[^18], jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltiala ja Takala. Useat allekirjoittajat, Hunter mukaan lukien ovat SEGM-aktiiveja. Stephen Levine,  joka on toiminut ainakin 12 anti-trans lain asiantuntijatodistajana,[^15] ja on esittänyt, että sukupuolidysforian takana voi olla liian symbioottinen äiti tai narsistinen luonne. Häntä haastatellaan sukupuolidysforiasta useita näiden lakeja oikeudessa puolustavan ADF:n sivuilla.[^19]
 
 **Huhtikuu 2024:** Brittiläisen alaikäisten transhoito-raportin, ns. Cass Review'n lopullinen versio julkaistaan.[^20] Vaikka raportti yllättää monet Euroopassa, versio siitä on ollut jo pari vuotta ollut käytössä Yhdysvaltain politiikassa.[^8][^10] 
 
