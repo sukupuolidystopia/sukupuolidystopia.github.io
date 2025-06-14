@@ -46,7 +46,8 @@ Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksi
 
 <sup>
 *Laatinut Esa Kalliomäki,*  
-[*esa.klmki@gmail.com*](mailto:esa.klmki@gmail.com)*,*   
+*esa.klmki@gmail.com*
+*insta/threads: sukupuolidystopia
 *signal: ekfinland.21*   
 *ajantaisainen versio löytyy: sukupuolidystopia.github.io*
 Saa käyttää ja levittää vapaasti, omaan sisältöön jne. Tärkeintä olisi, että tieto leviäisi
