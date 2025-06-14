@@ -25,9 +25,9 @@ Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa 
 CR:stä uutisoidaan Suomessa riemuvoittona[^21] meidän kansaivälisesti katsottuna poikkeukselliselle lähestymistavalle[^22] nuorten sukupuolidysforian hoitoon.   
 Kaltiala itsekin kehuu raportin tuloksia lehdistössä mainitsematta yhteyttään siihen,[^23] ja syyttää kriitikoita tieteen politisoimisesta[^24].
 
-Kuun loppua kohden Kaltialan rooli CR:n ulkoisena neuvontantajana paljastuu,[^25] sekä Cass Review'n tapaaminen Hunterin kanssa, joka on kiistanalaista hänen poliittisten ja ideologisten kytkösten takia. Cass kiistää, että tiesi Hunterin taustaa, ja sanoo, että tapasivat vain kerran.[^26] [^27], syyskuussa 2022. 
+Kuun loppua kohden Kaltialan rooli CR:n ulkoisena neuvontantajana paljastuu,[^25] sekä Cass Review'n tapaaminen Hunterin kanssa, joka on kiistanalaista hänen poliittisten ja ideologisten kytkösten takia. Cass kiistää, että tiesi Hunterin taustaa, ja sanoo, että tapasivat vain kerran.[^26]. 
 
-Floridan kielto haastetaan oikeudessa, ja käsittelyn myötä paljastuu, jossa sähköposti, jossa Hunter sanoo tapaavansa Kaltialaa säännöllisesti. Tulee esiin, että Kaltiala "jonka kanssa Hunter on työskennellyt aiemmin" järjesti tapaamisen,
+Kun Floridan kaikenikäisten transhoitoja haastettiin oikeudessa ja esille tulevista sähköposteista saa hieman eru kuvan. Tulee esiin, että Kaltiala "jonka kanssa Hunter on työskennellyt aiemmin" järjesti tapaamisen,[^27]
 
 CR:n sisäisten asiakirjojen perusteella Kaltialalla näyttää olleen jopa Senior Research Officer \-rooli.[^28]
 
@@ -104,7 +104,9 @@ Saa käyttää ja levittää vapaasti, omaan sisältöön jne. Tärkeintä olisi
 
 [^26]:  [Cassin oma vastaus liittyen Hunteriin](https://thekitetrust.org.uk/wp-content/uploads/2024/04/Cass-Review-Mythbusting-Q-and-A.pdf), joka jättää pois olennaista kontekstia, jota on seuraavassa viitteessä
 
-[^27]: [Kaltialan alkiuperäinen tutustusmeili](https://sukupuolidystopia.github.io/Cass_Hunter_tutustutus.jpg) https://sukupuolidystopia.github.io/tutkimusetiikka.jpg https://sukupuolidystopia.github.io/aineisto_lopussa_Kaltiala_tutustuttaa.pdf
+[^27]: [Kaltialan alkiuperäinen tutustusmeili](https://sukupuolidystopia.github.io/Cass_Hunter_tutustutusmismeili.jpg)
+[Hunter kertoo säännöllisistä tapaamisista](Tutkimusetiikka.jpg)
+Otteita näistä pdf-tiedostoista: [https://sukupuolidystopia.github.io/aineisto_lopussa_Kaltiala_tutustuttaa.pdf] [ainesto_kokoukset_etiikka.pdf]
 
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
