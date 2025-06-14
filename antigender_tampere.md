@@ -1,8 +1,8 @@
 
-Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa\* 
+__Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa\*__
 
 *eli*  
-*_”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”_*
+_”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”_
 
 Hunter on Catholic Medical Associationin jäsen[^1], jonka periaatteisiin kuuluu ehkäisyn[^2], abortin[^3], ja sateenkaarioikeuksien vastustaminen[^4].  CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.[^1]
 
