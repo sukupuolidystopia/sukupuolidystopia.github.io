@@ -2,12 +2,15 @@
 <sub><sup>*Tämän oikeudessa esille tulleen sähköpostin perusteella, TAYSin ylilääkärin ja TUNIn professori Kaltala pyrki tarkoituksella johtamaan suomalaisia harhaan, koska kyseessä oli yhteistyö Ron DeSatisin hallinnon ja jopa ehkäisyä vastustavan äärikonservatiivin Hunteri kanssa.  [Ote tästä](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b78de3-f609-4288-bccd-70cdb7589f81_1006x939.jpeg) joka on osa todistajanlausuntoa [tästä oikeusjutusta.](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1)*   </sup></sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Näissä yhteyksissä törmää usein myös nettihuijauksiin. Lisäksi sivun päivittäminen ja siistiminen ei ole mahdollisita yksistään toiminnan kiihtyessä hiljattain, sekä Euroopassa että Yhdysvalloisaa. ❗ <br>
+❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Lisäksi sivun päivittäminen ja siistiminen kiitospalkalla ei ole mahdollisita niin hyvin, kuin haluaisin, toiminnan kiihtyessä sekä Euroopassa että Yhdysvalloisaa<br>
+
+__Miksi tämä on tärkeää?__
+
+[”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti” (pdf)](https://sukupuolidystopia.github.io/antigender_tampere)
+Lyhyt aikajana suhteesta yhteen antigender-vaikuttajaan, jossa lähdeviitteet kaikelle.  
 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
 
-[”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti” (pdf)](https://sukupuolidystopia.github.io/Kaltila_Hunter-1.pdf)
-Hyvin pikkutarkoin lähdeviittein varustettu aikajana vain yhdestä aspektista Suomen antigender-yhteistyötä, Alabamasta Floridaan, Britanniaan ja takaisin
 
 **Sisällysluettelo:**
 
@@ -31,12 +34,18 @@ Hyvin pikkutarkoin lähdeviittein varustettu aikajana vain yhdestä aspektista S
  18. [Sidonnaisuudet](#sidos)
  19. [Yhteystiedot ja some](#some)
   
- 
+
 
 
 ##  Suomen todellisuudesta <a id="item"></a>
 
-[Viralliset houtosuositukset](https://palveluvalikoima.fi/dysforia-transsukupuolisuus) eivät ole kovin selkeästi tai helppotajuisesti nimetty, ja edes moni transasioihin erikoistunut ei tietänyt, mistä ne löytyvät. Olisi pitänyt aloittaa lukemalla amerikkalaisia anti-trans poliittisia asiakirjoja, niin useasta niihin linkitetään [täällä](#scotus), ja [jotenkin STM:n byrokraattiset asiakirjat ovat löytäneet tiensä Australian poliittiseen keskusteluun](https://www.parliament.nsw.gov.au/ladocs/submissions/85281/Submission%2035%20-%20Australian%20Christian%20Lobby.pdf) asti, kun kyse on tranhoitojen rajoituksista. Suosituksista ei löydy lähteitä, mutta "Valmistelumuistio" ja "Liite 2" -tiedostoista löytyy eniten kyseenalaisia lähteitä.
+*"Tutkimuksessa yli puolet vastaajista kertoi epäröivänsä terveydenhuoltoon menemistä, ja 72 prosenttia oli kokenut elämänsä aikana jonkinlaista syrjintää terveydenhuollossa. Esiin nousi muun muassa tilanteita, joissa terveydenhuollon henkilökunta väärinsukupuolittaa, kohtelee asiakkaita tylysti, vihamielisesti ja epäasiallisesti ja tiedonpuutteen vuoksi jättää sukupuolivähemmistön terveydenhuollon ulkopuolelle.
+
+– Tilanne on huono ja tuntuu, että kehityksessä mennään koko ajan taaksepäin, vaikka eletään 2000-lukua. Ajattelin, että jos edes joku lukisi graduni ja havahtuisi asiaan, se olisi jo voitto, hän toteaa."*
+[Turun Sanomien uutinen pro-gradu työstä sukupuolivähemmistöjen kokemuksista terveydenhuollosta vuodelta 2025](https://www.ts.fi/teemat/6663473)
+
+
+[Viralliset houtosuositukset](https://palveluvalikoima.fi/dysforia-transsukupuolisuus) eivät ole kovin selkeästi tai helppotajuisesti nimetty, ja edes moni transasioihin erikoistunut ei tietänyt, mistä ne löytyvät. Olisi pitänyt aloittaa lukemalla amerikkalaisia anti-trans poliittisia asiakirjoja, niin useasta niihin linkitetään [täällä](#scotus), ja [jotenkin STM:n byrokraattiset asiakirjat ovat löytäneet tiensä Australian poliittiseen keskusteluun](https://www.parliament.nsw.gov.au/ladocs/submissions/85281/Submission%2035%20-%20Australian%20Christian%20Lobby.pdf) asti, kun kyse on tranhoitojen rajoituksista. Suosituksista ei löydy lähteitä, mutta "Valmistelumuistio" ja "Liite 2" -tiedostoista löytyy eniten kyseenalaisia lähteitä [esin.Marchiano](https://www.instagram.com/p/C_4v85VolBC/?utm_source=ig_web_copy_link&igsh=MWhzYmE1ZXVsOGxmOA==]).
 
 On vaikea selittää hoitoprosessin mielivaltaisuutta yleisellä tasolla, [transpolitiikka](https://www.instagram.com/transpolitiikka/) instagram tilille on kertynyt sen verran paljon kokemuksia, että on vaikeaa ohittaa nämä poikkeustapauksina. Muilla tieteenaloilla tehdyt, allaolevat tutkimukset eivät myöskään viittaa siihen, että ne olisivat poikkeuksellisia.
 
@@ -54,8 +63,15 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
 
+##  Ns. Gender-kriittinen, progressiivisenä essintyvä liike, jolla runssaasti yheyksiä kirisittyyn ja ääri oikeikstoon <a id="gc"></a>
+- ["Hajota ja hallitse" strategia, jolla kristitty oikeisto onnistuneesti alkoi hakea poliittisia voittoja ja valtaa hävittyään tasa-arvoisessa avioliitto-oikeudessa, esitetty vuonna 2017](https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/)
+- [Trans-ekslusiivisten radikaalifeministien ja kristityn oikeiston epäpyhä liittouma](https://www.jezebel.com/the-unholy-alliance-of-trans-exclusionary-radical-femin-1834120309)  vuodelta 2019 
+- [Knservatiivit käyttävät gender-kriittisiä "ihmiskilipinä" trans-asioissa,](https://bylinetimes.com/2021/10/25/the-right-is-using-gender-critical-feminists-as-human-shields-over-trans-issue/) vuodelta 2021, täsmäohjus olisi nykyään parempi ilmaisu
+- [Terffit, eco-fasistit ja uskonnolliset fundamentalistit - keskustelu näiden liikkeiden yhteydestä vuodelta 2022](https://healthliberationnow.com/2024/12/19/terfs-eco-fascists-and-christo-nationalists-from-deep-green-resistance-to-wolf-partnering-with-the-global-christian-right/) Artikkelissa mainittu Kara Dansky on sittemmin kehunut erästä Helsingin Sanomissa julkaistua suomalaista, kun on levittänyt heidän resurssejaan Suomessa, mutta se on eri aihe, ja löytyy X:n hakutoiminnolla.
+
+
 ## Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjan kanssa<a id="rokote"></a>
-Hiljattaain [Rolling Stone](https://www.rollingstone.com/politics/politics-features/rfk-jr-anti-vax-orgs-funding-major-charities-1234857214/) ja [Important Context](https://www.importantcontext.news/p/americas-biggest-charities-bankrolled) -julkaisut paljastivat 15 miljoonan dollarin rahoituksen Fidelity ja Vanguard -rahastoilta menneen koronarokoseen ulostulon aikana rokoteskeptisyyttä levittäneeseen kampanjaan. Nämä järjestöt ottavat vastaan rahoituksia nimettömiltä lahjoittajilta, ja jakavat vuosittain miljardeja dollareita apurahoja. Mukaanlukien Päivi Räsäsen kallit amerikkalaiset juristit maksaneelle, aborttioideikeuden yhdysvaltain korkeimmassa oikeudessa kaataneelle ADF:lle, sekä RFK nuoremman rokoteskeptiselle järjestölle ja lääkärijärjestölle, joka kannusti ihmisiä Ivermectin ja Hydroxycloriquin -huuhaalääkkeiden käyttöön, joka johti ihmisten kuolemaan. Viime vuosina rokotevastaisuus on myös hyvin oikeistolaiseksi muuntunut ilmiö, kun kymmenen vuotta sitten sitä käytettiin esimerkkinä enemmän vasemmistolaisesta tiedevastaisuudesta.
+[Rolling Stone](https://www.rollingstone.com/politics/politics-features/rfk-jr-anti-vax-orgs-funding-major-charities-1234857214/) ja [Important Context](https://www.importantcontext.news/p/americas-biggest-charities-bankrolled) -julkaisut paljastivat 15 miljoonan dollarin rahoituksen Fidelity ja Vanguard -rahastoilta menneen koronarokoseen ulostulon aikana rokoteskeptisyyttä levittäneeseen kampanjaan. Nämä järjestöt ottavat vastaan rahoituksia nimettömiltä lahjoittajilta, ja jakavat vuosittain miljardeja dollareita apurahoja. Mukaanlukien Päivi Räsäsen kallit amerikkalaiset juristit maksaneelle, aborttioideikeuden yhdysvaltain korkeimmassa oikeudessa kaataneelle ADF:lle, sekä RFK nuoremman rokoteskeptiselle järjestölle ja lääkärijärjestölle, joka kannusti ihmisiä Ivermectin ja Hydroxycloriquin -huuhaalääkkeiden käyttöön, joka johti ihmisten kuolemaan. Viime vuosina rokotevastaisuus on myös hyvin oikeistolaiseksi muuntunut ilmiö, kun kymmenen vuotta sitten sitä käytettiin esimerkkinä enemmän vasemmistolaisesta tiedevastaisuudesta.
 
 Tämä liittyy Suomeen siten, että SEGM-järjestöön, jonka jäsenten kanssa Riittakerttu Kaltiala ja Laura Takala (o.s. Suomalainen) allekirjoittivat avoimen kirjeen, ja [Kaltiala tehnyt laajaa yhteistyötä](#kaltiala), on sannut ainakin [satoja tuhansia dollareita samoilta järjestöiltä, jotka myös rahoittaneet ADF:ää](https://www.splcenter.org/captain/defining-pseudoscience-network). [Kaltiala on ilmoittanut ottaneen järjestöltä korvauksia vastaan Lääkärilehdessä](https://x.com/esa_first_name/status/1833555026142224575/photo/1). Patrick Hunter, jonka nimi löytyy tämän sivun yläpäästä, on myös SEGMin jäsen. 
 
