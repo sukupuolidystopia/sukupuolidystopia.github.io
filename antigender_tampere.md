@@ -1,3 +1,4 @@
+JOS TULET TÄNNE PRIDELTÄ, LÄHDE LÖYTYY KESÄ 2025 KOHDASTA. 
 
 __Virallisiin lähteisiin perustuva aikajana TUNIn professori ja TAYSin ylilääkäri Riittakerttu Kaltialan yhteistyöstä Patrick Hunterin kanssa\*__
 
