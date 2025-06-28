@@ -45,14 +45,13 @@ Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksi
 
 <sup>\*Tämä ei ole lainkaan kattava kuvaus Kaltialan poikkeuksellisesta ulkomaantoiminnasta (mm. seitsemän ulkomaanmatkaa viime vuonna suurelta osin SEGM-järjestön asialla, usein virkahenkilön työajalla). Tietoja on muuten toimitettu monelle järjestöille, lehdistöstä ja poliitikoista, ja monet pelkäävät seurauksia, jos tekisivät mitään, toiset ovat välinpitämättömiä ja kolmas ryhmä seuraa näitä kehityksiä innollaan. </sup>
 
-<sup>
-*Laatinut Esa Kalliomäki,*  
-*esa.klmki@gmail.com*
-*insta/threads: sukupuolidystopia
-*signal: ekfinland.21*   
-*ajantaisainen versio löytyy: sukupuolidystopia.github.io*
-</sup>
-Saa käyttää ja levittää vapaasti, ottaa yhteyttä, jne. __Tärkeintä olisi, että tieto olisi saatavilla ihmisille, ja voisivat tehdä omat johtopäätökset__
+
+__Laatinut Esa Kalliomäki,  
+esa.klmki@gmail.com
+insta/threads: sukupuolidystopia
+signal: ekfinland.21  
+ajantaisainen versio löytyy: sukupuolidystopia.github.io
+Saa käyttää ja levittää vapaasti, ottaa yhteyttä, jne. Tärkeintä olisi, että tieto olisi saatavilla ihmisille, ja voisivat tehdä omat johtopäätökset__
 
 
 [^1]:  [*"Meet Catholic Doctors Protecting Kids by Combating Trans Ideology"*](https://www.ncregister.com/features/meet-catholic-doctors-protecting-kids-by-combating-trans-ideology)\- New Catholic Register
