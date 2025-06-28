@@ -111,63 +111,7 @@ Saa käyttää ja levittää vapaasti, ottaa yhteyttä, jne. __Tärkeintä olisi
 
 [^28]:  Minulla on tässä käytetyt asiakirjat, jos ketään kiinnostaa. EI ollut oikein muita neuvonantajia tiedossa, jotka olisivat tulkin tarpeessa. Jutussa kysytään sitä, miksi Cass Review rikkoi omaa sääntöään, jonka mukaan nuorten transhoitojen kanssa työskentelevien osallistuminen raporttiin vaarantaisi sen puolueettomuuden. [https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r](https://emiliabeckers.substack.com/p/enough-with-the-political-games-its?r=1tfbps&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
-[^29]:  *“Transgender people of all ages face a critical inflection point in the UK and across the globe today. If politics continue to interfere with transgender healthcare, clinical services and research in this field may not recover. Peoples’ lives will be drastically—andneedlessly—upended. Further, the politicization of healthcare is a concern not just for transgender people, but for all people. Every person deserves the opportunity to make private and deeply personal medical decisions in consultation with healthcare providers whose work is guided by sound evidence, appropriate training, and clinical expertise”* [An Evidence-Based Critique of the Cass Review]essa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”
-
-Hunter on Catholic Medical Associationin jäsen1, jonka periaatteisiin kuuluu ehkäisyn2, abortin3, ja sateenkaarioikeuksien vastustaminen4. CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.1
-
-Helmikuu 2022: Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa, "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia, nähtyään hoitojen aiheuttamat haitat nuorille". Kuten monen muunkin osavaltion kiellon kohdalla, STM:n hoitosuositukset ovat liitteenä.5
-
-Huhtikuu 2022: Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM6 järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. 7SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa8
-
-Toukokuu 2022: Ron DeSantis nimittää Hunterin Florida Medical Boardin johtoon9.
-
-Lokakuu 2022: DeSantisin poliittiseen ohjelmaan kuului mm. alaikäisten transhoitojen kielto, ja Hunter toimii kuulustelijana Florida Medical Boardin käsitellessä kieltoa. Hunterin tehtävä oli myös löytää asiantuntijat, jotka olisivat kiellon puolella. Kaltiala todistaa kiellon puolesta.10
-
-Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa työskentelevät lääkärit “noudattavat hoitosuosituksia eivätkä siten ole meidän kannalla kiellon suhteen”.11 Hunter sai lopulta Kaltialan lisäksi kerättyä asiantuntijoiksi Oxfordin sosiologian professori, SEGM-neuvonantaja12 ja transfobinen nettitrolli Michael Biggsin13 ja ADF:n vessalakien14 jne. tueksi usein todistava15 endokrinologi Michael Laidlaw’n16. Kielto hyväksytään.17
-
-Heinäkuu 2023: Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"18, jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltialessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”
-
-Hunter on Catholic Medical Associationin jäsen1, jonka periaatteisiin kuuluu ehkäisyn2, abortin3, ja sateenkaarioikeuksien vastustaminen4. CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.1
-
-Helmikuu 2022: Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa, "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia, nähtyään hoitojen aiheuttamat haitat nuorille". Kuten monen muunkin osavaltion kiellon kohdalla, STM:n hoitosuositukset ovat liitteenä.5
-
-Huhtikuu 2022: Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM6 järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. 7SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa8
-
-Toukokuu 2022: Ron DeSantis nimittää Hunterin Florida Medical Boardin johtoon9.
-
-Lokakuu 2022: DeSantisin poliittiseen ohjelmaan kuului mm. alaikäisten transhoitojen kielto, ja Hunter toimii kuulustelijana Florida Medical Boardin käsitellessä kieltoa. Hunterin tehtävä oli myös löytää asiantuntijat, jotka olisivat kiellon puolella. Kaltiala todistaa kiellon puolesta.10
-
-Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa työskentelevät lääkärit “noudattavat hoitosuosituksia eivätkä siten ole meidän kannalla kiellon suhteen”.11 Hunter sai lopulta Kaltialan lisäksi kerättyä asiantuntijoiksi Oxfordin sosiologian professori, SEGM-neuvonantaja12 ja transfobinen nettitrolli Michael Biggsin13 ja ADF:n vessalakien14 jne. tueksi usein todistava15 endokrinologi Michael Laidlaw’n16. Kielto hyväksytään.17
-
-Heinäkuu 2023: Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"18, jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltialessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”
-
-Hunter on Catholic Medical Associationin jäsen1, jonka periaatteisiin kuuluu ehkäisyn2, abortin3, ja sateenkaarioikeuksien vastustaminen4. CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.1
-
-Helmikuu 2022: Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa, "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia, nähtyään hoitojen aiheuttamat haitat nuorille". Kuten monen muunkin osavaltion kiellon kohdalla, STM:n hoitosuositukset ovat liitteenä.5
-
-Huhtikuu 2022: Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM6 järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. 7SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa8
-
-Toukokuu 2022: Ron DeSantis nimittää Hunterin Florida Medical Boardin johtoon9.
-
-Lokakuu 2022: DeSantisin poliittiseen ohjelmaan kuului mm. alaikäisten transhoitojen kielto, ja Hunter toimii kuulustelijana Florida Medical Boardin käsitellessä kieltoa. Hunterin tehtävä oli myös löytää asiantuntijat, jotka olisivat kiellon puolella. Kaltiala todistaa kiellon puolesta.10
-
-Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa työskentelevät lääkärit “noudattavat hoitosuosituksia eivätkä siten ole meidän kannalla kiellon suhteen”.11 Hunter sai lopulta Kaltialan lisäksi kerättyä asiantuntijoiksi Oxfordin sosiologian professori, SEGM-neuvonantaja12 ja transfobinen nettitrolli Michael Biggsin13 ja ADF:n vessalakien14 jne. tueksi usein todistava15 endokrinologi Michael Laidlaw’n16. Kielto hyväksytään.17
-
-Heinäkuu 2023: Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"18, jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltialessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti”
-
-Hunter on Catholic Medical Associationin jäsen1, jonka periaatteisiin kuuluu ehkäisyn2, abortin3, ja sateenkaarioikeuksien vastustaminen4. CMA kertoo avoimesti olevansa ADF:n yhteistyökumppani.1
-
-Helmikuu 2022: Alabaman transhoitokiello asiantuntijatodistajana Hunter kertoo, kuinka hänellä on ollut kunnia työskennella Kaltialan kanssa, "joka oli keskeisessä rooissa muuttamassa Suomen hoitosuosituksia, nähtyään hoitojen aiheuttamat haitat nuorille". Kuten monen muunkin osavaltion kiellon kohdalla, STM:n hoitosuositukset ovat liitteenä.5
-
-Huhtikuu 2022: Kaltiala antaa lausunnon kokouksessa, jonka SPLC:n myöhemmin viharyhmäksi lukittema SEGM6 järjesti Yhdysvaltain sosiaali-ja terveysministeriön kanssa. Hunter myös osallistujien listalla. 7SEGM järjesti tapaamisen, koska vastustavat Bidenin hallinnon säädöksiä, jotka pyrkivät puuttumaan epätasa-arvoon terveydenhuollossa8
-
-Toukokuu 2022: Ron DeSantis nimittää Hunterin Florida Medical Boardin johtoon9.
-
-Lokakuu 2022: DeSantisin poliittiseen ohjelmaan kuului mm. alaikäisten transhoitojen kielto, ja Hunter toimii kuulustelijana Florida Medical Boardin käsitellessä kieltoa. Hunterin tehtävä oli myös löytää asiantuntijat, jotka olisivat kiellon puolella. Kaltiala todistaa kiellon puolesta.10
-
-Hunter kirjoittaa ennen kuulemista, että kaikki transnuorten kanssa Floridassa työskentelevät lääkärit “noudattavat hoitosuosituksia eivätkä siten ole meidän kannalla kiellon suhteen”.11 Hunter sai lopulta Kaltialan lisäksi kerättyä asiantuntijoiksi Oxfordin sosiologian professori, SEGM-neuvonantaja12 ja transfobinen nettitrolli Michael Biggsin13 ja ADF:n vessalakien14 jne. tueksi usein todistava15 endokrinologi Michael Laidlaw’n16. Kielto hyväksytään.17
-
-Heinäkuu 2023: Wall Street Journal julkaisee mielipidekirjoituksen "Youth Gender Transition Is Pushed Without Evidence"18, jossa kaksi ensimmäistä nimeä ovat suomalaiset: Kaltial(https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf)
+[^29]:  *“Transgender people of all ages face a critical inflection point in the UK and across the globe today. If politics continue to interfere with transgender healthcare, clinical services and research in this field may not recover. Peoples’ lives will be drastically—andneedlessly—upended. Further, the politicization of healthcare is a concern not just for transgender people, but for all people. Every person deserves the opportunity to make private and deeply personal medical decisions in consultation with healthcare providers whose work is guided by sound evidence, appropriate training, and clinical expertise”* [An Evidence-Based Critique of the Cass Review] (https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf)
 
 [^30]:  *Medical professional societies were not recognizably involved in the preparation of the report. A so-called “Assurance Group” was appointed, but it was explicitly not involved in the development of recommendations for the Cass Review. There are reports that an “Advisory Board” was also established. The composition and specific contribution of this “Advisory Board” are not documented* (Ruuska et al., 2024 \[tämä sama kuin viitteeni [^19], josta Kaltialan neuvonantajuus paljastui\]*; Cass, 2024)”* (Englanninkielisen käännöksen lähde:)[https://www.erininthemorning.com/p/new-german-swiss-and-austria-guidelines] [Saksaksi](https://register.awmf.org/de/leitlinien/detail/028-014)
 
