@@ -123,6 +123,6 @@ PÄIVITYS: "Vasemmisto vie sananvapauden ja trans-villitys mennyt liian pitkäll
 
 [^34]:  En tietenkään aio tässä nimetä henkilöitä, tahoja, jotka ovat niin tehneet, mutta syyksi annettu pelko kunnianloukkaussyytteistä ei tunnu realistiselta, koska huomio on viimeinen asia, mitä vallassa olevat haluavat näille asioille. Ja voisin mennä lisää hänen poliittisiin vaikutusyrityksiin Euroopassa mm. Ranskan parlamentin asiakirjojen perusteella. Jonkinlaisia seurauksia kuitenkin pelätään, vaikka Aamulehti on julkaissut lukuisia artikkeleja Kaltialan johtaman EVA-yksikön ongelmista kautta vuosien. Mikähän juttu tässä on eri?
 
-[^35]:  https://journals.sagepub.com/doi/epub/10.1177/26344041241269298
+[^35]:  [Evolving national guidelines for the treatment of children and adolescents with gender dysphoria: International perspectives](https://journals.sagepub.com/doi/epub/10.1177/26344041241269298), "anti-trans sofistiikan kuka kukin on", kuten joku kuvaili tätä. Julkaistu jossain poikkitieteellisessä keskitason julkaisussa, mutta potilastuvallisuus ei ole asia, joka yhdistettiin Kaltialaan ennen kuin keskittyi trans-asioihin. Valvira laittoi EVA-yksikön erikoisvalvontaan lähes päivittäisestä potilasturvallisuuden vaarantamisesta (Aaamulehti), siellä oli epäonnistunut uuden hoitomallin kokeilukin.
 
-[^36]:  https://www.fokus.se/opinion/elitens-kampanj-for-konsideologin/
+[^36]:  [Eliitin kampanja gender-ideolohǵian puolesta](https://www.fokus.se/opinion/elitens-kampanj-for-konsideologin/)
