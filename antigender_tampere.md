@@ -37,7 +37,7 @@ Suuri saksalais-itävaltalais-sveitsiläinen raportti on yksi lukuisista CR:ää
 
 Yhdysvaltain poliittisen kontekstin ja yhteyksien kohdalla ei tarvitse arvailla, ovatko nuorten transhoistoihin puuttuminen politiikan kautta alkusoittoa naisten ja seksuaalivähemmistöjen oikeuksiin puuttumiseen. Myös se, kuinka Suomessa Kaltiala ei ole yksin ulkomaan yhteistyössään, vaan se näyttää yhdistävän useita henkilöitä, jotka saavat puhua aiheesta uskottavina ihmisinä Suomessa. 
 
-16.05 Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa häntä, puolueetonta tutkijaa[^33]. Juttu antaa käsityksen, ettei tee muuta, kuin tutki ja hoida Tampereella radikaalien trans-aktivistien levittäessä valheita. Kansainvälisenä homo-, bi- ja transfobian vastaisena päivänä jossain TikTokissa-mediassa julkaistaan hänen haastattelu, jossa hän jälleen syyttää kriitikoistaan tieteen politisoinnista.
+**16.05** Kaltiala kertoo Lääkärilehdessä, kuinka aktivistit yrittävät vaientaa häntä, puolueetonta tutkijaa[^33]. Juttu antaa käsityksen, ettei tee muuta, kuin tutki ja hoida Tampereella radikaalien trans-aktivistien levittäessä valheita. Kansainvälisenä homo-, bi- ja transfobian vastaisena päivänä jossain TikTokissa-mediassa julkaistaan hänen haastattelu, jossa hän jälleen syyttää kriitikoistaan tieteen politisoinnista.
 
 Eli asiat jatkuvat samaa rataa: hän saa vääristellä totuutta ilman seurauksia samalla, kun häntä käsitteleviä juttuja hyllytetään seurausten pelossa.[^34]
 
