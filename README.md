@@ -4,9 +4,11 @@
 
 ❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Lisäksi sivun päivittäminen ja siistiminen kiitospalkalla ei ole mahdollisita niin hyvin, kuin haluaisin, toiminnan kiihtyessä sekä Euroopassa että Yhdysvalloisaa<br>
 
+__Kesä 2025__: Olisi paljon päivittämistä, ottaen huomioon, että useat tässä esille tulevat tai päivitettäviin asioihin liittyvät nimet (Jamie Reed, Leor Sapir, Michelle Cretella, Michale Laidlaw) puhui [Heritage Foundationin ja ADF:n vierellä](https://www.ftc.gov/system/files/ftc_gov/pdf/Healthcare-Workshop-Speakers-July-9-2025.pdf) [Trumpin hallinon Project 2025-tapahtumassa](https://www.advocate.com/news/ftc-gender-affirming-care-workshop), ja [Lontoon tapahtuman](#harm) eturivissä oli Maya Forstater, SexMatters -järjestön johtaja, joka sanoi, että on kunnia tuntea Kaltiala. Hänen järjestönsä on ollut keskeinen Britannian kehityksille, jonka takia maa on laskenut sateenkaarioikeuksissa samaa tahtia, kuin Unkari ja Georgia. Mutta sekin tarvitsisi selitystä, koska Suomen lehdistöä ei kiinnosta. Ja antisemitistisistä saliittoteorioista puheenollen, [Kaltiala tarjoaa niitä lausuntossa lähdekirjallisuudessa eduskunnan lakivaliokunnalle](https://www.instagram.com/p/DMUazrksHhL/). Ja muuta sellaista, mm. kaikki muut oudot yhteydet äärioikeistoon. josta pitäisi päivittää.  
+
 __Miksi tämä on tärkeää?__
 
-[”Antigender-liikkeen kerrotaan uhkaavan Suomea maista, joiden todellisuudessa piti hakea asiantuntijoita politiikkansa tueksi Suomesta asti” (pdf)](https://sukupuolidystopia.github.io/antigender_tampere)
+[Yhteistyöstä ehkäisynvstustajan kanssa Suomen nuorten transpolin täysiin pisteisiin Trumpin selvityksessä, kaikelle on lähteet](https://sukupuolidystopia.github.io/antigender_tampere)
 Lyhyt aikajana suhteesta yhteen antigender-vaikuttajaan, jossa lähdeviitteet kaikelle.  
 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
