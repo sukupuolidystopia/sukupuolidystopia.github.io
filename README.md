@@ -2,39 +2,42 @@
 <sub><sup>*Tämän oikeudessa esille tulleen sähköpostin perusteella, TAYSin ylilääkärin ja TUNIn professori Kaltala pyrki tarkoituksella johtamaan suomalaisia harhaan, koska kyseessä oli yhteistyö Ron DeSatisin hallinnon ja jopa ehkäisyä vastustavan äärikonservatiivin Hunteri kanssa.  [Ote tästä](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b78de3-f609-4288-bccd-70cdb7589f81_1006x939.jpeg) joka on osa todistajanlausuntoa [tästä oikeusjutusta.](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1)*   </sup></sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Lisäksi sivun päivittäminen ja siistiminen kiitospalkalla ei ole mahdollisita niin hyvin, kuin haluaisin, toiminnan kiihtyessä sekä Euroopassa että Yhdysvalloisaa<br>
+__Tiedostoja ja linkkejä liittyen instapostauksiin__:
+- [SEGMin synnystä ACPedsin](http://sukupuolidystopia.github.io/images/founding1.jpg) poliittisiin tarpeisiin. [Järjestön viestinnän hienosäätöä](http://sukupuolidystopia.github.io/images/founding1.jpg). [Mother Jonesin artikkeli sähköpostivuodoista](https://www.motherjones.com/politics/2023/03/anti-trans-transgender-health-care-ban-legislation-bill-minors-children-lgbtq/). [Lisätietoa Malonesta](https://transdatalibrary.org/person/william-j-malone/). Hänen statuksen perustajana voi varmistaa järjestön rekisteröintiasiakirjoista. 
+
 
 __Kesä 2025__: Olisi paljon päivittämistä, ottaen huomioon, että useat tässä esille tulevat tai päivitettäviin asioihin liittyvät nimet (Jamie Reed, Leor Sapir, Michelle Cretella, Michale Laidlaw) puhui [Heritage Foundationin ja ADF:n vierellä](https://www.ftc.gov/system/files/ftc_gov/pdf/Healthcare-Workshop-Speakers-July-9-2025.pdf) [Trumpin hallinon Project 2025-tapahtumassa](https://www.advocate.com/news/ftc-gender-affirming-care-workshop), ja [Lontoon tapahtuman](#harm) eturivissä oli Maya Forstater, SexMatters -järjestön johtaja, joka sanoi, että on kunnia tuntea Kaltiala. Hänen järjestönsä on ollut keskeinen Britannian kehityksille, jonka takia maa on laskenut sateenkaarioikeuksissa samaa tahtia, kuin Unkari ja Georgia. Mutta sekin tarvitsisi selitystä, koska Suomen lehdistöä ei kiinnosta. Ja antisemitistisistä saliittoteorioista puheenollen, [Kaltiala tarjoaa niitä lausuntossa lähdekirjallisuudessa eduskunnan lakivaliokunnalle](https://www.instagram.com/p/DMUazrksHhL/). Ja muuta sellaista, mm. kaikki muut oudot yhteydet äärioikeistoon. josta pitäisi päivittää.  
 
-__Miksi tämä on tärkeää?__
+__Aloita vaikka näillä__
 
-[Yhteistyöstä ehkäisynvstustajan kanssa Suomen nuorten transpolin täysiin pisteisiin Trumpin selvityksessä, kaikelle on lähteet](https://sukupuolidystopia.github.io/antigender_tampere)
-Lyhyt aikajana suhteesta yhteen antigender-vaikuttajaan, jossa lähdeviitteet kaikelle.  
+[Lyhyt aikajana suhteesta vain yhteen antigender-vaikuttajaan, jossa lähdeviitteet kaikelle](https://sukupuolidystopia.github.io/antigender_tampere)
 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
+
 
 
 **Sisällysluettelo:**
 
  1. [Suomen todellisuudesta](#item)
- 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 3. [Homopropagana on vain jäävuoren huippu siitä, mitä Bulgariassa tapahtuu](#bulgaria)
- 4. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
- 5. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
- 6. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
- 7. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
- 8. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
- 9. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 10. [Podcast- ja videolähteitä](#audio)
- 11. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
- 12. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 13. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 14. [Eheytyshoidot](#eheys)
- 15. [Kaltiala](#kaltiala)
- 16. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 17. [Tulossa](#tulossa)
- 18. [Sidonnaisuudet](#sidos)
- 19. [Yhteystiedot ja some](#some)
+ 2. [Ns. Gender-kriittisen liikkeen liittouma kristilliskonservatiivie ja äärioikeiston kanssa](#gc)
+ 3. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
+ 4. [Homopropagana on vain jäävuoren huippu siitä, mitä Bulgariassa tapahtuu](#bulgaria)
+ 5. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
+ 6. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
+ 7. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
+ 8. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
+ 9. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
+ 10. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 11. [Podcast- ja videolähteitä](#audio)
+ 12. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
+ 13. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 14. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 15. [Eheytyshoidot](#eheys)
+ 16. [Kaltiala](#kaltiala)
+ 17. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 18. [Tulossa](#tulossa)
+ 19. [Sidonnaisuudet](#sidos)
+ 20. [Yhteystiedot ja some](#some)
   
 
 
@@ -65,10 +68,13 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
 
-##  Ns. Gender-kriittinen, progressiivisenä essintyvä liike, jolla runssaasti yheyksiä kirisittyyn ja ääri oikeikstoon <a id="gc"></a>
-- ["Hajota ja hallitse" strategia, jolla kristitty oikeisto onnistuneesti alkoi hakea poliittisia voittoja ja valtaa hävittyään tasa-arvoisessa avioliitto-oikeudessa, esitetty vuonna 2017](https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/)
+##  Ns. Gender-kriittinen, progressiivisenä essintyvä liike, jolla runsaasti yhteyksiä kristilliskonservatiiveihin ja äärioikeistoon <a id="gc"></a
+Minua ei kiinnosta ihmisten vaientaminen, olen vai sitä mieltä, ettei julkiselle keskustelulle ole hyväksi, kun nykytilassa ihmisten, joilla on dokumetoidusti hyvin äärimmäisiä, absurdejakin näkemyksiä (esim. George Soros ja muut miljardöörit trans-agendan takana), annetaan esiintyä maltin realisteina ja määrittää keskustelun raamit. Mutta suomalaisessa yhteiskunnassa rehellisyyttä arvostetaan, mutta se ei tarkoita paljoa, jos samaan aikaan epärehellisyyden tai tahallisen harhaanjohtamisen esille tuonti on suuri tabu.
+
+- [How the Far-Right is Turning Feminists into Fascists]([https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/](https://xtramagazine.com/power/far-right-feminist-fascist-220810) Jutussa mainituilla Kara Daskylla ja Jennifer Bilekillä on seuraajansa Suomessakin, ja Dansky on kehunut sitä, kuinka heudän resurssejaa levittää Suomessa mm. Helsingin Sanomissa julkaistu tutkija
+- ["Hajota ja hallitse" strategia, jolla kristitty oikeisto onnistuneesti alkoi hakea poliittisia voittoja ja valtaa hävittyään tasa-arvoisessa avioliitto-oikeudessa, esitetty vuonna 2017](https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/) Tämä raportti konferenssista, jossa Trump ja Steve Banno ovat puhuu Hands Across The Aisle Coalitionista strategian työkaluna. Edellämainittu Dansky on keskeinen henkilö HATACin toiminnassa.
 - [Trans-ekslusiivisten radikaalifeministien ja kristityn oikeiston epäpyhä liittouma](https://www.jezebel.com/the-unholy-alliance-of-trans-exclusionary-radical-femin-1834120309)  vuodelta 2019 
-- [Knservatiivit käyttävät gender-kriittisiä "ihmiskilipinä" trans-asioissa,](https://bylinetimes.com/2021/10/25/the-right-is-using-gender-critical-feminists-as-human-shields-over-trans-issue/) vuodelta 2021, täsmäohjus olisi nykyään parempi ilmaisu
+- [Konservatiivit käyttävät gender-kriittisiä "ihmiskilipinä" trans-asioissa,](https://bylinetimes.com/2021/10/25/the-right-is-using-gender-critical-feminists-as-human-shields-over-trans-issue/) vuodelta 2021, täsmäohjus olisi nykyään parempi ilmaisu
 - [Terffit, eco-fasistit ja uskonnolliset fundamentalistit - keskustelu näiden liikkeiden yhteydestä vuodelta 2022](https://healthliberationnow.com/2024/12/19/terfs-eco-fascists-and-christo-nationalists-from-deep-green-resistance-to-wolf-partnering-with-the-global-christian-right/) Artikkelissa mainittu Kara Dansky on sittemmin kehunut erästä Helsingin Sanomissa julkaistua suomalaista, kun on levittänyt heidän resurssejaan Suomessa, mutta se on eri aihe, ja löytyy X:n hakutoiminnolla.
 
 
