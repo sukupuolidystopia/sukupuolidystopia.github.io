@@ -2,19 +2,15 @@
 <sub><sup>*Tämän oikeudessa esille tulleen sähköpostin perusteella, TAYSin ylilääkärin ja TUNIn professori Kaltala pyrki tarkoituksella johtamaan suomalaisia harhaan, koska kyseessä oli yhteistyö Ron DeSatisin hallinnon ja jopa ehkäisyä vastustavan äärikonservatiivin Hunteri kanssa.  [Ote tästä](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b78de3-f609-4288-bccd-70cdb7589f81_1006x939.jpeg) joka on osa todistajanlausuntoa [tästä oikeusjutusta.](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1)*   </sup></sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-__Tiedostoja ja linkkejä liittyen instapostauksiin__:
-- [SEGMin synnystä ACPedsin](http://sukupuolidystopia.github.io/images/founding1.jpg) poliittisiin tarpeisiin. [Järjestön viestinnän hienosäätöä](http://sukupuolidystopia.github.io/images/segm_narrative.jpg). [Mother Jonesin artikkeli sähköpostivuodoista](https://www.motherjones.com/politics/2023/03/anti-trans-transgender-health-care-ban-legislation-bill-minors-children-lgbtq/). [Lisätietoa Malonesta](https://transdatalibrary.org/person/william-j-malone/). Hänen statuksen perustajana voi varmistaa järjestön rekisteröintiasiakirjoista. 
+__Aloita tästä__
 
+Jos on yksi artikkeli, jolle olisi eniten tarvitta suomalaiselle vastineelle yhteiskunnallisen merkittävyyden takia se on norjalaisen [Filter Nyheterin](https://filternyheter.no/leder-for-nasjonalt-transtilbud-stilte-opp-hos-arrangor-utpekt-som-lhbtq-hatgruppe-uproblematisk-mener-ous/) syväluotava raportti "Transkliinikan johtaja puhuu anti-LGBTQ-viharyhmän tapahtumassa - "ei ole onglema" sanoo johto", on erinomainen raportti SEGMistä, mm. asiantuntijamielipiteitä siitä, ettei kyseessä ole tieteellinen toimija, joka on valitettavasta maksumuurin takana. Sain kuitenkin kopion jutusta sen tehneeltä journalistila. [Tässä konekäännös Englanniksi.](https://sukupuolidystopia.github.io/SEGM_article_Norway_EN.pdf), [alkuperäinen juttu norjaksi](https://sukupuolidystopia.github.io/SEGM_article_Norway.pdf)
 
-__Kesä 2025__: Olisi paljon päivittämistä, ottaen huomioon, että useat tässä esille tulevat tai päivitettäviin asioihin liittyvät nimet (Jamie Reed, Leor Sapir, Michelle Cretella, Michale Laidlaw) puhui [Heritage Foundationin ja ADF:n vierellä](https://www.ftc.gov/system/files/ftc_gov/pdf/Healthcare-Workshop-Speakers-July-9-2025.pdf) [Trumpin hallinon Project 2025-tapahtumassa](https://www.advocate.com/news/ftc-gender-affirming-care-workshop), ja [Lontoon tapahtuman](#harm) eturivissä oli Maya Forstater, SexMatters -järjestön johtaja, joka sanoi, että on kunnia tuntea Kaltiala. Hänen järjestönsä on ollut keskeinen Britannian kehityksille, jonka takia maa on laskenut sateenkaarioikeuksissa samaa tahtia, kuin Unkari ja Georgia. Mutta sekin tarvitsisi selitystä, koska Suomen lehdistöä ei kiinnosta. Ja antisemitistisistä saliittoteorioista puheenollen, [Kaltiala tarjoaa niitä lausuntossa lähdekirjallisuudessa eduskunnan lakivaliokunnalle](https://www.instagram.com/p/DMUazrksHhL/). Ja muuta sellaista, mm. kaikki muut oudot yhteydet äärioikeistoon. josta pitäisi päivittää.  
+Asialla olisi paljon kovempi tarve Suomessa, koska meillä valtion viranomaiset ovat mukana toiminnassa moninkertaisesta. 
+[Lyhyt aikajana Kaltialan suhteesta vain yhteen SEGMin antigender-vaikuttajaan, jossa lähdeviitteet kaikelle](https://sukupuolidystopia.github.io/antigender_tampere)
 
-__Aloita vaikka näillä__
-
-[Lyhyt aikajana suhteesta vain yhteen antigender-vaikuttajaan, jossa lähdeviitteet kaikelle](https://sukupuolidystopia.github.io/antigender_tampere)
-
+Mutta Suomessa medianarratiivit ja todellisuus ovat niin irtaantuneet toisestaan, että vaikka tässä jutussa kerrotut kokekumuset vastaavat aiempia juttuja, sekä alla [olevia tutkimuksista](#item), asia on liian marginaalissa, liian riskialtista, vaikka kyseessä on asia, jossa Suomella kansainvälistä vaikutusvaltaa aivan ennennäkemättömällä tasolla. 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
-
-
 
 **Sisällysluettelo:**
 
@@ -39,7 +35,11 @@ __Aloita vaikka näillä__
  19. [Sidonnaisuudet](#sidos)
  20. [Yhteystiedot ja some](#some)
   
+__Tiedostoja ja linkkejä liittyen instapostauksiin__:
+- [SEGMin synnystä ACPedsin](http://sukupuolidystopia.github.io/images/founding1.jpg) poliittisiin tarpeisiin. [Järjestön viestinnän hienosäätöä](http://sukupuolidystopia.github.io/images/segm_narrative.jpg). [Mother Jonesin artikkeli sähköpostivuodoista](https://www.motherjones.com/politics/2023/03/anti-trans-transgender-health-care-ban-legislation-bill-minors-children-lgbtq/). [Lisätietoa Malonesta](https://transdatalibrary.org/person/william-j-malone/). Hänen statuksen perustajana voi varmistaa järjestön rekisteröintiasiakirjoista. 
 
+
+__Kesä 2025__: Olisi paljon päivittämistä, ottaen huomioon, että useat tässä esille tulevat tai päivitettäviin asioihin liittyvät nimet (Jamie Reed, Leor Sapir, Michelle Cretella, Michale Laidlaw) puhui [Heritage Foundationin ja ADF:n vierellä](https://www.ftc.gov/system/files/ftc_gov/pdf/Healthcare-Workshop-Speakers-July-9-2025.pdf) [Trumpin hallinon Project 2025-tapahtumassa](https://www.advocate.com/news/ftc-gender-affirming-care-workshop), ja [Lontoon tapahtuman](#harm) eturivissä oli Maya Forstater, SexMatters -järjestön johtaja, joka sanoi, että on kunnia tuntea Kaltiala. Hänen järjestönsä on ollut keskeinen Britannian kehityksille, jonka takia maa on laskenut sateenkaarioikeuksissa samaa tahtia, kuin Unkari ja Georgia. Mutta sekin tarvitsisi selitystä, koska Suomen lehdistöä ei kiinnosta. Ja antisemitistisistä saliittoteorioista puheenollen, [Kaltiala tarjoaa niitä lausuntossa lähdekirjallisuudessa eduskunnan lakivaliokunnalle](https://www.instagram.com/p/DMUazrksHhL/). Ja muuta sellaista, mm. kaikki muut oudot yhteydet äärioikeistoon. josta pitäisi päivittää.  
 
 
 ##  Suomen todellisuudesta <a id="item"></a>
