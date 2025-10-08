@@ -10,8 +10,6 @@ thumbnail: cover7.jpg
 image: cover7.jpg
 ---
 
-##  Ns. Gender-kriittinen, progressiivisenä essintyvä liike, jolla runsaasti yhteyksiä kristilliskonservatiiveihin ja äärioikeistoon 
-
 - [How the Far-Right is Turning Feminists into Fascists](https://xtramagazine.com/power/far-right-feminist-fascist-220810) Jutussa mainituilla Kara Daskylla ja Jennifer Bilekillä on seuraajansa Suomessakin, ja Dansky on kehunut sitä, kuinka heudän resurssejaa levittää Suomessa mm. Helsingin Sanomissa julkaistu tutkija
 - ["Hajota ja hallitse" strategia, jolla kristitty oikeisto onnistuneesti alkoi hakea poliittisia voittoja ja valtaa hävittyään tasa-arvoisessa avioliitto-oikeudessa, esitetty vuonna 2017](https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/) Tämä raportti konferenssista, jossa Trump ja Steve Banno ovat puhuu Hands Across The Aisle Coalitionista strategian työkaluna. Edellämainittu Dansky on keskeinen henkilö HATACin toiminnassa.
 - [Trans-ekslusiivisten radikaalifeministien ja kristityn oikeiston epäpyhä liittouma](https://www.jezebel.com/the-unholy-alliance-of-trans-exclusionary-radical-femin-1834120309)  vuodelta 2019 

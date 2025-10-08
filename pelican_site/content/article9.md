@@ -1,0 +1,21 @@
+---
+title: Dark money RFK:n anti-vax ryhmälle ja suomalaisasiantuntijoille samoista lähteistä
+date: 2024-06-04
+slug: rfk
+category: Tiede
+tags: [lääketiede, yhdysvallat, segm]
+summary: Kun ylilääkärin kulukorvausten alkuperä on hämärretty samaa reittiä, olisiko vastuullista, onko tässä mitään häärää taustalla?
+cover: cover9.jpg
+thumbnail: cover9.jpg
+image: cover9.jpg
+---
+
+[Rolling Stone](https://www.rollingstone.com/politics/politics-features/rfk-jr-anti-vax-orgs-funding-major-charities-1234857214/) ja [Important Context](https://www.importantcontext.news/p/americas-biggest-charities-bankrolled) -julkaisut paljastivat 15 miljoonan dollarin rahoituksen Fidelity ja Vanguard -rahastoilta menneen koronarokoseen ulostulon aikana rokoteskeptisyyttä levittäneeseen kampanjaan. Nämä järjestöt ottavat vastaan rahoituksia nimettömiltä lahjoittajilta, ja jakavat vuosittain miljardeja dollareita apurahoja. Mukaanlukien Päivi Räsäsen kallit amerikkalaiset juristit maksaneelle, aborttioideikeuden yhdysvaltain korkeimmassa oikeudessa kaataneelle ADF:lle, sekä RFK nuoremman rokoteskeptiselle järjestölle ja lääkärijärjestölle, joka kannusti ihmisiä Ivermectin ja Hydroxycloriquin -huuhaalääkkeiden käyttöön, joka johti ihmisten kuolemaan. Viime vuosina rokotevastaisuus on myös hyvin oikeistolaiseksi muuntunut ilmiö, kun kymmenen vuotta sitten sitä käytettiin esimerkkinä enemmän vasemmistolaisesta tiedevastaisuudesta.
+
+Tämä liittyy Suomeen siten, että SEGM-järjestöön, jonka jäsenten kanssa Riittakerttu Kaltiala ja Laura Takala (o.s. Suomalainen) allekirjoittivat avoimen kirjeen, ja Kaltiala tehnyt laajaa yhteistyötä, on sannut ainakin [satoja tuhansia dollareita samoilta järjestöiltä, jotka myös rahoittaneet ADF:ää](https://www.splcenter.org/captain/defining-pseudoscience-network). [Kaltiala on ilmoittanut ottaneen järjestöltä korvauksia vastaan Lääkärilehdessä](https://x.com/esa_first_name/status/1833555026142224575/photo/1). Patrick Hunter, jonka nimi löytyy tämän sivun yläpäästä, on myös SEGMin jäsen. 
+
+Venäläinen anti-gender disinformaatio nähdään Suomessa ongelmana, ja syystäkin. Mutta alkuperämaalla ei ole paljon väliä käytänön seurauksien suhteen.  Kun Venäjä hyväksyi vuonna 2013 lain joka kielsi "ei-perinteisten seksuaalisten suhteiden propagandisoinnin" alaikäisten keskuudessa (hengellinen edelläkävijä Floridan koulujen Don't Say Gay -laille) Alliance Defending Freedom (laati yhdeksänsivuisen muistion lain tueksi)(https://www.nytimes.com/2017/11/22/us/politics/alliance-defending-freedom-gay-rights.html), väittäen lain tavoitteena olevan alaikäisten "psyykkisen tai fyysisen hyvinvoinnin" turvaaminen.
+
+Ottaen huomioon, kuinka paljon Kaltialan narratiivi tulee esille korkeimmassa oikeudessa, vaikka Tampereen yliopistoa tai edes ei ole Tamperetta mainittu siellä ikinä ennen tai nytkään muussa kontektissa, ja ADF:n tiedetään [soveltaneen pitkäjänteistä strategiaa aborttioikeuden kumoamiseen](https://www.nytimes.com/2024/05/28/magazine/roe-v-wade-christian-network.html), ja olleen mukana SEGM:in luonnissa, niin pitäisikö vähintään kysyä, onko sopivaa, että pienen Suomen valtion virkahenkilö on tekemisissä tämän luokan toimijoiden kanssa, jonka laajempaa kontekstia ei todennäköisesti itsekään ymmärrä? En oleta taustalla olevan joku kaikenkattava salaliitto. Mutta toivoisin, että edes murto-osa resursseista ja huomiosta, joita käytetty Venäjän anti-gender vaikuttamiseen perehtymiseen, tai Päivi Räsäsen sanojen ympärille tehdyn jutun käsittelemiseen, ohjattaisiin katsomaan toimintaa, jolla on vaikutusta lainsäädäntöön, eikä rajoituksen alkuperä tai motiivit ole selvää.
+
+[Tässä](https://healthliberationnow.com/2023/02/07/segm-exposed-reloaded-the-shadow-money-behind-a-leading-anti-trans-think-tank/) sukelletaan todella syvälle SEGMin rahoituskuvioihin tuon ns. starttirahan ulkopuolella, on ja aikajanaa, mutta en itsekään ole voinut perehtyä kunnolla, koska Yhdysvaltain verolainsäädäntö on aika hankala. Mutta ainakain Riittakerttu Kaltialan, Raisa Cacciatoren, Kaisa Kaskilan ja Linda Hartin voi olettaa saaneen korvauksia SEGMiltä
