@@ -15,8 +15,8 @@ PAGE_PATHS = ['pages']
 DISPLAY_PAGES_ON_MENU = True
 
 # Default Pelican behavior
-PAGE_SAVE_AS = 'pages/{slug}.html'
-PAGE_URL = 'pages/{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+PAGE_URL = '{slug}.html'
 
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
