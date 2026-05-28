@@ -1,0 +1,211 @@
+/* ---- Page layout ---- */
+.page-layout {
+  display: flex;
+  flex-direction: row-reverse; /* 👈 sidebar on the right */
+  align-items: flex-start;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
+
+/* ===========================================
+   BASE TYPOGRAPHY & GLOBAL STYLES
+   =========================================== */
+body {
+  margin: 0; /* override browser + theme margins */
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #111;
+  background-color: #fafafa;
+}
+
+h1, h2, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+#banner h1 {
+  font-size: 3.5rem;
+  letter-spacing: 0.03em;
+  text-transform: lowercase;
+}
+
+html, body {
+  height: 100%;
+  min-height: 100vh;
+}
+
+
+/* ---- Sidebar styling ---- */
+.sidebar {
+  flex: 0 0 200px;
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  height: fit-content;
+  border-left: 1px solid #ddd; /* 👈 subtle divider between sidebar and main */
+  position: static; /* 👈 scrolls with the page (not sticky) */
+}
+
+.sidebar h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin: 0.6rem 0;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+/* ---- Main content ---- */
+.main-content {
+  flex: 1;
+  min-width: 0; /* 👈 critical for grid responsiveness */
+  overflow: hidden;
+}
+
+
+/* --- STABILITY PATCH: paste at the very bottom --- */
+
+/* 0) Mobile scaling (you didn’t have this in <head>) */
+@media all {
+  /* add this meta in <head>:
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+  */
+}
+
+/* 1) Kill any legacy floats from the base theme around the grid */
+#featured, #featured * {
+  float: none !important;
+}
+
+/* 2) Make the grid stable: no column animation, no clipping */
+.photo-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) !important;
+  gap: 24px !important;
+  width: 100% !important;
+  overflow: visible !important;
+  transition: none !important;      /* ← stop flicker during resize */
+  justify-items: center;
+  align-items: start;
+}
+
+/* 3) Let items fill their track (remove card max width constraint) */
+.photo-item {
+  width: 100% !important;
+  max-width: none !important;        /* ← was 300px; can cause a stutter */
+}
+
+/* ---- Image styling: grayscale by default, color on hover ---- */
+.photo-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 0.5rem;
+
+  /* Start in grayscale */
+  filter: grayscale(100%);
+  transition: filter 0.6s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* When hovered, fade smoothly to color */
+.photo-image:hover {
+  filter: grayscale(0%);
+  transform: scale(1.04);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+
+/* Keyframes for grayscale fade-in */
+@keyframes fadeToGray {
+  0% {
+    opacity: 0;
+    filter: grayscale(0%);
+    transform: scale(1.05);
+  }
+  60% {
+    opacity: 1;
+    filter: grayscale(0%);
+  }
+  100% {
+    opacity: 1;
+    filter: grayscale(100%);
+    transform: scale(1.0);
+  }
+}-
+
+/* 5) Caption always wraps to the card width */
+.photo-caption,
+.caption {
+  max-width: 100% !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  white-space: normal !important;
+  text-align: center;
+  margin-top: .5rem;
+}
+
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease,
+              filter 0.3s ease;
+}
+
+
+
+
+
+/* 5) Caption always wraps to the card width */
+.photo-caption,
+.caption {
+  max-width: 100% !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  white-space: normal !important;
+  text-align: center;
+  margin-top: .5rem;
+}
+
+/* 6) Temporarily disable card fade-in while we verify layout */
+/*.photo-item {
+/*i
+
+/* 7) Responsive nudges (optional) */
+@media (max-width: 1200px) {
+  .photo-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)) !important; }
+}
+@media (max-width: 800px) {
+  .photo-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)) !important; }
+}
+@media (max-width: 500px) {
+  .photo-grid { grid-template-columns: 1fr !important; }
+}
+
+/* Optional grayscale for hover (in case JS fails) */
+.bw {
+    filter: grayscale(100%);
+}
+.bw:hover {
+    filter: grayscale(0%);
+}

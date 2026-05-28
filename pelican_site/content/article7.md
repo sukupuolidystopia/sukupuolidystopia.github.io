@@ -4,7 +4,7 @@ date: 2025-10-04
 slug: gcc
 category: resurssikokoelmia
 tags: [grid, gender-kriittisyys, äärioikeisto, kristilliskonservatiivisuus, yhdysvallat, iso-britannia]
-summary: Monen oletuksia vastaan menevä, hyvin vaikutusvaltainen yhteistyö on nähnyt ADF:n tukemassa nimellisesti naisasiaa Euroopassakin
+summary: Monen oletuksia vastaan menevä, hyvin vaikutusvaltainen yhteistyö on nähnyt ADF:n tukemassa nimellisesti naisasiaa Euroopassakin. Suomessa asiaa ei ole tutkituu. Aihetta olisi.
 cover: cover7.jpg
 thumbnail: cover7.jpg
 image: cover7.jpg

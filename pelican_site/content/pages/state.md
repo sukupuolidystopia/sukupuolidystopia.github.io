@@ -1,13 +1,22 @@
 ---
-Title: Suomi mainittu enemmistössä 50 osavaltiota
+Title: Osavaltiotasolla eheytyshoidon puolustuksesta vessalakeihin
 Slug: state
 Save_as: state.html
 Template: page
 ---
 
-## Suomen hoitosuositukset perusteena anti-gender politiikalla Yhdysvalloissa osavaltioittain
+## Suomen hoitosuositukset, suomalaistutkimukset ja Kaltialan narratiivi perusteena anti-gender politiikalla Yhdysvalloissa osavaltioittain
 
-Lista ei ole kattava, ja uusia juttuja tulee vain lisää. Ensimmäinen linkki on lakiasiakirjaan, jos on saatavilla, laitan loppuun juttua selittävän linkin. On huomattavaa, että monen asiantuntijatodistajat kuuluvat tähän pieneen joukkoon, joiden usean kanssa Kaltiala on tehnyt yhteistyötä. Tarkoitus on lisätä selityksiä, onko kyseessä eheytyshoidon vastustus, syrjintäkiellon vastustus, transhoitojen kielto/kriminalisointi, vessa, tai urheilulaki. Kaikkia löytyy, vain CTRL+F "Finland". Korkeimpaan oikeuteen asti edenneet tapaukset ovat eri sivulla, lista ei myöskään ole kattava, mutta mukana on tietoa tapauksista.
+Olennaisempaa, kuin SPLC:n analyysissä huomioitu suomalaistutkimusten käyttö ohimenevänä lähdeviitteenä on se, kuinka /
+usein Suomi on keskeisenä osana narratiivin luontia: jopa edistyksellinen Suomi sanoo trans-menon menevän liian pitkälle, /
+että on "liiallinen määrä sukupuoliahdistuneita nuoria tyttöjä, joilla om autismia ja vakavia mielenterveyden ongelmia". /
+Kukaan Suomessa ei ole ottanut kantaa siihen, että transsukupuolisuuden patologisointia käytetään  puolustellessa jopa /
+oikeutta irtisanoa sukupuoli-identiteetin perusteella. Minulla on työn alla lista tapauksista, joissa tutkijat /
+kommentoivat tieteen vääristelyä, ja toisaalta ainoa kerta, jolloin Kaltiala on nähnyt tarvetta tehdä niin. Hän halusi /
+selventää Wired-julkaisulle, ettei hormonihoito ollut vähentänyt tilastollisesti merkittävästo itsemurhariskiä, / 
+vaan kyseessä oli ollut vain viiltelyä. 
+
+Lista ei ole kattava, ja uusia juttuja tulee vain lisää, ja vanhoja pitää arkitoida. Ensimmäinen linkki on lakiasiakirjaan, jos on saatavilla, laitan loppuun juttua selittävän linkin. On huomattavaa, että monen asiantuntijatodistajat kuuluvat tähän pieneen joukkoon, joiden usean kanssa Kaltiala on tehnyt yhteistyötä. Tarkoitus on lisätä selityksiä, onko kyseessä eheytyshoidon vastustus, syrjintäkiellon vastustus, transhoitojen kielto/kriminalisointi, vessa, tai urheilulaki. Kaikkia löytyy, vain CTRL+F "Finland". Korkeimpaan oikeuteen asti edenneet tapaukset ovat eri sivulla, lista ei myöskään ole kattava, mutta mukana on tietoa tapauksista.
 
 ### Circuit court-tasolla, joka on osalvaltioiden ja korkeimman oikeuden välinen oikeustaso, useampi osalvaltio kuuluu yhteen circuitiin:
 
@@ -40,7 +49,7 @@ helped Pioneer It -polemiikki. Laki on voimassa, mutta [American Civil Liberties
 
 ### Oikeistolaisten järjestöjen yleisiä julkilausumia:
 
-- [States May Protect Minors By Banning "Gender Affirming Care".](https://www.heritage.org/gender/report/states-may-protect-minors-banning-gender-affirming-care) Konservatiivisen ajatushautomon mukaan samalla tavalla, kuin 
+- [States May Protect Minors By Banning "Gender Affirming Care".](https://www.heritage.org/gender/report/states-may-protect-minors-banning-gender-affirming-care) Heritage Foundationin mukaan samalla tavalla, kuin 
 osavaltioilla on vapaus suojella syntymättömiä lapsia Roe v Waden 
 kaatumisen jälkeen, niillä on oikeus suojella lapsia lääketieteellisillä
  transhoidoilta. Viitataan Kaltialan tutkimukseen, ja mainitaan Suomen 

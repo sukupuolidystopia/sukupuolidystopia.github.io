@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sukupuolidystopia - Test</title><link href="/" rel="alternate"/><link href="feeds/test.atom.xml" rel="self"/><id>/</id><updated>2025-10-04T00:00:00+00:00</updated><entry><title>MUUTETTU</title><link href="article2.html" rel="alternate"/><published>2025-10-04T00:00:00+00:00</published><updated>2025-10-04T00:00:00+00:00</updated><author><name>Esa</name></author><id>tag:None,2025-10-04:article2.html</id><summary type="html">&lt;p&gt;Suomalainen translääketiede on valinnu ainoastaan Hiljattain Tämä paljastaa sekä kuinka laaja yhteskunnallinen konteksti ja rahalliset intssit ovat asoita, joita ei vpi olettaa tuntea&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Mitä, Miksi, Kuka?&lt;/h2&gt;
+&lt;p&gt;Koska ei oikein löydy esimerkkejä Su&lt;/p&gt;</content><category term="Test"/><category term="[grid]"/></entry><entry><title>Uutta tietoa Trumpisteista EU:n vallan ytimessä, suomalaisavustuksella</title><link href="article-1.html" rel="alternate"/><published>2025-10-03T00:00:00+00:00</published><updated>2025-10-03T00:00:00+00:00</updated><author><name>Esa</name></author><id>tag:None,2025-10-03:article-1.html</id><summary type="html">&lt;p&gt;äääää is the first article summary.&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;p&gt;Content of &lt;strong&gt;First Article&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1&gt;install/update deps&lt;/h1&gt;
+&lt;p&gt;python -m pip install pelican markdown ghp-import&lt;/p&gt;
+&lt;h1&gt;build locally&lt;/h1&gt;
+&lt;p&gt;pelican content -o output -s pelicanconf.py&lt;/p&gt;
+&lt;h1&gt;preview locally&lt;/h1&gt;
+&lt;p&gt;pelican --listen&lt;/p&gt;
+&lt;h1&gt;then open http://localhost:8000&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://lh7-us.googleusercontent.com/SrZHRNdiJR46aRBOccm4lDXQ4NK1xDePjLwDgKNQrSZTd5Nrc8dYuhqVmf8cL6noomk8iEX0gamxkoYn7D_OcMIDHvpbftbmfsxbOlGYM0qC04AivslAinDsyWaL6J44FE3Vkrn_8ChOxThOfOmcKjQ" width="500"&gt;&lt;/p&gt;</content><category term="Test"/><category term="[grid]"/></entry><entry><title>viides Article</title><link href="article-5.html" rel="alternate"/><published>2025-10-03T00:00:00+00:00</published><updated>2025-10-03T00:00:00+00:00</updated><author><name>Esa</name></author><id>tag:None,2025-10-03:article-5.html</id><summary type="html">&lt;p&gt;This is tring to test how does it heal with longer linnes, probably something I need to figure out&lt;/p&gt;</summary><content type="html">&lt;hr&gt;
+&lt;p&gt;viidesps://lh7-us.googleusercontent.com/SrZHRNdiJR46aRBOccm4lDXQ4NK1xDePjLwDgKNQrSZTd5Nrc8dYuhqVmf8cL6noomk8iEX0gamxkoYn7D_OcMIDHvpbftbmfsxbOlGYM0qC04AivslAinDsyWaL6J44FE3Vkrn_8ChOxThOfOmcKjQ" width="500"/&lt;/p&gt;</content><category term="Test"/><category term="[grid]"/></entry></feed>

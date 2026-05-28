@@ -1,5 +1,5 @@
 ---
-title: Käypä Hoito suositukset eivät noudata näyttöön perustuvaa tiedettä
+title: Käypä Hoito suosituksista poistettiin laadukkain lähde takiani
 date: 2024-10-04
 slug: duo
 category: Tiede
