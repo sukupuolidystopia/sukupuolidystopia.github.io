@@ -1,42 +1,44 @@
-<img src="https://sukupuolidystopia.github.io/images/Kaltiala_hunter.jpg" width="350"/><br>
-<sub><sup>*Tämän oikeudessa esille tulleen sähköpostin perusteella, TAYSin ylilääkärin ja TUNIn professori Kaltala pyrki tarkoituksella johtamaan suomalaisia harhaan, koska kyseessä oli yhteistyö Ron DeSatisin hallinnon ja jopa ehkäisyä vastustavan äärikonservatiivin Hunteri kanssa.  [Ote tästä](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9b78de3-f609-4288-bccd-70cdb7589f81_1006x939.jpeg) joka on osa todistajanlausuntoa [tästä oikeusjutusta.](https://glad-org-wpom.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/03/doe-v-ladapo-plaintiffs-trial-brief.pdf?cshp_omh_redirect_404=1)*   </sup></sub><br>
+<sub> <i> "As the evidence illustrates, the complainant was ignorant of the normal mechanism of scientific debate and the role of criticism in such debate, suggesting that recent Finnish psychiatric training may still be insufficiently based upon science." </i> <br>Ross M. W. (2009). The last book-burning trial of the twentieth century: the Stålstrom dissertation and the challenge of homophobic authority. Journal of homosexuality, 56(5), 623–638. https://doi.org/10.1080/00918360903005295</sub><br>
 ## Koottua tietoa siitä, kuinka Suomesta on annettu tehdä mallimaa kainsainväliselle anti-gender liikkeelle transihmisten terveydenhuollon suhteen
 
-❗Sisältää linkkejä hyvin transfobisille sivuille, joissa myös esim. antisemitististen salaliittoteorioiden kuvituksia. Tarkoitus on saada huomioita tälle hälyttävälle ilmiölle, ja vihasisältö kuuluu kokonaiskuvaan. Lisäksi sivun päivittäminen ja siistiminen kiitospalkalla ei ole mahdollisita niin hyvin, kuin haluaisin, toiminnan kiihtyessä sekä Euroopassa että Yhdysvalloisaa<br>
+__Aloita tästä__
 
-__Kesä 2025__: Olisi paljon päivittämistä, ottaen huomioon, että useat tässä esille tulevat tai päivitettäviin asioihin liittyvät nimet (Jamie Reed, Leor Sapir, Michelle Cretella, Michale Laidlaw) puhui [Heritage Foundationin ja ADF:n vierellä](https://www.ftc.gov/system/files/ftc_gov/pdf/Healthcare-Workshop-Speakers-July-9-2025.pdf) [Trumpin hallinon Project 2025-tapahtumassa](https://www.advocate.com/news/ftc-gender-affirming-care-workshop), ja [Lontoon tapahtuman](#harm) eturivissä oli Maya Forstater, SexMatters -järjestön johtaja, joka sanoi, että on kunnia tuntea Kaltiala. Hänen järjestönsä on ollut keskeinen Britannian kehityksille, jonka takia maa on laskenut sateenkaarioikeuksissa samaa tahtia, kuin Unkari ja Georgia. Mutta sekin tarvitsisi selitystä, koska Suomen lehdistöä ei kiinnosta. Ja antisemitistisistä saliittoteorioista puheenollen, [Kaltiala tarjoaa niitä lausuntossa lähdekirjallisuudessa eduskunnan lakivaliokunnalle](https://www.instagram.com/p/DMUazrksHhL/). Ja muuta sellaista, mm. kaikki muut oudot yhteydet äärioikeistoon. josta pitäisi päivittää.  
+Jos on yksi artikkeli, jolle olisi eniten tarvitta suomalaiselle vastineelle yhteiskunnallisen merkittävyyden takia se on norjalaisen [Filter Nyheterin](https://filternyheter.no/leder-for-nasjonalt-transtilbud-stilte-opp-hos-arrangor-utpekt-som-lhbtq-hatgruppe-uproblematisk-mener-ous/) syväluotava raportti "Transkliinikan johtaja puhuu anti-LGBTQ-viharyhmän tapahtumassa - "ei ole onglema" sanoo johto", on erinomainen raportti SEGMistä, mm. asiantuntijamielipiteitä siitä, ettei kyseessä ole tieteellinen toimija, joka on valitettavasta maksumuurin takana. Sain kuitenkin kopion jutusta sen tehneeltä journalistila. [Tässä konekäännös Englanniksi.](https://sukupuolidystopia.github.io/SEGM_article_Norway_EN.pdf), [alkuperäinen juttu norjaksi](https://sukupuolidystopia.github.io/SEGM_article_Norway.pdf)
 
-__Miksi tämä on tärkeää?__
+Asialla olisi paljon kovempi tarve Suomessa, koska meillä valtion viranomaiset ovat mukana toiminnassa moninkertaisesta. 
+[Lyhyt aikajana Kaltialan suhteesta vain yhteen SEGMin antigender-vaikuttajaan, jossa lähdeviitteet kaikelle](https://sukupuolidystopia.github.io/antigender_tampere)
 
-[Yhteistyöstä ehkäisynvstustajan kanssa Suomen nuorten transpolin täysiin pisteisiin Trumpin selvityksessä, kaikelle on lähteet](https://sukupuolidystopia.github.io/antigender_tampere)
-Lyhyt aikajana suhteesta yhteen antigender-vaikuttajaan, jossa lähdeviitteet kaikelle.  
-
+Mutta Suomessa medianarratiivit ja todellisuus ovat niin irtaantuneet toisestaan, että vaikka tässä jutussa kerrotut kokekumuset vastaavat aiempia juttuja, sekä alla [olevia tutkimuksista](#item), asia on liian marginaalissa, liian riskialtista, vaikka kyseessä on asia, jossa Suomella kansainvälistä vaikutusvaltaa aivan ennennäkemättömällä tasolla. 
 ["Don't Forget Your Homework"](https://www.assignedmedia.org/breaking-news/transgender-youth-speak-about-finland-transpoli) Evan Urquhartin ja minun tekemä juttu suomalaisista alaikäisten transpoleista.
-
 
 **Sisällysluettelo:**
 
  1. [Suomen todellisuudesta](#item)
- 2. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
- 3. [Homopropagana on vain jäävuoren huippu siitä, mitä Bulgariassa tapahtuu](#bulgaria)
- 4. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
- 5. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
- 6. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
- 7. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
- 8. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
- 9. [Tuoreinta tietoa ulkomailta](#ajantasalla)
- 10. [Podcast- ja videolähteitä](#audio)
- 11. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
- 12. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
- 13. ["Kansainväliset asiantuntijatehtävät"](#asia)
- 14. [Eheytyshoidot](#eheys)
- 15. [Kaltiala](#kaltiala)
- 16. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
- 17. [Tulossa](#tulossa)
- 18. [Sidonnaisuudet](#sidos)
- 19. [Yhteystiedot ja some](#some)
+ 2. [Ns. Gender-kriittisen liikkeen liittouma kristilliskonservatiivie ja äärioikeiston kanssa](#gc)
+ 3. [Amerikkalais-brittiläinen anti-gender liike, ja sen yhteys Suomeen](#usa)
+ 4. [Homopropagana on vain jäävuoren huippu siitä, mitä Bulgariassa tapahtuu](#bulgaria)
+ 5. [Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjant kanssa](#rokote)
+ 6. [Duodecimin Käypä Hoito -suositukset hylkäävät Lancetin lähteenä, mutta jättävät sitä väärintulkisevan väitteen](#duo)
+ 7. ["Mutta lääketiede on tiedettä, ei politiikkaa!"](#tiede)
+ 8. [TAYS ja TUNI edustettuna anti-trans tapahtumassa Aasiassa](#bhutan)
+ 9. [Kaltiala pääpuhujana Do No Harm -konferenssissa Briteissä](#harm)
+ 10. [Tuoreinta tietoa ulkomailta](#ajantasalla)
+ 11. [Podcast- ja videolähteitä](#audio)
+ 12. [Suomi anti-trans lähteenä USAn politiikassa korkeimpaan oikeuteen asti](#scotus)
+ 13. [Kaltiala/Suomi kansainvälisessä oikeistomediassa/digitaalisessa vaikuttamisessa](#media)
+ 14. ["Kansainväliset asiantuntijatehtävät"](#asia)
+ 15. [Eheytyshoidot](#eheys)
+ 16. [Kaltiala](#kaltiala)
+ 17. [Mikä sukupuolidystopia, onhan asiat paljon huonommin muualla?](#miksi)
+ 18. [Tulossa](#tulossa)
+ 19. [Sidonnaisuudet](#sidos)
+ 20. [Yhteystiedot ja some](#some)
   
+__Tiedostoja ja linkkejä liittyen instapostauksiin__:
+- [SEGMin synnystä ACPedsin](http://sukupuolidystopia.github.io/images/founding1.jpg) poliittisiin tarpeisiin. [Järjestön viestinnän hienosäätöä](http://sukupuolidystopia.github.io/images/segm_narrative.jpg). [Mother Jonesin artikkeli sähköpostivuodoista](https://www.motherjones.com/politics/2023/03/anti-trans-transgender-health-care-ban-legislation-bill-minors-children-lgbtq/). [Lisätietoa Malonesta](https://transdatalibrary.org/person/william-j-malone/). Hänen statuksen perustajana voi varmistaa järjestön rekisteröintiasiakirjoista. 
 
+
+__Kesä 2025__: Olisi paljon päivittämistä, ottaen huomioon, että useat tässä esille tulevat tai päivitettäviin asioihin liittyvät nimet (Jamie Reed, Leor Sapir, Michelle Cretella, Michale Laidlaw) puhui [Heritage Foundationin ja ADF:n vierellä](https://www.ftc.gov/system/files/ftc_gov/pdf/Healthcare-Workshop-Speakers-July-9-2025.pdf) [Trumpin hallinon Project 2025-tapahtumassa](https://www.advocate.com/news/ftc-gender-affirming-care-workshop), ja [Lontoon tapahtuman](#harm) eturivissä oli Maya Forstater, SexMatters -järjestön johtaja, joka sanoi, että on kunnia tuntea Kaltiala. Hänen järjestönsä on ollut keskeinen Britannian kehityksille, jonka takia maa on laskenut sateenkaarioikeuksissa samaa tahtia, kuin Unkari ja Georgia. Mutta sekin tarvitsisi selitystä, koska Suomen lehdistöä ei kiinnosta. Ja antisemitistisistä saliittoteorioista puheenollen, [Kaltiala tarjoaa niitä lausuntossa lähdekirjallisuudessa eduskunnan lakivaliokunnalle](https://www.instagram.com/p/DMUazrksHhL/). Ja muuta sellaista, mm. kaikki muut oudot yhteydet äärioikeistoon. josta pitäisi päivittää.  
 
 
 ##  Suomen todellisuudesta <a id="item"></a>
@@ -65,11 +67,19 @@ terveydenhuollossa asioinnista](https://trepo.tuni.fi/bitstream/handle/10024/132
 - [Sukupuolenkorjaushoitoihin pääsyn esteet ja hidasteet sekä niiden seuraukset
 hoitoihin hakeutuneiden kokemana](https://lauda.ulapland.fi/bitstream/handle/10024/65348/Kuuluvainen_Hanna.pdf?sequence=1&isAllowed=y)
 
-##  Ns. Gender-kriittinen, progressiivisenä essintyvä liike, jolla runssaasti yheyksiä kirisittyyn ja ääri oikeikstoon <a id="gc"></a>
-- ["Hajota ja hallitse" strategia, jolla kristitty oikeisto onnistuneesti alkoi hakea poliittisia voittoja ja valtaa hävittyään tasa-arvoisessa avioliitto-oikeudessa, esitetty vuonna 2017](https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/)
+##  Ns. Gender-kriittinen, progressiivisenä essintyvä liike, jolla runsaasti yhteyksiä kristilliskonservatiiveihin ja äärioikeistoon <a id="gc"></a
+
+Ilmiön tutkimisessa on Suomessa vakava aukko, vaikka kyseessä on osa antigender-liikettä, joka on erityisen vaikutusvaltainen Iso-Britanniassa, jolla kehtaisin sanoa enemmän vaikutusta Suomen politiikkaan, kuin Puolalla- Itse sanoisin, että jos ei tiedä, mitä 💚🤍💜 tarkoittaa, ei kuuluisi olla mitään asiaa puhua antigender-liikkeestä Suomessa minkäänlaisena asiantuntijana. Vai oliko viime paikallisvaalien kysymyksissä lisääntymisoikeuksiin tai seksuaalivähemmistöihin liittyviä kysymiä? Vai oliko vain kysymyksiä sukupuolen moninaisuudesta? 
+
+- [How the Far-Right is Turning Feminists into Fascists](https://xtramagazine.com/power/far-right-feminist-fascist-220810) Jutussa mainituilla Kara Daskylla ja Jennifer Bilekillä on seuraajansa Suomessakin, ja Dansky on kehunut sitä, kuinka heidän resurssejaa levittää Suomessa mm. Helsingin Sanomissa julkaistu tutkija
+- ["Hajota ja hallitse" strategia, jolla kristitty oikeisto onnistuneesti alkoi hakea poliittisia voittoja ja valtaa hävittyään tasa-arvoisessa avioliitto-oikeudessa, esitetty vuonna 2017](https://www.splcenter.org/resources/hatewatch/christian-right-tips-fight-transgender-rights-separate-t-lgb/) Tämä raportti konferenssista, jossa Trump ja Steve Banno ovat puhuu Hands Across The Aisle Coalitionista strategian työkaluna. Edellämainittu Dansky on keskeinen henkilö HATACin toiminnassa.
 - [Trans-ekslusiivisten radikaalifeministien ja kristityn oikeiston epäpyhä liittouma](https://www.jezebel.com/the-unholy-alliance-of-trans-exclusionary-radical-femin-1834120309)  vuodelta 2019 
-- [Knservatiivit käyttävät gender-kriittisiä "ihmiskilipinä" trans-asioissa,](https://bylinetimes.com/2021/10/25/the-right-is-using-gender-critical-feminists-as-human-shields-over-trans-issue/) vuodelta 2021, täsmäohjus olisi nykyään parempi ilmaisu
-- [Terffit, eco-fasistit ja uskonnolliset fundamentalistit - keskustelu näiden liikkeiden yhteydestä vuodelta 2022](https://healthliberationnow.com/2024/12/19/terfs-eco-fascists-and-christo-nationalists-from-deep-green-resistance-to-wolf-partnering-with-the-global-christian-right/) Artikkelissa mainittu Kara Dansky on sittemmin kehunut erästä Helsingin Sanomissa julkaistua suomalaista, kun on levittänyt heidän resurssejaan Suomessa, mutta se on eri aihe, ja löytyy X:n hakutoiminnolla.
+- [Konservatiivit käyttävät gender-kriittisiä "ihmiskilipinä" trans-asioissa,](https://bylinetimes.com/2021/10/25/the-right-is-using-gender-critical-feminists-as-human-shields-over-trans-issue/) vuodelta 2021, täsmäohjus olisi nykyään parempi ilmaisu
+- [Terffit, eco-fasistit ja uskonnolliset fundamentalistit - keskustelu näiden liikkeiden yhteydestä vuodelta 2022](https://healthliberationnow.com/2024/12/19/terfs-eco-fascists-and-christo-nationalists-from-deep-green-resistance-to-wolf-partnering-with-the-global-christian-right/) Dansky esiintyy tässäkin artikkelissa. Suomalainen, jota hän kehui, oli hyvin imareltu, koska kyseessä oli henkilö, jota ihailee.  
+
+Kahden entisen detrans-aktivistin tarinat, jotka tarjoavat poikkeuksellisen perspektiivin liikkeen sisälle, joka on liike ja ideologia, toisin kuin sukupuolivähemmistöt. jotka ovat vain ihmisiä, jotka sattuvat kuuluvan sukupuolivähemmistöihin:
+- [The Making of a Detransitioner](xtramagazine.com/power/detransition-terf-movement-elisa-shupe-247592) Mm. (tiede)[#tiede]- osiosta löytyvä Lisa Marchiano seikkailee tässä. Marchiano kiistää tapahtumat, mutta jutun ulkopuolelle jäineissä Shupen vuotamissa sähköposteissa Marchiano myös pyytää keräämään kostopornoa kriitikoistaan, ja sanoo lähettämään ne vaikka Fox Newsille, sekä ylpeilee esiintymisestääb Venäjän valtionomisteisen median anti-trans artikkelissa. Tällaisten taktiikoiden takia näitä pelätään tutkia. 
+- [Detransition as conversion therapy](sukupuolidystopia.github.io/uploads/detrans_conversion.pdf) transmaskuulinen, entinen detransitioija kertoo kokemuksistaan trans-eksklusiivisten radikaalifeministisien detrans-ryhmässä. Jälleen, retoriikkaa on lähes identiteettistä osien Palkon valmistelumuistion kanssa. Kyseinen henkilö palasi transihmisenä elämiseen, ja hän korostaa, ettei GK-liike halua detransitioiden parasta vaikka, koska heistä on eniten hyötyä anti-trans agendalle, mitä huonommin he voivat. 
 
 
 ## Yhteiset rahoittajat miljoonien dollareiden rokotevastaisen vaikutuskampanjan kanssa<a id="rokote"></a>
@@ -143,10 +153,15 @@ Koska halusin varmistaa, ettei oma confirmation bias vääristänyt ymmärrystä
 Tavalla tai toisella [sivua päivitettiin](https://web.archive.org/web/20240000000000*/https://www.kaypahoito.fi/nix03202) pian sen jälkeen. Muutettiinko suosituksia vastaamaan komission oikeaa kantaa? __Ei, [lähde vain poistettiin](https://www.kaypahoito.fi/nix03202), mutta autistien itsetuntemuskyä perusteetta kyseenalaistava väite jätettiin sivulle.__ Tai ehkä he vain poistivat nolon virheen, ja kun luet tätä, suositukset on uusittu. 
 
 ## "Mutta lääketiede on tiedettä, ei politiikkaa!"<a id="tiede"></a>
-*Osio vaatii kipeästi päivitystä, mutta yksin en ehdi pitää kaikkea ajan tassa - tai edes oikolukea, mutta on tullut esille sellaisen pienen tahon kuin Yale School of Medicinen mukaan väärin tulkittu tutkimus, jne.
+*Osio vaatii kipeästi päivitystä, kehottaisin vain katsomaan linkit.
 (Puhun tässä Kaltialasta, vaikka hän on vain yksi tutkimuksiin liitetysitä nimistä, mutta hän on niissä yhdistävä tekijä. Asiaa ei pitäisi henkilöidä häneen liikaa, mutta hän itse tekee sitä niin paljon ulkomaisessa mediassa, kun taas muut tutkijat antavat haastatteluja harvoin, tai ei koskaan, joten on helpompaa puhua niin).*
 
-George Orwellin 1984 on loppuunsa lainattu, mutta ei voi olla ajattelmatta sanoja *"War is peace. Freedom is slavery. Ignorance is strength.”* kun lähtökohtana on oletus, että näiden asioiden esille tuonti on tieteen politisoimista. Hyvinkin neutraalit tahot ovat esittäneet [vakavaa kritiikkiä](https://gidmk.substack.com/p/does-gender-affirming-care-reduce) Kaltialan ja kollegoiden tekemää tutkimusta ja ideologisia siteitä kohtaan. Olen ollut tuon kirjoittaneen Gideon M-K:n kanssa yhteydessä, eikä hänellä ollut hyvää sanottavaa muistakaan tutkimuksista, joita näytin hänelle varmistaakseni, että omat ennakkoluuloni eivät vääristäneet tulkintaani. 
+*On vaikeaa saada ihmistä ymmärtämään jotain, jos hänen toimeentulonsa vaatii, ettei hän ymmärrä sitä*
+ - Upton Sinclair
+
+(Sveitsiläisen juuston riskinhallintamallia mukaillen)[https://en.wikipedia.org/wiki/Swiss_cheese_model] usean asian on pitänyt pettää päästäksemme nykyiseen tilanteeseen. Ja koska ei ole mitään lento-onnettomuuden kaltaista tapahtumaa, jonka kohdalla ei voisi kieltää, että asiat ovat menneet pieleen, jokaisessa juustonviipaleessa ollaan edelleen sitä mieltä, että ei tästä mitään vakavaa läpi pääsisi, ja asiaa perustellaan uskonnollisen apologetiikan keinoin: lähtien liikkeelle johtopäätöksestä ja vedoten auktoriteettiin. 
+
+Neutraalit tahot ovat esittäneet [vakavaa kritiikkiä](https://gidmk.substack.com/p/does-gender-affirming-care-reduce) Kaltialan ja kollegoiden tekemää tutkimusta ja ideologisia siteitä kohtaan. 
 
 [Yale Medical Schoolin](https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf) professorit analysoivat tieteellisen näytön analyysia, jota käytettiin Cass Review'n yhteydessä, ja jonka perusteella transhoitokiellon yhteydessä, jolloin Kaltiala jo kutsui näyttöä alaikäisten transhoidoille kehnoksi, ja huomioivat GRADE-standardin käytön sen ohjeiden vastaisesti, ja jos samaa standardia sovellettaisiin kaikkeen lääketieteeseen, mammografiat, statiinit, sekä moni muu yleinen lääke ja leikkaus olisivat myös kiellettävissä. Mutta näyttää pahasti siltä, että Suomessa tässä tieteessä luotetaan muutaman ihmisen sanaan. Toinen sanonta, jota tulee usein ajatelleeksi tässä kontekstissa on Hanlanin partaterä  *Never attribute to malice that which is adequately explained by stupidity*, jota en pysty soveltamaan tässä. Henkilökohtaisesti on pakko ajatella suomalaisten lääkäreiden keskuudessa olevan merkittävä määrä transfobiaa, koska en halua uskoa, että aivokirurgini päivittäisi osaamistaan lukemalla julkaisuja, jotka hyväksyvät myös uskomustieteen käsitteitä sivuilleen (esimerkki tästä translääketieteessä alempana). Myös varmasti monta mietityttävä Cass Review [sai heiltä näyttöön perustuvan kritiikin](https://law.yale.edu/sites/default/files/documents/integrity-project_cass-response.pdf).
 
@@ -249,19 +264,20 @@ Sanotaan, että valtion virkahenkilöllä on vapaus tehdä vapaa-aikanaan, mitä
 [Translash Media](https://translash.org/) Intersektionaalista perspektiiviä korostava, amerikkalaisesta vastaiskusta transoikeuksien edistykseen kertova media. Ja tämä vastaisku ei ole jotain, jonka vaikutukset eivät jo näkyisi Suomessa. Podcasteja, videoita, ja myös iloa. 
 
 ## Podcast- ja videolähteitä <a id="audio"></a>
+_Kannattaa katsoa sisältövaroitukset jokaisen kohdalla_
 
- Podcastit
+ Podcastit:
+- [Science in Transition: The Birth of The Clinic](https://soundcloud.com/qanonanonymous/science-in-transition-episode-1-birth-of-the-clinic-from-cursed-media) on ensimmäinen osa kuusijaksoista sarjaa, jossa mainitaan heti Suomessa vieraillut ja Kaltialan kanssa julkaissut Kenneth Zucker. [Vuosittainen maksumalli ei ole ihanteellinen vain tästä minisarjasta kiinnostuneille](https://www.cursedmedia.net/), mutta Trickle Down ja Manclan ovat myös hyvin tutkittuja ja ajankohtaisia sarjoja liittyen tieteenhistoriaan sekä moderneihin sukupuolettuineihin Internet-alakulttuureihin. Lisäksi jakso on jo itsessään kuulemisen arvoinen, Julia Serano oli faktantarkastajana.-
 - [Maintenance Phasen jakso Rapid Onset Gender Dysphoriasta](https://podcasts.apple.com/us/podcast/rapid-onset-gender-dysphoria/id1535408667?i=1000655034746) - Kovan luokan tiedenörtit selittävät yleistajuisesti spekulatiivisen teorian, joka ohjaa Suomen transpolitiikkaa.
 - [The Anti-Trans Hate Machine: A Plot Against Equality -sarja](https://podcasts.apple.com/us/podcast/the-anti-trans-hate-machine-a-plot-against-equality/id1570901784) - Kertoo siitä, kuinka amerikkalaisen anti-trans liikkeen takana on paljon laajempi strategia liittyen esim. aborttikieltoon ja julkisen peruskoulutuksen alasajoon.
-- [Irreversible Damage from a cog psych perspective - Cass Eris](https://www.youtube.com/playlist?list=PLIK-x5uT6oS-jLoc8axeD_zZ_TDK0OTeb) - Kognitiivisen psykologin __hyvin__ syväluotaava katsaus anti-trans kirjaan, joka esiintyi hiljattain tieteellisen lähteen tavoin Tampereen yliopisto lääketieteen tiedukunnan tohtori [Elias Heinon väitöskirjassa](https://trepo.tuni.fi/bitstream/handle/10024/154016/978-952-03-3284-6.pdf]), sellaisten tieteellisten sanavalintojen kuten "so-called gender afffirming care" ja "so-called minority stress" seurassa. Saatavilla myös videoformaatissa ja jaettu jaksoihin, missä yksi käsittelee Suomalaisen transtutkimuksen suosikkilähdettä Kenneth Zuckeria.
+- [Irreversible Damage from a cog psych perspective - Cass Eris](https://www.youtube.com/playlist?list=PLIK-x5uT6oS-jLoc8axeD_zZ_TDK0OTeb) - Kognitiivisen psykologin __hyvin__ syväluotaava katsaus hyvin vaikutusvaltaiseen anti-trans kirjaan, johon Kaltiala on viitannut lausunnossa eduskunnan lakivaliokunnalle eheytyshoitokieltoon liittyen, ja löytyy myös Elias Heinon lääketieteen väitöskirjan viitteistä - jossa Kaltiala oli ohjaaja. Saatavilla myös videoformaatissa ja jaettu jaksoihin, missä yksi myös käsittelee Suomalaisen transtutkimuksen suosikkilähdettä Kenneth Zuckeria. 
 
 
 Videot:
-- [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System - Philosophy Tube](https://www.youtube.com/watch?v=v1eWIshUzr8) - Abigail Thornin kertoo sekä henkilökohtainen tarinan brittiläisen transhoidon haasteista, sekä laajemmasta kriisistä leikkauksien kanssa kamppailevasta julkisesta terveydenhuollosta.
-- [When You're Trans and Autistic - Swolesome](https://www.youtube.com/watch?v=wk0tOe83__g) - luinka autismia käytetään transmaskuliinisten syrjimiseen kahdesta eri kulmasta
-- [Autogynephilia - ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) -  Ray Blanchardin popolarisoimasta transmisogyynisesta teoriasta ja epäeettisistä- ja epätieteellisistä tutkimusmetodeista. Nimi joka tulee usein vastaan suomalaisissa transtutkimukisssa ja hoitosuosituksissa.
-- [The Anti-Trans Violence of Civility Politics - Jesse Gender](https://www.youtube.com/watch?v=-1TL9id26Ec&t=11s) Voisi luulla, että transasioilla ei olisi mitään yhteyttä systemaattiseen rasismiin ja rotutieteeseen. Mutta ensiksikin transsukupuolisuus ei ole valkoisille länsieurooppalaisille varattu identiteetti, ja toiseksi, katso video.
-- [How Conservatives Created (and Cancelled) Gender](https://www.youtube.com/watch?v=QLWKYTxLYT4) Mm. Cass Review'tä käsitellään tässä, eli siis terveyspolitiikkaa, jossa oli Suomalaiset tekijät mukana ja Suomen hoitosuositukset olivat yhdet ainoasta kahdesta tarpeeksi korkealaatuisia. 
+- [Debunking Transphobia](https://youtu.be/JiOc0r31-Os?si=iKvH0RgbOebQX0Rt) Kysyy, kuinka pääsimme hetkeen, jolloin transihmisistä on kyse kaikkialla. Pitää joskus annotoida tämä vajaan viiden tunnin video, koska se kuhisee Suomessa vierailleita tai muuten Kaltialan kanssa yhteistyötä tehneitä henkilöitä, joista on yhteyksiä Heritage Foundationiin, ADF:ään, ja jopa venäläiseen mediaan. Neljännen tunnin kohdalla käsitellään SEGMin syntyä. 
+- [Autogynephilia - ContraPoints](https://www.youtube.com/watch?v=6czRFLs5JQo) - Tämä kauan sitten tieteen romukoppaan lentänyt teoria oli syyskuussa 2025 SEGMin Berliinin tapahtuman keynote speakerina olleen filosofi/anti-trans aktivisti Kathleen Stockin aiheena. Berliinissä puhuivat myös sekä Kaltiala että HUSin aikuisten transpolin lääkäri, että tämä ei ole mitenkään vierasta tai etäistä asiaa. Video kertoo Ray Blanchardin popolarisoimasta transmisogyynisesta teoriasta ja epäeettisistä- ja epätieteellisistä tutkimusmetodeista. Anti-trans piireissä puhutaan "AGP":stä, kun ollaan esittämässä transnaisia vaarallisina fetisisteinä. Tämän sekä Debunking Transphobia -videoiden perusteella kyse saattaa Blanchardin kohdalla olla projektiosta. Blanchard on Suomessa Austismi ja sukupuolidysforia Käypä hoito suosityksien lähteissä-
+- [How Conservatives Created (and Cancelled) Gender](https://www.youtube.com/watch?v=QLWKYTxLYT4) Mm. Cass Review'tä käsitellään alkuosassa selkeästi, asiantuntijaa konsultoiden.
+- [I Emailed My Doctor 133 Times: The Crisis In the British Healthcare System - Philosophy Tube](https://www.youtube.com/watch?v=v1eWIshUzr8) Moni asiaan perehtymätön näkee valtion transpolin perimmäisesti edistykselliseltä asialta. Abigail Thornin kertoo sekä henkilökohtainen tarinan brittiläisen transhoidon haasteista, sekä laajemmasta kriisistä leikkauksien kanssa kamppailevasta julkisesta terveydenhuollosta. 
 
 
 ##  Riittakerttu Kaltiala <a id="kaltiala"></a>
