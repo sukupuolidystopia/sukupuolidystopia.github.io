@@ -1004,3 +1004,10 @@ body {
 #content {
   margin-top: 0;
 }
+
+@media (max-width: 850px) {
+    #content {
+        margin: 0 0.75rem 3rem;
+        padding: 1rem;
+    }
+}
