@@ -836,7 +836,7 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
-  margin: 5rem 0 3rem;A
+  margin: 5rem 0 3rem;
 }
 
 .resource-card {
