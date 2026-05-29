@@ -1011,3 +1011,43 @@ body {
         padding: 1rem;
     }
 }
+
+@media (max-width: 850px) {
+
+  .resource-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+
+  .lead {
+    font-size: 1rem;
+    line-height: 1.5;
+    max-width: 95%;
+  }
+
+  .resource-card {
+    padding: 0.8rem 1rem !important;
+    min-height: 120px;
+  }
+
+  .resource-card h2,
+  .resource-card h3 {
+    font-size: 1.15rem;
+  }
+
+  .resource-card p {
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+
+  .page-hero h1,
+  .directory-hero h1 {
+    font-size: 2.5rem;
+  }
+
+  #content {
+    margin: 0 0.5rem 3rem;
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
