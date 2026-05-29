@@ -1051,3 +1051,21 @@ body {
     font-size: 1rem;
   }
 }
+
+@media (max-width: 850px) {
+  .directory-hero {
+    padding: 2rem 1rem 0.75rem;
+  }
+
+  .directory-hero h1 {
+    margin-bottom: 0.75rem;
+  }
+
+  .lead {
+    margin-bottom: 0;
+  }
+
+  .resource-grid {
+    margin: 1.5rem 0 2rem;
+  }
+}
